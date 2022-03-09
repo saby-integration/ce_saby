@@ -3,5 +3,5 @@ SET SUBSYSTEM=áìè3
 SET DESCENT=301019
 
 cd ..
-v8unpack.exe -E bin\%PRODUCT%.%SUBSYSTEM%.%DESCENT%.cfe src\%SUBSYSTEM% --index cmd\%SUBSYSTEM%\index.%DESCENT%.json --descent %DESCENT%
+v8unpack.exe -E bin\%PRODUCT%.%SUBSYSTEM%.%DESCENT%.cfe src\%SUBSYSTEM% --index cmd\%SUBSYSTEM%\index.json --descent %DESCENT%
 pause
