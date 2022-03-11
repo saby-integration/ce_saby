@@ -1,5 +1,5 @@
 
-Функция local_helper_exec_method(context_params, __kwargs = Неопределено) Экспорт 
+Функция exec_method(context_params, __kwargs = Неопределено) Экспорт 
 	Перем headers, params, response_type, url, type_request, request_body_type, data;
 	kwargs = __kwargs;
 	params = Новый Структура;
@@ -240,7 +240,7 @@
 	Попытка
 		params = Новый Структура("Логин, Пароль", context_params.login, context_params.password);
 		url = context_params.api_url + "/auth/service/";
-		result = local_helper_exec_method(context_params, Новый Структура("url, method, params, auto_auth", url, "СБИС.Аутентифицировать", params, Ложь));
+		result = exec_method(context_params, Новый Структура("url, method, params, auto_auth", url, "СБИС.Аутентифицировать", params, Ложь));
 	Исключение
 		ИнфОбОшибке = ИнформацияОбОшибке();
 		//ВызватьИсключение(NewExtException(ИнфОбОшибке));		
