@@ -121,6 +121,25 @@
 	
 	Если Не Отказ И ТипЗнч(Коннекшин) = Тип("Соответствие") И ТипЗнч(Коннекшин["result"]) = Тип("Соответствие") И Коннекшин["result"]["id"] <> Неопределено Тогда
 		context_params.Вставить("ConnectionId", Коннекшин["result"]["id"]);
+		Если Коннекшин["result"]["name_connection"] = "" или Коннекшин["result"]["name_connection"] = Неопределено Тогда
+			ПараметрыМетода = Новый Структура("props, ini",
+			Новый Структура("id, name_connection",
+				Коннекшин["result"]["id"], "СБИС КЭДО"),
+			Неопределено);
+			Попытка
+				РеНейм = ТранспортСБИС.local_helper_exec_method(
+				context_params,
+				Новый Структура("url, method, params, auto_auth",
+					context_params.api_url+"/integration_config/service/",
+					"IntegrationConnection.WriteConnection",
+					ПараметрыМетода,
+					Истина,
+					)
+				);	
+			Исключение
+				ИнфОбОшибке = ИнформацияОбОшибке();	
+			КонецПопытки	
+		КонецЕсли;	
 	Иначе
 		Отказ = Истина;
 	КонецЕсли;
