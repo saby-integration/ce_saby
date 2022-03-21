@@ -14,6 +14,8 @@
 		context_param.Свойство("login", login);
 		context_param.Свойство("api_url", api_url);
 		context_param.Свойство("ConnectionId", ConnectionId);
+	Иначе
+		context_param = Новый Структура();
 	КонецЕсли;
 	
 	Если ПустаяСтрока(api_url)Тогда
@@ -42,7 +44,6 @@
 		ЭлементыФормы.Ошибка.Заголовок = "Не указан логин или пароль";
 		Возврат;
 	КонецЕсли;
-		
 	context_param.Вставить("login", login);
 	context_param.Вставить("password", password);
 	context_param.Вставить("api_url", api_url);
