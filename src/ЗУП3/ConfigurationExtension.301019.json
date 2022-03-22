@@ -1,5 +1,5 @@
 {
-  "v8unpack": "0.8.1",
+  "v8unpack": "0.8.2",
   "file_uuid": "838ee7f0-a3ca-4a7d-b79f-c09b91bc3144",
   "version": [
     "216",
@@ -12,7 +12,7 @@
   "copyinfo": [
     "2",
     "838ee7f0-a3ca-4a7d-b79f-c09b91bc3144",
-    "7NXjW3YV28fXX52m5+w4b7Zd/xPziWHmLUxW/6pf21t+jYc+SB6H/GEOovBTSkVYrfk2uiK5UmQkxigoS2H/ZmXQAMiYO+EhlIufiP8BWzVxCUnBDeh+woeZuVtiwINEqJKyDub39ow25kzpDT0iUIGUPqgPIJXDwpefOrB+iyy7a5V7k1MA+bRcDFJAjqqDVGK5sUHW6LLcVvasaVLfY2q+4/lvT4BHz8vGuAV6vWcSlmtGjDcKpa1/MGuUgjiD"
+    "7NXjW3YV28fXX52m5+w4b7Zd/xPziWHmLUxW/6pf21t+jYc+SB6H/GEOovBTSkVYrfk2uiK5UmQkxigoS2H/ZmXQAMiYO+EhlIufiP8BWzVxCUnBDeh+woeZuVtiwINEqJKyDub39ow25kzpDT0iUIDejCEfkDUg6zjOI9SXUjb0G1XbDKrEIfh6j6eBSOIJb5bhGaNKIpPf8W9NwTcJnq/ff32sSKHBX2KMEJgoi2cyQoN87+D6k84eUQk7TPUG"
   ],
   "data": [
     [
@@ -85,8 +85,8 @@
             "00000000-0000-0000-0000-000000000000",
             "96ebeed2-12a8-421c-a269-6bf8a9c49217",
             "0",
-            "\"\"",
-            "\"\"",
+            "\"СБИС\"",
+            "\"22.1234.11\"",
             "\"\"",
             "1",
             [
@@ -744,17 +744,14 @@
           ],
           [
             "0fe48980-252d-11d6-a3c7-0050bae0a776",
-            "12",
+            "9",
             "408e13ee-58fb-4dab-83a1-ec0f7615308b",
             "2c3aae51-656a-4d68-8bdb-ade4e31b3fb3",
             "66339229-dfcd-4525-9900-6d1faf81c5e4",
-            "2acdbd21-0f64-40a9-9211-d7ab968c0b4b",
-            "04fa6096-000a-437f-810e-1541c7788e58",
             "4f5749fd-807b-48a7-b2b3-e607f685dd60",
             "a58f5feb-62a7-4318-a1c6-8d94c4491d0a",
             "5e181f2a-7255-44c7-8956-dd437f11fa64",
-            "25f98acc-e109-4154-a545-4118cc78db8b",
-            "3a8d8211-fe0b-4f2e-8f52-37c058da442e",
+            "e02eab67-a599-474e-87f2-a9be4287f6ef",
             "93123114-bb93-4fc3-a123-9b2d97e73839",
             "55aec063-6e22-497d-ac31-cbe25b432c0a"
           ],
@@ -813,11 +810,12 @@
           ],
           [
             "7dcd43d9-aca5-4926-b549-1842e6a4e8cf",
-            "4",
+            "5",
             "1c0250bf-cba1-419f-8704-3b9837f75a95",
             "6cd0d95d-c551-438e-9553-809f2d4a62aa",
             "e4d701cb-e13d-4375-87a9-7d71ccd157e8",
-            "74ac43b4-3219-48fb-810f-13effc63f18f"
+            "74ac43b4-3219-48fb-810f-13effc63f18f",
+            "bd2b5fb1-2f0b-4881-9c74-acf1105e1ac7"
           ],
           [
             "857c4a91-e5f4-4fac-86ec-787626f1c108",
@@ -1062,8 +1060,7 @@
             ],
             [
               "07ee8426-87f1-11d5-b99c-0050bae0a95d",
-              "4",
-              "399f5027-4b83-41ac-9592-774b4483cca3",
+              "3",
               "604f1af6-14d9-4069-a086-5294dda73ce7",
               "bd835a18-b888-4d0a-89d8-984c5754c024",
               "369aeb73-ac34-41b0-ad61-796fed4dc1ef"
