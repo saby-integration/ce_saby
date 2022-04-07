@@ -1,3 +1,702 @@
 {
-   "version.txt": "version.txt"
+  "Catalog": {
+    "Saby_СостоянияОбъектов": {
+      "Catalog.json": "base\\Catalog\\Saby_СостоянияОбъектов\\Catalog.json",
+      "Catalog.mgr.1c": "base\\Catalog\\Saby_СостоянияОбъектов\\Catalog.mgr.1c"
+    },
+    "Организации": {
+      "Catalog.json": "base\\Catalog\\Организации\\Catalog.json"
+    },
+    "Сотрудники": {
+      "Catalog.json": "base\\Catalog\\Сотрудники\\Catalog.json"
+    },
+    "ФизическиеЛица": {
+      "Catalog.json": "base\\Catalog\\ФизическиеЛица\\Catalog.json"
+    }
+  },
+  "CommonCommand": {
+    "Saby_ОткрытьФормуНастроек.json": "base\\CommonCommand\\Saby_ОткрытьФормуНастроек.json",
+    "Saby_ОткрытьФормуНастроек.obj.1c": "base\\CommonCommand\\Saby_ОткрытьФормуНастроек.obj.1c"
+  },
+  "CommonForm": {
+    "Saby_ВыполнитьДействие": {
+      "Form.json": "base\\CommonForm\\Saby_ВыполнитьДействие\\Form.json",
+      "Form.form803.json": "base\\CommonForm\\Saby_ВыполнитьДействие\\Form.form803.json",
+      "Form.obj.1c": "base\\CommonForm\\Saby_ВыполнитьДействие\\Form.obj.1c"
+    },
+    "Saby_ДлительнаяОперация": {
+      "Form.json": "base\\CommonForm\\Saby_ДлительнаяОперация\\Form.json",
+      "Form.form803.json": "base\\CommonForm\\Saby_ДлительнаяОперация\\Form.form803.json",
+      "Form.obj.1c": "base\\CommonForm\\Saby_ДлительнаяОперация\\Form.obj.1c"
+    },
+    "Saby_ПодписатьДокументНовый": {
+      "Form.json": "base\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.json",
+      "Form.form803.json": "base\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.form803.json",
+      "Form.obj.1c": "base\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.obj.1c"
+    }
+  },
+  "CommonModule": {
+    "Saby_Core": {
+      "CommonModule.json": "base\\CommonModule\\Saby_Core\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_Core\\CommonModule.obj.1c"
+    },
+    "Saby_КолонкиСостояния": {
+      "CommonModule.json": "base\\CommonModule\\Saby_КолонкиСостояния\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_КолонкиСостояния\\CommonModule.obj.1c"
+    },
+    "Saby_КомандыОбменаДляФормыКлиент": {
+      "CommonModule.json": "base\\CommonModule\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.obj.1c"
+    },
+    "Saby_КомандыОбменаДляФормыСервер": {
+      "CommonModule.json": "base\\CommonModule\\Saby_КомандыОбменаДляФормыСервер\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_КомандыОбменаДляФормыСервер\\CommonModule.obj.1c"
+    },
+    "Saby_ФоновыеЗаданияКлиент": {
+      "CommonModule.json": "base\\CommonModule\\Saby_ФоновыеЗаданияКлиент\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_ФоновыеЗаданияКлиент\\CommonModule.obj.1c"
+    },
+    "Saby_ФоновыеЗаданияСервер": {
+      "CommonModule.json": "base\\CommonModule\\Saby_ФоновыеЗаданияСервер\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_ФоновыеЗаданияСервер\\CommonModule.obj.1c"
+    },
+    "ЗарплатаКадры": {
+      "CommonModule.json": "base\\CommonModule\\ЗарплатаКадры\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\ЗарплатаКадры\\CommonModule.obj.1c"
+    },
+    "ПодключаемыеКоманды": {
+      "CommonModule.json": "base\\CommonModule\\ПодключаемыеКоманды\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\ПодключаемыеКоманды\\CommonModule.obj.1c"
+    },
+    "ПодключаемыеКомандыПереопределяемый": {
+      "CommonModule.json": "base\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.obj.1c"
+    }
+  },
+  "CommonPicture": {
+    "Saby_ДлительнаяОперация48.bin": "base\\CommonPicture\\Saby_ДлительнаяОперация48.bin",
+    "Saby_ДлительнаяОперация48.json": "base\\CommonPicture\\Saby_ДлительнаяОперация48.json",
+    "Saby_Состояния.bin": "base\\CommonPicture\\Saby_Состояния.bin",
+    "Saby_Состояния.json": "base\\CommonPicture\\Saby_Состояния.json",
+    "КоллекцияСкрепка.json": "base\\CommonPicture\\КоллекцияСкрепка.json",
+    "Ошибка32.json": "base\\CommonPicture\\Ошибка32.json",
+    "Скрепка.json": "base\\CommonPicture\\Скрепка.json"
+  },
+  "ConfigurationExtension.json": "base\\ConfigurationExtension.json",
+  "DataProcessor": {
+    "СБИС": {
+      "DataProcessor.json": "base\\DataProcessor\\СБИС\\DataProcessor.json",
+      "DataProcessor.obj.1c": "base\\DataProcessor\\СБИС\\DataProcessor.obj.1c",
+      "Form": {
+        "Browser": {
+          "Form.json": "base\\DataProcessor\\СБИС\\Form\\Browser\\Form.json",
+          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\Browser\\Form.form803.json",
+          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\Browser\\Form.obj.1c"
+        },
+        "Вход": {
+          "Form.json": "base\\DataProcessor\\СБИС\\Form\\Вход\\Form.json",
+          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\Вход\\Form.form803.json",
+          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\Вход\\Form.obj.1c"
+        },
+        "ЗагрузкаПечатныхФормДокументов": {
+          "Form.json": "base\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.json",
+          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.form803.json",
+          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.obj.1c"
+        },
+        "Настройки": {
+          "Form.json": "base\\DataProcessor\\СБИС\\Form\\Настройки\\Form.json",
+          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\Настройки\\Form.form803.json",
+          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\Настройки\\Form.obj.1c"
+        }
+      }
+    }
+  },
+  "DefinedType": {
+    "ВладелецПрисоединенныхФайлов.json": "base\\DefinedType\\ВладелецПрисоединенныхФайлов.json",
+    "ДокументПоФизическомуЛицу.json": "base\\DefinedType\\ДокументПоФизическомуЛицу.json",
+    "Организация.json": "base\\DefinedType\\Организация.json"
+  },
+  "Document": {
+    "БольничныйЛист": {
+      "Document.json": "base\\Document\\БольничныйЛист\\Document.json"
+    },
+    "БронированиеГражданПребывающихВЗапасе": {
+      "Document.json": "base\\Document\\БронированиеГражданПребывающихВЗапасе\\Document.json"
+    },
+    "ВводНачальныхОстатковОтпусков": {
+      "Document.json": "base\\Document\\ВводНачальныхОстатковОтпусков\\Document.json"
+    },
+    "ВозвратИзОтпускаПоУходуЗаРебенком": {
+      "Document.json": "base\\Document\\ВозвратИзОтпускаПоУходуЗаРебенком\\Document.json"
+    },
+    "ВозвратНДФЛ": {
+      "Document.json": "base\\Document\\ВозвратНДФЛ\\Document.json"
+    },
+    "ВозвратСотрудникомЗадолженности": {
+      "Document.json": "base\\Document\\ВозвратСотрудникомЗадолженности\\Document.json"
+    },
+    "ВозмещениеБольничныхВЧастиФБ": {
+      "Document.json": "base\\Document\\ВозмещениеБольничныхВЧастиФБ\\Document.json"
+    },
+    "ВозмещениеРасходовФондомСоциальногоСтрахования": {
+      "Document.json": "base\\Document\\ВозмещениеРасходовФондомСоциальногоСтрахования\\Document.json"
+    },
+    "ВосстановлениеВДолжности": {
+      "Document.json": "base\\Document\\ВосстановлениеВДолжности\\Document.json"
+    },
+    "ВходящаяСправкаОЗаработкеДляРасчетаПособий": {
+      "Document.json": "base\\Document\\ВходящаяСправкаОЗаработкеДляРасчетаПособий\\Document.json"
+    },
+    "ВыдачаЗаймаСотруднику": {
+      "Document.json": "base\\Document\\ВыдачаЗаймаСотруднику\\Document.json"
+    },
+    "ВыплатаБывшимСотрудникам": {
+      "Document.json": "base\\Document\\ВыплатаБывшимСотрудникам\\Document.json"
+    },
+    "ВыплатаДепонированнойЗарплаты": {
+      "Document.json": "base\\Document\\ВыплатаДепонированнойЗарплаты\\Document.json"
+    },
+    "ВыплатыПоДоговорамОпеки": {
+      "Document.json": "base\\Document\\ВыплатыПоДоговорамОпеки\\Document.json"
+    },
+    "ГрафикОтпусков": {
+      "Document.json": "base\\Document\\ГрафикОтпусков\\Document.json"
+    },
+    "ДанныеДляРасчетаЗарплаты": {
+      "Document.json": "base\\Document\\ДанныеДляРасчетаЗарплаты\\Document.json"
+    },
+    "ДанныеОКорректировкеСведенийЗастрахованныхЛицСЗВ_КОРР": {
+      "Document.json": "base\\Document\\ДанныеОКорректировкеСведенийЗастрахованныхЛицСЗВ_КОРР\\Document.json"
+    },
+    "ДепонированиеЗарплаты": {
+      "Document.json": "base\\Document\\ДепонированиеЗарплаты\\Document.json"
+    },
+    "ДивидендыФизическимЛицам": {
+      "Document.json": "base\\Document\\ДивидендыФизическимЛицам\\Document.json"
+    },
+    "ДоговорАвторскогоЗаказа": {
+      "Document.json": "base\\Document\\ДоговорАвторскогоЗаказа\\Document.json"
+    },
+    "ДоговорЗаймаСотруднику": {
+      "Document.json": "base\\Document\\ДоговорЗаймаСотруднику\\Document.json"
+    },
+    "ДоговорРаботыУслуги": {
+      "Document.json": "base\\Document\\ДоговорРаботыУслуги\\Document.json"
+    },
+    "ДокументКадровогоЭДО": {
+      "Document.json": "base\\Document\\ДокументКадровогоЭДО\\Document.json"
+    },
+    "ДоходВНатуральнойФорме": {
+      "Document.json": "base\\Document\\ДоходВНатуральнойФорме\\Document.json"
+    },
+    "ЕдиновременноеПособиеЗаСчетФСС": {
+      "Document.json": "base\\Document\\ЕдиновременноеПособиеЗаСчетФСС\\Document.json"
+    },
+    "ЗапросВФССОПроверкеРаботодателя": {
+      "Document.json": "base\\Document\\ЗапросВФССОПроверкеРаботодателя\\Document.json"
+    },
+    "ЗапросНаВыпискуИзЕГРЮЛ_ЕГРИП": {
+      "Document.json": "base\\Document\\ЗапросНаВыпискуИзЕГРЮЛ_ЕГРИП\\Document.json"
+    },
+    "ЗапросНаИнформационноеОбслуживаниеНалогоплательщика": {
+      "Document.json": "base\\Document\\ЗапросНаИнформационноеОбслуживаниеНалогоплательщика\\Document.json"
+    },
+    "ЗапросНаИнформационноеОбслуживаниеСтрахователя": {
+      "Document.json": "base\\Document\\ЗапросНаИнформационноеОбслуживаниеСтрахователя\\Document.json"
+    },
+    "ЗаявкаНаЗакрытиеЛицевыхСчетовСотрудников": {
+      "Document.json": "base\\Document\\ЗаявкаНаЗакрытиеЛицевыхСчетовСотрудников\\Document.json"
+    },
+    "ЗаявкаНаОткрытиеЛицевыхСчетовСотрудников": {
+      "Document.json": "base\\Document\\ЗаявкаНаОткрытиеЛицевыхСчетовСотрудников\\Document.json"
+    },
+    "ЗаявлениеАбонентаСпецоператораСвязи": {
+      "Document.json": "base\\Document\\ЗаявлениеАбонентаСпецоператораСвязи\\Document.json"
+    },
+    "ЗаявлениеВФССОВозмещенииВыплатРодителямДетейИнвалидов": {
+      "Document.json": "base\\Document\\ЗаявлениеВФССОВозмещенииВыплатРодителямДетейИнвалидов\\Document.json"
+    },
+    "ЗаявлениеВФССОВозмещенииРасходовНаПогребение": {
+      "Document.json": "base\\Document\\ЗаявлениеВФССОВозмещенииРасходовНаПогребение\\Document.json"
+    },
+    "ЗаявлениеИЗапросВПФРОЗаработке": {
+      "Document.json": "base\\Document\\ЗаявлениеИЗапросВПФРОЗаработке\\Document.json"
+    },
+    "ЗаявлениеНаПредоставлениеСтандартныхВычетовПоНДФЛ": {
+      "Document.json": "base\\Document\\ЗаявлениеНаПредоставлениеСтандартныхВычетовПоНДФЛ\\Document.json"
+    },
+    "ЗаявлениеОПодтвержденииПраваНаЗачетАвансовПоНДФЛ": {
+      "Document.json": "base\\Document\\ЗаявлениеОПодтвержденииПраваНаЗачетАвансовПоНДФЛ\\Document.json"
+    },
+    "ЗаявлениеСотрудникаНаВыплатуПособия": {
+      "Document.json": "base\\Document\\ЗаявлениеСотрудникаНаВыплатуПособия\\Document.json"
+    },
+    "ЗаявленияОПредоставленииСведенийОТрудовойДеятельности": {
+      "Document.json": "base\\Document\\ЗаявленияОПредоставленииСведенийОТрудовойДеятельности\\Document.json"
+    },
+    "ЗаявленияПоЭлДокументооборотуСПФР": {
+      "Document.json": "base\\Document\\ЗаявленияПоЭлДокументооборотуСПФР\\Document.json"
+    },
+    "ИзвещениеФСС": {
+      "Document.json": "base\\Document\\ИзвещениеФСС\\Document.json"
+    },
+    "ИзменениеАванса": {
+      "Document.json": "base\\Document\\ИзменениеАванса\\Document.json"
+    },
+    "ИзменениеГрафикаРаботыСписком": {
+      "Document.json": "base\\Document\\ИзменениеГрафикаРаботыСписком\\Document.json"
+    },
+    "ИзменениеКвалификационногоРазряда": {
+      "Document.json": "base\\Document\\ИзменениеКвалификационногоРазряда\\Document.json"
+    },
+    "ИзменениеМестРаботы": {
+      "Document.json": "base\\Document\\ИзменениеМестРаботы\\Document.json"
+    },
+    "ИзменениеОплатыТруда": {
+      "Document.json": "base\\Document\\ИзменениеОплатыТруда\\Document.json"
+    },
+    "ИзменениеПлановыхНачислений": {
+      "Document.json": "base\\Document\\ИзменениеПлановыхНачислений\\Document.json"
+    },
+    "ИзменениеУсловийДоговораЗаймаСотруднику": {
+      "Document.json": "base\\Document\\ИзменениеУсловийДоговораЗаймаСотруднику\\Document.json"
+    },
+    "ИзменениеУсловийИсполнительногоЛиста": {
+      "Document.json": "base\\Document\\ИзменениеУсловийИсполнительногоЛиста\\Document.json"
+    },
+    "ИзменениеУсловийОплатыОтпускаПоУходуЗаРебенком": {
+      "Document.json": "base\\Document\\ИзменениеУсловийОплатыОтпускаПоУходуЗаРебенком\\Document.json"
+    },
+    "ИзменениеШтатногоРасписания": {
+      "Document.json": "base\\Document\\ИзменениеШтатногоРасписания\\Document.json"
+    },
+    "ИндексацияЗаработка": {
+      "Document.json": "base\\Document\\ИндексацияЗаработка\\Document.json"
+    },
+    "ИндексацияШтатногоРасписания": {
+      "Document.json": "base\\Document\\ИндексацияШтатногоРасписания\\Document.json"
+    },
+    "ИндивидуальныйГрафик": {
+      "Document.json": "base\\Document\\ИндивидуальныйГрафик\\Document.json"
+    },
+    "ИсполнительныйЛист": {
+      "Document.json": "base\\Document\\ИсполнительныйЛист\\Document.json"
+    },
+    "ИсходящаяСправкаОЗаработкеДляРасчетаПособий": {
+      "Document.json": "base\\Document\\ИсходящаяСправкаОЗаработкеДляРасчетаПособий\\Document.json"
+    },
+    "КадровыйПеревод": {
+      "Document.json": "base\\Document\\КадровыйПеревод\\Document.json"
+    },
+    "КадровыйПереводСписком": {
+      "Document.json": "base\\Document\\КадровыйПереводСписком\\Document.json"
+    },
+    "Командировка": {
+      "Document.json": "base\\Document\\Командировка\\Document.json"
+    },
+    "КомандировкиСотрудников": {
+      "Document.json": "base\\Document\\КомандировкиСотрудников\\Document.json"
+    },
+    "КомпенсацияЗаЗадержкуЗарплаты": {
+      "Document.json": "base\\Document\\КомпенсацияЗаЗадержкуЗарплаты\\Document.json"
+    },
+    "ЛистокСообщенияДляВоенкомата": {
+      "Document.json": "base\\Document\\ЛистокСообщенияДляВоенкомата\\Document.json"
+    },
+    "МатериальнаяПомощь": {
+      "Document.json": "base\\Document\\МатериальнаяПомощь\\Document.json"
+    },
+    "НазначениеПлановогоНачисления": {
+      "Document.json": "base\\Document\\НазначениеПлановогоНачисления\\Document.json"
+    },
+    "НазначениеПодработки": {
+      "Document.json": "base\\Document\\НазначениеПодработки\\Document.json"
+    },
+    "НачальнаяЗадолженностьПоЗарплате": {
+      "Document.json": "base\\Document\\НачальнаяЗадолженностьПоЗарплате\\Document.json"
+    },
+    "НачальнаяШтатнаяРасстановка": {
+      "Document.json": "base\\Document\\НачальнаяШтатнаяРасстановка\\Document.json"
+    },
+    "НачислениеЗаПервуюПоловинуМесяца": {
+      "Document.json": "base\\Document\\НачислениеЗаПервуюПоловинуМесяца\\Document.json"
+    },
+    "НачислениеЗарплаты": {
+      "Document.json": "base\\Document\\НачислениеЗарплаты\\Document.json"
+    },
+    "НачислениеОценочныхОбязательствПоОтпускам": {
+      "Document.json": "base\\Document\\НачислениеОценочныхОбязательствПоОтпускам\\Document.json"
+    },
+    "НачислениеПоДоговорам": {
+      "Document.json": "base\\Document\\НачислениеПоДоговорам\\Document.json"
+    },
+    "ОграничениеВзысканий": {
+      "Document.json": "base\\Document\\ОграничениеВзысканий\\Document.json"
+    },
+    "ОперацияНалоговогоУчетаПоНДФЛ": {
+      "Document.json": "base\\Document\\ОперацияНалоговогоУчетаПоНДФЛ\\Document.json"
+    },
+    "ОперацияУчетаПоСтраховымВзносам": {
+      "Document.json": "base\\Document\\ОперацияУчетаПоСтраховымВзносам\\Document.json"
+    },
+    "ОписьЗаявленийСотрудниковНаВыплатуПособий": {
+      "Document.json": "base\\Document\\ОписьЗаявленийСотрудниковНаВыплатуПособий\\Document.json"
+    },
+    "ОписьОДВ_1": {
+      "Document.json": "base\\Document\\ОписьОДВ_1\\Document.json"
+    },
+    "ОписьПачекСЗВ_6": {
+      "Document.json": "base\\Document\\ОписьПачекСЗВ_6\\Document.json"
+    },
+    "ОплатаДнейУходаЗаДетьмиИнвалидами": {
+      "Document.json": "base\\Document\\ОплатаДнейУходаЗаДетьмиИнвалидами\\Document.json"
+    },
+    "ОплатаПоСреднемуЗаработку": {
+      "Document.json": "base\\Document\\ОплатаПоСреднемуЗаработку\\Document.json"
+    },
+    "ОплатаПоСреднемуЗаработкуСписком": {
+      "Document.json": "base\\Document\\ОплатаПоСреднемуЗаработкуСписком\\Document.json"
+    },
+    "Отгул": {
+      "Document.json": "base\\Document\\Отгул\\Document.json"
+    },
+    "ОтгулСписком": {
+      "Document.json": "base\\Document\\ОтгулСписком\\Document.json"
+    },
+    "ОтзывЗаявленийОПредоставленииСведенийОТрудовойДеятельности": {
+      "Document.json": "base\\Document\\ОтзывЗаявленийОПредоставленииСведенийОТрудовойДеятельности\\Document.json"
+    },
+    "ОтзывСогласияНаОбработкуПерсональныхДанных": {
+      "Document.json": "base\\Document\\ОтзывСогласияНаОбработкуПерсональныхДанных\\Document.json"
+    },
+    "ОтзывСогласияНаУведомлениеОбЭЛН": {
+      "Document.json": "base\\Document\\ОтзывСогласияНаУведомлениеОбЭЛН\\Document.json"
+    },
+    "ОтменаБронированияГражданПребывающихВЗапасе": {
+      "Document.json": "base\\Document\\ОтменаБронированияГражданПребывающихВЗапасе\\Document.json"
+    },
+    "ОтменаДоплатыДоСреднегоЗаработка": {
+      "Document.json": "base\\Document\\ОтменаДоплатыДоСреднегоЗаработка\\Document.json"
+    },
+    "ОтменаСовмещения": {
+      "Document.json": "base\\Document\\ОтменаСовмещения\\Document.json"
+    },
+    "Отпуск": {
+      "Document.json": "base\\Document\\Отпуск\\Document.json"
+    },
+    "ОтпускаСотрудников": {
+      "Document.json": "base\\Document\\ОтпускаСотрудников\\Document.json"
+    },
+    "ОтпускБезСохраненияОплаты": {
+      "Document.json": "base\\Document\\ОтпускБезСохраненияОплаты\\Document.json"
+    },
+    "ОтпускБезСохраненияОплатыСписком": {
+      "Document.json": "base\\Document\\ОтпускБезСохраненияОплатыСписком\\Document.json"
+    },
+    "ОтпускПоУходуЗаРебенком": {
+      "Document.json": "base\\Document\\ОтпускПоУходуЗаРебенком\\Document.json"
+    },
+    "ОтражениеЗарплатыВБухучете": {
+      "Document.json": "base\\Document\\ОтражениеЗарплатыВБухучете\\Document.json"
+    },
+    "ПакетОбменСБанками": {
+      "Document.json": "base\\Document\\ПакетОбменСБанками\\Document.json"
+    },
+    "ПачкаДокументовАДВ_1": {
+      "Document.json": "base\\Document\\ПачкаДокументовАДВ_1\\Document.json"
+    },
+    "ПачкаДокументовАДВ_2": {
+      "Document.json": "base\\Document\\ПачкаДокументовАДВ_2\\Document.json"
+    },
+    "ПачкаДокументовАДВ_3": {
+      "Document.json": "base\\Document\\ПачкаДокументовАДВ_3\\Document.json"
+    },
+    "ПачкаДокументовДСВ_1": {
+      "Document.json": "base\\Document\\ПачкаДокументовДСВ_1\\Document.json"
+    },
+    "ПачкаДокументовСЗВ_6_1": {
+      "Document.json": "base\\Document\\ПачкаДокументовСЗВ_6_1\\Document.json"
+    },
+    "ПачкаДокументовСЗВ_6_3": {
+      "Document.json": "base\\Document\\ПачкаДокументовСЗВ_6_3\\Document.json"
+    },
+    "ПачкаДокументовСЗВ_6_4": {
+      "Document.json": "base\\Document\\ПачкаДокументовСЗВ_6_4\\Document.json"
+    },
+    "ПачкаДокументовСЗВ_К": {
+      "Document.json": "base\\Document\\ПачкаДокументовСЗВ_К\\Document.json"
+    },
+    "ПачкаДокументовСПВ_1": {
+      "Document.json": "base\\Document\\ПачкаДокументовСПВ_1\\Document.json"
+    },
+    "ПачкаДокументовСПВ_2": {
+      "Document.json": "base\\Document\\ПачкаДокументовСПВ_2\\Document.json"
+    },
+    "ПачкаРазделов6РасчетаРСВ_1": {
+      "Document.json": "base\\Document\\ПачкаРазделов6РасчетаРСВ_1\\Document.json"
+    },
+    "ПереводКДругомуРаботодателю": {
+      "Document.json": "base\\Document\\ПереводКДругомуРаботодателю\\Document.json"
+    },
+    "ПереводНаОплатуПоСреднемуЗаработку": {
+      "Document.json": "base\\Document\\ПереводНаОплатуПоСреднемуЗаработку\\Document.json"
+    },
+    "ПереводНаРаботуСКоронавирусом": {
+      "Document.json": "base\\Document\\ПереводНаРаботуСКоронавирусом\\Document.json"
+    },
+    "ПеремещениеВДругоеПодразделение": {
+      "Document.json": "base\\Document\\ПеремещениеВДругоеПодразделение\\Document.json"
+    },
+    "ПеремещениеМеждуТерриториями": {
+      "Document.json": "base\\Document\\ПеремещениеМеждуТерриториями\\Document.json"
+    },
+    "ПереносДанных": {
+      "Document.json": "base\\Document\\ПереносДанных\\Document.json"
+    },
+    "ПереносЗатратНаПерсоналМеждуСтатьями": {
+      "Document.json": "base\\Document\\ПереносЗатратНаПерсоналМеждуСтатьями\\Document.json"
+    },
+    "ПереносОтпуска": {
+      "Document.json": "base\\Document\\ПереносОтпуска\\Document.json"
+    },
+    "ПерерасчетНДФЛ": {
+      "Document.json": "base\\Document\\ПерерасчетНДФЛ\\Document.json"
+    },
+    "ПерерасчетСтраховыхВзносов": {
+      "Document.json": "base\\Document\\ПерерасчетСтраховыхВзносов\\Document.json"
+    },
+    "ПеречислениеНДФЛВБюджет": {
+      "Document.json": "base\\Document\\ПеречислениеНДФЛВБюджет\\Document.json"
+    },
+    "ПериодыОплаченныеДоНачалаЭксплуатации": {
+      "Document.json": "base\\Document\\ПериодыОплаченныеДоНачалаЭксплуатации\\Document.json"
+    },
+    "ПисьмоОбменСБанками": {
+      "Document.json": "base\\Document\\ПисьмоОбменСБанками\\Document.json"
+    },
+    "ПлатежноеПоручение": {
+      "Document.json": "base\\Document\\ПлатежноеПоручение\\Document.json"
+    },
+    "ПогашениеЗадолженностиПоВзысканиям": {
+      "Document.json": "base\\Document\\ПогашениеЗадолженностиПоВзысканиям\\Document.json"
+    },
+    "ПогашениеЗаймаСотруднику": {
+      "Document.json": "base\\Document\\ПогашениеЗаймаСотруднику\\Document.json"
+    },
+    "ПодтверждениеВыплатыДоходов": {
+      "Document.json": "base\\Document\\ПодтверждениеВыплатыДоходов\\Document.json"
+    },
+    "ПодтверждениеЗачисленияЗарплаты": {
+      "Document.json": "base\\Document\\ПодтверждениеЗачисленияЗарплаты\\Document.json"
+    },
+    "ПодтверждениеОткрытияЛицевыхСчетовСотрудников": {
+      "Document.json": "base\\Document\\ПодтверждениеОткрытияЛицевыхСчетовСотрудников\\Document.json"
+    },
+    "ПостоянноеУдержаниеВПользуТретьихЛиц": {
+      "Document.json": "base\\Document\\ПостоянноеУдержаниеВПользуТретьихЛиц\\Document.json"
+    },
+    "ПоясненияКДекларацииПоНДС": {
+      "Document.json": "base\\Document\\ПоясненияКДекларацииПоНДС\\Document.json"
+    },
+    "ПрекращениеПлановогоНачисления": {
+      "Document.json": "base\\Document\\ПрекращениеПлановогоНачисления\\Document.json"
+    },
+    "ПрекращениеПодработки": {
+      "Document.json": "base\\Document\\ПрекращениеПодработки\\Document.json"
+    },
+    "ПрекращениеСтандартныхВычетовНДФЛ": {
+      "Document.json": "base\\Document\\ПрекращениеСтандартныхВычетовНДФЛ\\Document.json"
+    },
+    "Премия": {
+      "Document.json": "base\\Document\\Премия\\Document.json"
+    },
+    "ПриемНаРаботу": {
+      "Document.json": "base\\Document\\ПриемНаРаботу\\Document.json",
+      "Document.obj.1c": "base\\Document\\ПриемНаРаботу\\Document.obj.1c"
+    },
+    "ПриемНаРаботуСписком": {
+      "Document.json": "base\\Document\\ПриемНаРаботуСписком\\Document.json"
+    },
+    "ПризПодарок": {
+      "Document.json": "base\\Document\\ПризПодарок\\Document.json"
+    },
+    "ПриказНаДоплатуДоСреднегоЗаработка": {
+      "Document.json": "base\\Document\\ПриказНаДоплатуДоСреднегоЗаработка\\Document.json"
+    },
+    "ПрогулНеявка": {
+      "Document.json": "base\\Document\\ПрогулНеявка\\Document.json"
+    },
+    "ПрогулНеявкаСписком": {
+      "Document.json": "base\\Document\\ПрогулНеявкаСписком\\Document.json"
+    },
+    "ПродлениеКонтрактаДоговора": {
+      "Document.json": "base\\Document\\ПродлениеКонтрактаДоговора\\Document.json"
+    },
+    "ПростойСотрудников": {
+      "Document.json": "base\\Document\\ПростойСотрудников\\Document.json"
+    },
+    "РаботаВВыходныеИПраздничныеДни": {
+      "Document.json": "base\\Document\\РаботаВВыходныеИПраздничныеДни\\Document.json"
+    },
+    "РаботаСверхурочно": {
+      "Document.json": "base\\Document\\РаботаСверхурочно\\Document.json"
+    },
+    "РазовоеНачисление": {
+      "Document.json": "base\\Document\\РазовоеНачисление\\Document.json"
+    },
+    "РаспределениеОсновногоЗаработка": {
+      "Document.json": "base\\Document\\РаспределениеОсновногоЗаработка\\Document.json"
+    },
+    "РегистрацияПереработок": {
+      "Document.json": "base\\Document\\РегистрацияПереработок\\Document.json"
+    },
+    "РегистрацияПрочихДоходов": {
+      "Document.json": "base\\Document\\РегистрацияПрочихДоходов\\Document.json"
+    },
+    "РегистрацияТрудовойДеятельности": {
+      "Document.json": "base\\Document\\РегистрацияТрудовойДеятельности\\Document.json"
+    },
+    "РегламентированныйОтчет": {
+      "Document.json": "base\\Document\\РегламентированныйОтчет\\Document.json"
+    },
+    "РеестрДанныхЭЛНЗаполняемыхРаботодателем": {
+      "Document.json": "base\\Document\\РеестрДанныхЭЛНЗаполняемыхРаботодателем\\Document.json"
+    },
+    "РеестрДСВ_3": {
+      "Document.json": "base\\Document\\РеестрДСВ_3\\Document.json"
+    },
+    "РеестрСведенийНеобходимыхДляНазначенияИВыплатыПособий": {
+      "Document.json": "base\\Document\\РеестрСведенийНеобходимыхДляНазначенияИВыплатыПособий\\Document.json"
+    },
+    "РеестрСЗВ_6_2": {
+      "Document.json": "base\\Document\\РеестрСЗВ_6_2\\Document.json"
+    },
+    "РеестрСтимулирующихВыплатМедицинскимИСоциальнымРаботникам": {
+      "Document.json": "base\\Document\\РеестрСтимулирующихВыплатМедицинскимИСоциальнымРаботникам\\Document.json"
+    },
+    "СведенияОЗаработкеСтажеЗастрахованныхЛицСЗВ_ИСХ": {
+      "Document.json": "base\\Document\\СведенияОЗаработкеСтажеЗастрахованныхЛицСЗВ_ИСХ\\Document.json"
+    },
+    "СведенияОЗастрахованныхЛицахСЗВ_М": {
+      "Document.json": "base\\Document\\СведенияОЗастрахованныхЛицахСЗВ_М\\Document.json"
+    },
+    "СведенияОНезачисленнойЗарплате": {
+      "Document.json": "base\\Document\\СведенияОНезачисленнойЗарплате\\Document.json"
+    },
+    "СведенияОСтраховомСтажеЗастрахованныхЛицСЗВ_СТАЖ": {
+      "Document.json": "base\\Document\\СведенияОСтраховомСтажеЗастрахованныхЛицСЗВ_СТАЖ\\Document.json"
+    },
+    "СведенияОТрудовойДеятельностиРаботникаСТД_Р": {
+      "Document.json": "base\\Document\\СведенияОТрудовойДеятельностиРаботникаСТД_Р\\Document.json"
+    },
+    "СведенияОТрудовойДеятельностиРаботниковСЗВ_ТД": {
+      "Document.json": "base\\Document\\СведенияОТрудовойДеятельностиРаботниковСЗВ_ТД\\Document.json"
+    },
+    "Совмещение": {
+      "Document.json": "base\\Document\\Совмещение\\Document.json"
+    },
+    "СогласиеНаОбработкуПерсональныхДанных": {
+      "Document.json": "base\\Document\\СогласиеНаОбработкуПерсональныхДанных\\Document.json"
+    },
+    "СогласиеНаУведомлениеОбЭЛН": {
+      "Document.json": "base\\Document\\СогласиеНаУведомлениеОбЭЛН\\Document.json"
+    },
+    "СообщениеОбменСБанками": {
+      "Document.json": "base\\Document\\СообщениеОбменСБанками\\Document.json"
+    },
+    "СписаниеДепонированнойЗарплаты": {
+      "Document.json": "base\\Document\\СписаниеДепонированнойЗарплаты\\Document.json"
+    },
+    "СправкаНДФЛ": {
+      "Document.json": "base\\Document\\СправкаНДФЛ\\Document.json"
+    },
+    "СправкиНДФЛДляПередачиВНалоговыйОрган": {
+      "Document.json": "base\\Document\\СправкиНДФЛДляПередачиВНалоговыйОрган\\Document.json"
+    },
+    "СправкиПоНДФЛДляРасчетаПоНалогуНаПрибыль": {
+      "Document.json": "base\\Document\\СправкиПоНДФЛДляРасчетаПоНалогуНаПрибыль\\Document.json"
+    },
+    "СторнированиеНачислений": {
+      "Document.json": "base\\Document\\СторнированиеНачислений\\Document.json"
+    },
+    "ТабельУчетаРабочегоВремени": {
+      "Document.json": "base\\Document\\ТабельУчетаРабочегоВремени\\Document.json"
+    },
+    "УведомлениеОПолучателеДокументов": {
+      "Document.json": "base\\Document\\УведомлениеОПолучателеДокументов\\Document.json"
+    },
+    "УведомлениеОПравеНаИмущественныйВычетДляНДФЛ": {
+      "Document.json": "base\\Document\\УведомлениеОПравеНаИмущественныйВычетДляНДФЛ\\Document.json"
+    },
+    "УведомлениеОПрекращенииОтпускаПоУходуЗаРебенком": {
+      "Document.json": "base\\Document\\УведомлениеОПрекращенииОтпускаПоУходуЗаРебенком\\Document.json"
+    },
+    "УведомлениеОСпецрежимахНалогообложения": {
+      "Document.json": "base\\Document\\УведомлениеОСпецрежимахНалогообложения\\Document.json"
+    },
+    "Увольнение": {
+      "Document.json": "base\\Document\\Увольнение\\Document.json"
+    },
+    "УвольнениеСписком": {
+      "Document.json": "base\\Document\\УвольнениеСписком\\Document.json"
+    },
+    "УдалитьЗапросНаВыпискуИзЕГРЮЛ_ЕГРИП": {
+      "Document.json": "base\\Document\\УдалитьЗапросНаВыпискуИзЕГРЮЛ_ЕГРИП\\Document.json"
+    },
+    "УдалитьЗапросНаИнформационноеОбслуживаниеНалогоплательщика": {
+      "Document.json": "base\\Document\\УдалитьЗапросНаИнформационноеОбслуживаниеНалогоплательщика\\Document.json"
+    },
+    "УдалитьЗаявлениеАбонентаСпецоператораСвязи": {
+      "Document.json": "base\\Document\\УдалитьЗаявлениеАбонентаСпецоператораСвязи\\Document.json"
+    },
+    "УдержаниеВСчетРасчетовПоПрочимОперациям": {
+      "Document.json": "base\\Document\\УдержаниеВСчетРасчетовПоПрочимОперациям\\Document.json"
+    },
+    "УдержаниеДобровольныхВзносовВНПФ": {
+      "Document.json": "base\\Document\\УдержаниеДобровольныхВзносовВНПФ\\Document.json"
+    },
+    "УдержаниеДобровольныхСтраховыхВзносов": {
+      "Document.json": "base\\Document\\УдержаниеДобровольныхСтраховыхВзносов\\Document.json"
+    },
+    "УдержаниеПрофсоюзныхВзносов": {
+      "Document.json": "base\\Document\\УдержаниеПрофсоюзныхВзносов\\Document.json"
+    },
+    "УплатаСтраховыхВзносовВФонды": {
+      "Document.json": "base\\Document\\УплатаСтраховыхВзносовВФонды\\Document.json"
+    },
+    "УтверждениеШтатногоРасписания": {
+      "Document.json": "base\\Document\\УтверждениеШтатногоРасписания\\Document.json"
+    },
+    "ХодатайствоОБронированииГражданПребывающихВЗапасе": {
+      "Document.json": "base\\Document\\ХодатайствоОБронированииГражданПребывающихВЗапасе\\Document.json"
+    }
+  },
+  "InformationRegister": {
+    "Saby_Состояние": {
+      "InformationRegister.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegister.json",
+      "InformationRegister.mgr.1c": "base\\InformationRegister\\Saby_Состояние\\InformationRegister.mgr.1c",
+      "InformationRegisterForm": {
+        "ФормаЗаписи": {
+          "Form.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.json",
+          "Form.form803.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.form803.json"
+        },
+        "ФормаСписка": {
+          "Form.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.json",
+          "Form.form803.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.form803.json"
+        }
+      }
+    }
+  },
+  "Language": {
+    "Русский.json": ""
+  },
+  "Role": {
+    "Saby_ОсновнаяРоль.json": "base\\Role\\Saby_ОсновнаяРоль.json"
+  },
+  "Subsystem": {
+    "Администрирование": {
+      "Subsystem.json": "base\\Subsystem\\Администрирование\\Subsystem.json"
+    }
+  },
+  "version.txt": "base\\version.txt"
 }
