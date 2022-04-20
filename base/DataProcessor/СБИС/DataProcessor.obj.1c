@@ -5,6 +5,10 @@
 #Область include_BlocklyExecutor_src_API
 #КонецОбласти
 
+#Область include_core_ДлительныеОперации
+#КонецОбласти
+
+
 #Область include_BlocklyExecutor_src_Executor
 #КонецОбласти
 
@@ -25,7 +29,7 @@
 
 #Область include_BlocklySabyBlocks_src_Blocks
 #КонецОбласти
-#КонецОбласти
+
 
 #Область include_BlocklySabyBlocks_src_LocalHelper
 #КонецОбласти

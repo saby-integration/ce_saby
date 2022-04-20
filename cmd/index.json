@@ -1,4 +1,7 @@
 {
+  "Области include":{
+	"core_ДлительныеОперации": "core_ДлительныеОперации_Расширение"  
+  },
   "Catalog": {
     "Saby_СостоянияОбъектов": {
       "Catalog.json": "base\\Catalog\\Saby_СостоянияОбъектов\\Catalog.json",
@@ -698,5 +701,5 @@
       "Subsystem.json": "base\\Subsystem\\Администрирование\\Subsystem.json"
     }
   },
-  "version.txt": "base\\version.txt"
+  "version.txt": "version.txt"
 }
