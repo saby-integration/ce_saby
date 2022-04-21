@@ -83,6 +83,7 @@
     "Saby_Состояния.json": "base\\CommonPicture\\Saby_Состояния.json",
     "КоллекцияСкрепка.json": "base\\CommonPicture\\КоллекцияСкрепка.json",
     "Ошибка32.json": "base\\CommonPicture\\Ошибка32.json",
+    "Успешно32.json": "base\\CommonPicture\\Успешно32.json",
     "Скрепка.json": "base\\CommonPicture\\Скрепка.json"
   },
   "ConfigurationExtension.json": "base\\ConfigurationExtension.json",
@@ -132,119 +133,14 @@
     "ВозвратИзОтпускаПоУходуЗаРебенком": {
       "Document.json": "base\\Document\\ВозвратИзОтпускаПоУходуЗаРебенком\\Document.json"
     },
-    "ВозвратНДФЛ": {
-      "Document.json": "base\\Document\\ВозвратНДФЛ\\Document.json"
-    },
-    "ВозвратСотрудникомЗадолженности": {
-      "Document.json": "base\\Document\\ВозвратСотрудникомЗадолженности\\Document.json"
-    },
-    "ВозмещениеБольничныхВЧастиФБ": {
-      "Document.json": "base\\Document\\ВозмещениеБольничныхВЧастиФБ\\Document.json"
-    },
-    "ВозмещениеРасходовФондомСоциальногоСтрахования": {
-      "Document.json": "base\\Document\\ВозмещениеРасходовФондомСоциальногоСтрахования\\Document.json"
-    },
     "ВосстановлениеВДолжности": {
       "Document.json": "base\\Document\\ВосстановлениеВДолжности\\Document.json"
-    },
-    "ВходящаяСправкаОЗаработкеДляРасчетаПособий": {
-      "Document.json": "base\\Document\\ВходящаяСправкаОЗаработкеДляРасчетаПособий\\Document.json"
-    },
-    "ВыдачаЗаймаСотруднику": {
-      "Document.json": "base\\Document\\ВыдачаЗаймаСотруднику\\Document.json"
-    },
-    "ВыплатаБывшимСотрудникам": {
-      "Document.json": "base\\Document\\ВыплатаБывшимСотрудникам\\Document.json"
-    },
-    "ВыплатаДепонированнойЗарплаты": {
-      "Document.json": "base\\Document\\ВыплатаДепонированнойЗарплаты\\Document.json"
-    },
-    "ВыплатыПоДоговорамОпеки": {
-      "Document.json": "base\\Document\\ВыплатыПоДоговорамОпеки\\Document.json"
     },
     "ГрафикОтпусков": {
       "Document.json": "base\\Document\\ГрафикОтпусков\\Document.json"
     },
-    "ДанныеДляРасчетаЗарплаты": {
-      "Document.json": "base\\Document\\ДанныеДляРасчетаЗарплаты\\Document.json"
-    },
-    "ДанныеОКорректировкеСведенийЗастрахованныхЛицСЗВ_КОРР": {
-      "Document.json": "base\\Document\\ДанныеОКорректировкеСведенийЗастрахованныхЛицСЗВ_КОРР\\Document.json"
-    },
-    "ДепонированиеЗарплаты": {
-      "Document.json": "base\\Document\\ДепонированиеЗарплаты\\Document.json"
-    },
-    "ДивидендыФизическимЛицам": {
-      "Document.json": "base\\Document\\ДивидендыФизическимЛицам\\Document.json"
-    },
-    "ДоговорАвторскогоЗаказа": {
-      "Document.json": "base\\Document\\ДоговорАвторскогоЗаказа\\Document.json"
-    },
-    "ДоговорЗаймаСотруднику": {
-      "Document.json": "base\\Document\\ДоговорЗаймаСотруднику\\Document.json"
-    },
     "ДоговорРаботыУслуги": {
       "Document.json": "base\\Document\\ДоговорРаботыУслуги\\Document.json"
-    },
-    "ДокументКадровогоЭДО": {
-      "Document.json": "base\\Document\\ДокументКадровогоЭДО\\Document.json"
-    },
-    "ДоходВНатуральнойФорме": {
-      "Document.json": "base\\Document\\ДоходВНатуральнойФорме\\Document.json"
-    },
-    "ЕдиновременноеПособиеЗаСчетФСС": {
-      "Document.json": "base\\Document\\ЕдиновременноеПособиеЗаСчетФСС\\Document.json"
-    },
-    "ЗапросВФССОПроверкеРаботодателя": {
-      "Document.json": "base\\Document\\ЗапросВФССОПроверкеРаботодателя\\Document.json"
-    },
-    "ЗапросНаВыпискуИзЕГРЮЛ_ЕГРИП": {
-      "Document.json": "base\\Document\\ЗапросНаВыпискуИзЕГРЮЛ_ЕГРИП\\Document.json"
-    },
-    "ЗапросНаИнформационноеОбслуживаниеНалогоплательщика": {
-      "Document.json": "base\\Document\\ЗапросНаИнформационноеОбслуживаниеНалогоплательщика\\Document.json"
-    },
-    "ЗапросНаИнформационноеОбслуживаниеСтрахователя": {
-      "Document.json": "base\\Document\\ЗапросНаИнформационноеОбслуживаниеСтрахователя\\Document.json"
-    },
-    "ЗаявкаНаЗакрытиеЛицевыхСчетовСотрудников": {
-      "Document.json": "base\\Document\\ЗаявкаНаЗакрытиеЛицевыхСчетовСотрудников\\Document.json"
-    },
-    "ЗаявкаНаОткрытиеЛицевыхСчетовСотрудников": {
-      "Document.json": "base\\Document\\ЗаявкаНаОткрытиеЛицевыхСчетовСотрудников\\Document.json"
-    },
-    "ЗаявлениеАбонентаСпецоператораСвязи": {
-      "Document.json": "base\\Document\\ЗаявлениеАбонентаСпецоператораСвязи\\Document.json"
-    },
-    "ЗаявлениеВФССОВозмещенииВыплатРодителямДетейИнвалидов": {
-      "Document.json": "base\\Document\\ЗаявлениеВФССОВозмещенииВыплатРодителямДетейИнвалидов\\Document.json"
-    },
-    "ЗаявлениеВФССОВозмещенииРасходовНаПогребение": {
-      "Document.json": "base\\Document\\ЗаявлениеВФССОВозмещенииРасходовНаПогребение\\Document.json"
-    },
-    "ЗаявлениеИЗапросВПФРОЗаработке": {
-      "Document.json": "base\\Document\\ЗаявлениеИЗапросВПФРОЗаработке\\Document.json"
-    },
-    "ЗаявлениеНаПредоставлениеСтандартныхВычетовПоНДФЛ": {
-      "Document.json": "base\\Document\\ЗаявлениеНаПредоставлениеСтандартныхВычетовПоНДФЛ\\Document.json"
-    },
-    "ЗаявлениеОПодтвержденииПраваНаЗачетАвансовПоНДФЛ": {
-      "Document.json": "base\\Document\\ЗаявлениеОПодтвержденииПраваНаЗачетАвансовПоНДФЛ\\Document.json"
-    },
-    "ЗаявлениеСотрудникаНаВыплатуПособия": {
-      "Document.json": "base\\Document\\ЗаявлениеСотрудникаНаВыплатуПособия\\Document.json"
-    },
-    "ЗаявленияОПредоставленииСведенийОТрудовойДеятельности": {
-      "Document.json": "base\\Document\\ЗаявленияОПредоставленииСведенийОТрудовойДеятельности\\Document.json"
-    },
-    "ЗаявленияПоЭлДокументооборотуСПФР": {
-      "Document.json": "base\\Document\\ЗаявленияПоЭлДокументооборотуСПФР\\Document.json"
-    },
-    "ИзвещениеФСС": {
-      "Document.json": "base\\Document\\ИзвещениеФСС\\Document.json"
-    },
-    "ИзменениеАванса": {
-      "Document.json": "base\\Document\\ИзменениеАванса\\Document.json"
     },
     "ИзменениеГрафикаРаботыСписком": {
       "Document.json": "base\\Document\\ИзменениеГрафикаРаботыСписком\\Document.json"
@@ -261,12 +157,6 @@
     "ИзменениеПлановыхНачислений": {
       "Document.json": "base\\Document\\ИзменениеПлановыхНачислений\\Document.json"
     },
-    "ИзменениеУсловийДоговораЗаймаСотруднику": {
-      "Document.json": "base\\Document\\ИзменениеУсловийДоговораЗаймаСотруднику\\Document.json"
-    },
-    "ИзменениеУсловийИсполнительногоЛиста": {
-      "Document.json": "base\\Document\\ИзменениеУсловийИсполнительногоЛиста\\Document.json"
-    },
     "ИзменениеУсловийОплатыОтпускаПоУходуЗаРебенком": {
       "Document.json": "base\\Document\\ИзменениеУсловийОплатыОтпускаПоУходуЗаРебенком\\Document.json"
     },
@@ -282,12 +172,6 @@
     "ИндивидуальныйГрафик": {
       "Document.json": "base\\Document\\ИндивидуальныйГрафик\\Document.json"
     },
-    "ИсполнительныйЛист": {
-      "Document.json": "base\\Document\\ИсполнительныйЛист\\Document.json"
-    },
-    "ИсходящаяСправкаОЗаработкеДляРасчетаПособий": {
-      "Document.json": "base\\Document\\ИсходящаяСправкаОЗаработкеДляРасчетаПособий\\Document.json"
-    },
     "КадровыйПеревод": {
       "Document.json": "base\\Document\\КадровыйПеревод\\Document.json"
     },
@@ -300,59 +184,11 @@
     "КомандировкиСотрудников": {
       "Document.json": "base\\Document\\КомандировкиСотрудников\\Document.json"
     },
-    "КомпенсацияЗаЗадержкуЗарплаты": {
-      "Document.json": "base\\Document\\КомпенсацияЗаЗадержкуЗарплаты\\Document.json"
-    },
-    "ЛистокСообщенияДляВоенкомата": {
-      "Document.json": "base\\Document\\ЛистокСообщенияДляВоенкомата\\Document.json"
-    },
-    "МатериальнаяПомощь": {
-      "Document.json": "base\\Document\\МатериальнаяПомощь\\Document.json"
-    },
-    "НазначениеПлановогоНачисления": {
-      "Document.json": "base\\Document\\НазначениеПлановогоНачисления\\Document.json"
-    },
     "НазначениеПодработки": {
       "Document.json": "base\\Document\\НазначениеПодработки\\Document.json"
     },
-    "НачальнаяЗадолженностьПоЗарплате": {
-      "Document.json": "base\\Document\\НачальнаяЗадолженностьПоЗарплате\\Document.json"
-    },
     "НачальнаяШтатнаяРасстановка": {
       "Document.json": "base\\Document\\НачальнаяШтатнаяРасстановка\\Document.json"
-    },
-    "НачислениеЗаПервуюПоловинуМесяца": {
-      "Document.json": "base\\Document\\НачислениеЗаПервуюПоловинуМесяца\\Document.json"
-    },
-    "НачислениеЗарплаты": {
-      "Document.json": "base\\Document\\НачислениеЗарплаты\\Document.json"
-    },
-    "НачислениеОценочныхОбязательствПоОтпускам": {
-      "Document.json": "base\\Document\\НачислениеОценочныхОбязательствПоОтпускам\\Document.json"
-    },
-    "НачислениеПоДоговорам": {
-      "Document.json": "base\\Document\\НачислениеПоДоговорам\\Document.json"
-    },
-    "ОграничениеВзысканий": {
-      "Document.json": "base\\Document\\ОграничениеВзысканий\\Document.json"
-    },
-    "ОперацияНалоговогоУчетаПоНДФЛ": {
-      "Document.json": "base\\Document\\ОперацияНалоговогоУчетаПоНДФЛ\\Document.json"
-    },
-    "ОперацияУчетаПоСтраховымВзносам": {
-      "Document.json": "base\\Document\\ОперацияУчетаПоСтраховымВзносам\\Document.json"
-    },
-    "ОписьЗаявленийСотрудниковНаВыплатуПособий": {
-      "Document.json": "base\\Document\\ОписьЗаявленийСотрудниковНаВыплатуПособий\\Document.json"
-    },
-    "ОписьОДВ_1": {
-      "Document.json": "base\\Document\\ОписьОДВ_1\\Document.json"
-    },
-    "ОписьПачекСЗВ_6": {
-      "Document.json": "base\\Document\\ОписьПачекСЗВ_6\\Document.json"
-    },
-    "ОплатаДнейУходаЗаДетьмиИнвалидами": {
-      "Document.json": "base\\Document\\ОплатаДнейУходаЗаДетьмиИнвалидами\\Document.json"
     },
     "ОплатаПоСреднемуЗаработку": {
       "Document.json": "base\\Document\\ОплатаПоСреднемуЗаработку\\Document.json"
@@ -365,18 +201,6 @@
     },
     "ОтгулСписком": {
       "Document.json": "base\\Document\\ОтгулСписком\\Document.json"
-    },
-    "ОтзывЗаявленийОПредоставленииСведенийОТрудовойДеятельности": {
-      "Document.json": "base\\Document\\ОтзывЗаявленийОПредоставленииСведенийОТрудовойДеятельности\\Document.json"
-    },
-    "ОтзывСогласияНаОбработкуПерсональныхДанных": {
-      "Document.json": "base\\Document\\ОтзывСогласияНаОбработкуПерсональныхДанных\\Document.json"
-    },
-    "ОтзывСогласияНаУведомлениеОбЭЛН": {
-      "Document.json": "base\\Document\\ОтзывСогласияНаУведомлениеОбЭЛН\\Document.json"
-    },
-    "ОтменаБронированияГражданПребывающихВЗапасе": {
-      "Document.json": "base\\Document\\ОтменаБронированияГражданПребывающихВЗапасе\\Document.json"
     },
     "ОтменаДоплатыДоСреднегоЗаработка": {
       "Document.json": "base\\Document\\ОтменаДоплатыДоСреднегоЗаработка\\Document.json"
@@ -399,45 +223,6 @@
     "ОтпускПоУходуЗаРебенком": {
       "Document.json": "base\\Document\\ОтпускПоУходуЗаРебенком\\Document.json"
     },
-    "ОтражениеЗарплатыВБухучете": {
-      "Document.json": "base\\Document\\ОтражениеЗарплатыВБухучете\\Document.json"
-    },
-    "ПакетОбменСБанками": {
-      "Document.json": "base\\Document\\ПакетОбменСБанками\\Document.json"
-    },
-    "ПачкаДокументовАДВ_1": {
-      "Document.json": "base\\Document\\ПачкаДокументовАДВ_1\\Document.json"
-    },
-    "ПачкаДокументовАДВ_2": {
-      "Document.json": "base\\Document\\ПачкаДокументовАДВ_2\\Document.json"
-    },
-    "ПачкаДокументовАДВ_3": {
-      "Document.json": "base\\Document\\ПачкаДокументовАДВ_3\\Document.json"
-    },
-    "ПачкаДокументовДСВ_1": {
-      "Document.json": "base\\Document\\ПачкаДокументовДСВ_1\\Document.json"
-    },
-    "ПачкаДокументовСЗВ_6_1": {
-      "Document.json": "base\\Document\\ПачкаДокументовСЗВ_6_1\\Document.json"
-    },
-    "ПачкаДокументовСЗВ_6_3": {
-      "Document.json": "base\\Document\\ПачкаДокументовСЗВ_6_3\\Document.json"
-    },
-    "ПачкаДокументовСЗВ_6_4": {
-      "Document.json": "base\\Document\\ПачкаДокументовСЗВ_6_4\\Document.json"
-    },
-    "ПачкаДокументовСЗВ_К": {
-      "Document.json": "base\\Document\\ПачкаДокументовСЗВ_К\\Document.json"
-    },
-    "ПачкаДокументовСПВ_1": {
-      "Document.json": "base\\Document\\ПачкаДокументовСПВ_1\\Document.json"
-    },
-    "ПачкаДокументовСПВ_2": {
-      "Document.json": "base\\Document\\ПачкаДокументовСПВ_2\\Document.json"
-    },
-    "ПачкаРазделов6РасчетаРСВ_1": {
-      "Document.json": "base\\Document\\ПачкаРазделов6РасчетаРСВ_1\\Document.json"
-    },
     "ПереводКДругомуРаботодателю": {
       "Document.json": "base\\Document\\ПереводКДругомуРаботодателю\\Document.json"
     },
@@ -453,65 +238,8 @@
     "ПеремещениеМеждуТерриториями": {
       "Document.json": "base\\Document\\ПеремещениеМеждуТерриториями\\Document.json"
     },
-    "ПереносДанных": {
-      "Document.json": "base\\Document\\ПереносДанных\\Document.json"
-    },
-    "ПереносЗатратНаПерсоналМеждуСтатьями": {
-      "Document.json": "base\\Document\\ПереносЗатратНаПерсоналМеждуСтатьями\\Document.json"
-    },
     "ПереносОтпуска": {
       "Document.json": "base\\Document\\ПереносОтпуска\\Document.json"
-    },
-    "ПерерасчетНДФЛ": {
-      "Document.json": "base\\Document\\ПерерасчетНДФЛ\\Document.json"
-    },
-    "ПерерасчетСтраховыхВзносов": {
-      "Document.json": "base\\Document\\ПерерасчетСтраховыхВзносов\\Document.json"
-    },
-    "ПеречислениеНДФЛВБюджет": {
-      "Document.json": "base\\Document\\ПеречислениеНДФЛВБюджет\\Document.json"
-    },
-    "ПериодыОплаченныеДоНачалаЭксплуатации": {
-      "Document.json": "base\\Document\\ПериодыОплаченныеДоНачалаЭксплуатации\\Document.json"
-    },
-    "ПисьмоОбменСБанками": {
-      "Document.json": "base\\Document\\ПисьмоОбменСБанками\\Document.json"
-    },
-    "ПлатежноеПоручение": {
-      "Document.json": "base\\Document\\ПлатежноеПоручение\\Document.json"
-    },
-    "ПогашениеЗадолженностиПоВзысканиям": {
-      "Document.json": "base\\Document\\ПогашениеЗадолженностиПоВзысканиям\\Document.json"
-    },
-    "ПогашениеЗаймаСотруднику": {
-      "Document.json": "base\\Document\\ПогашениеЗаймаСотруднику\\Document.json"
-    },
-    "ПодтверждениеВыплатыДоходов": {
-      "Document.json": "base\\Document\\ПодтверждениеВыплатыДоходов\\Document.json"
-    },
-    "ПодтверждениеЗачисленияЗарплаты": {
-      "Document.json": "base\\Document\\ПодтверждениеЗачисленияЗарплаты\\Document.json"
-    },
-    "ПодтверждениеОткрытияЛицевыхСчетовСотрудников": {
-      "Document.json": "base\\Document\\ПодтверждениеОткрытияЛицевыхСчетовСотрудников\\Document.json"
-    },
-    "ПостоянноеУдержаниеВПользуТретьихЛиц": {
-      "Document.json": "base\\Document\\ПостоянноеУдержаниеВПользуТретьихЛиц\\Document.json"
-    },
-    "ПоясненияКДекларацииПоНДС": {
-      "Document.json": "base\\Document\\ПоясненияКДекларацииПоНДС\\Document.json"
-    },
-    "ПрекращениеПлановогоНачисления": {
-      "Document.json": "base\\Document\\ПрекращениеПлановогоНачисления\\Document.json"
-    },
-    "ПрекращениеПодработки": {
-      "Document.json": "base\\Document\\ПрекращениеПодработки\\Document.json"
-    },
-    "ПрекращениеСтандартныхВычетовНДФЛ": {
-      "Document.json": "base\\Document\\ПрекращениеСтандартныхВычетовНДФЛ\\Document.json"
-    },
-    "Премия": {
-      "Document.json": "base\\Document\\Премия\\Document.json"
     },
     "ПриемНаРаботу": {
       "Document.json": "base\\Document\\ПриемНаРаботу\\Document.json",
@@ -519,12 +247,6 @@
     },
     "ПриемНаРаботуСписком": {
       "Document.json": "base\\Document\\ПриемНаРаботуСписком\\Document.json"
-    },
-    "ПризПодарок": {
-      "Document.json": "base\\Document\\ПризПодарок\\Document.json"
-    },
-    "ПриказНаДоплатуДоСреднегоЗаработка": {
-      "Document.json": "base\\Document\\ПриказНаДоплатуДоСреднегоЗаработка\\Document.json"
     },
     "ПрогулНеявка": {
       "Document.json": "base\\Document\\ПрогулНеявка\\Document.json"
@@ -544,128 +266,23 @@
     "РаботаСверхурочно": {
       "Document.json": "base\\Document\\РаботаСверхурочно\\Document.json"
     },
-    "РазовоеНачисление": {
-      "Document.json": "base\\Document\\РазовоеНачисление\\Document.json"
-    },
-    "РаспределениеОсновногоЗаработка": {
-      "Document.json": "base\\Document\\РаспределениеОсновногоЗаработка\\Document.json"
-    },
     "РегистрацияПереработок": {
       "Document.json": "base\\Document\\РегистрацияПереработок\\Document.json"
-    },
-    "РегистрацияПрочихДоходов": {
-      "Document.json": "base\\Document\\РегистрацияПрочихДоходов\\Document.json"
-    },
-    "РегистрацияТрудовойДеятельности": {
-      "Document.json": "base\\Document\\РегистрацияТрудовойДеятельности\\Document.json"
-    },
-    "РегламентированныйОтчет": {
-      "Document.json": "base\\Document\\РегламентированныйОтчет\\Document.json"
-    },
-    "РеестрДанныхЭЛНЗаполняемыхРаботодателем": {
-      "Document.json": "base\\Document\\РеестрДанныхЭЛНЗаполняемыхРаботодателем\\Document.json"
-    },
-    "РеестрДСВ_3": {
-      "Document.json": "base\\Document\\РеестрДСВ_3\\Document.json"
-    },
-    "РеестрСведенийНеобходимыхДляНазначенияИВыплатыПособий": {
-      "Document.json": "base\\Document\\РеестрСведенийНеобходимыхДляНазначенияИВыплатыПособий\\Document.json"
-    },
-    "РеестрСЗВ_6_2": {
-      "Document.json": "base\\Document\\РеестрСЗВ_6_2\\Document.json"
-    },
-    "РеестрСтимулирующихВыплатМедицинскимИСоциальнымРаботникам": {
-      "Document.json": "base\\Document\\РеестрСтимулирующихВыплатМедицинскимИСоциальнымРаботникам\\Document.json"
-    },
-    "СведенияОЗаработкеСтажеЗастрахованныхЛицСЗВ_ИСХ": {
-      "Document.json": "base\\Document\\СведенияОЗаработкеСтажеЗастрахованныхЛицСЗВ_ИСХ\\Document.json"
-    },
-    "СведенияОЗастрахованныхЛицахСЗВ_М": {
-      "Document.json": "base\\Document\\СведенияОЗастрахованныхЛицахСЗВ_М\\Document.json"
-    },
-    "СведенияОНезачисленнойЗарплате": {
-      "Document.json": "base\\Document\\СведенияОНезачисленнойЗарплате\\Document.json"
-    },
-    "СведенияОСтраховомСтажеЗастрахованныхЛицСЗВ_СТАЖ": {
-      "Document.json": "base\\Document\\СведенияОСтраховомСтажеЗастрахованныхЛицСЗВ_СТАЖ\\Document.json"
-    },
-    "СведенияОТрудовойДеятельностиРаботникаСТД_Р": {
-      "Document.json": "base\\Document\\СведенияОТрудовойДеятельностиРаботникаСТД_Р\\Document.json"
-    },
-    "СведенияОТрудовойДеятельностиРаботниковСЗВ_ТД": {
-      "Document.json": "base\\Document\\СведенияОТрудовойДеятельностиРаботниковСЗВ_ТД\\Document.json"
     },
     "Совмещение": {
       "Document.json": "base\\Document\\Совмещение\\Document.json"
     },
-    "СогласиеНаОбработкуПерсональныхДанных": {
-      "Document.json": "base\\Document\\СогласиеНаОбработкуПерсональныхДанных\\Document.json"
-    },
-    "СогласиеНаУведомлениеОбЭЛН": {
-      "Document.json": "base\\Document\\СогласиеНаУведомлениеОбЭЛН\\Document.json"
-    },
-    "СообщениеОбменСБанками": {
-      "Document.json": "base\\Document\\СообщениеОбменСБанками\\Document.json"
-    },
-    "СписаниеДепонированнойЗарплаты": {
-      "Document.json": "base\\Document\\СписаниеДепонированнойЗарплаты\\Document.json"
-    },
-    "СправкаНДФЛ": {
-      "Document.json": "base\\Document\\СправкаНДФЛ\\Document.json"
-    },
-    "СправкиНДФЛДляПередачиВНалоговыйОрган": {
-      "Document.json": "base\\Document\\СправкиНДФЛДляПередачиВНалоговыйОрган\\Document.json"
-    },
-    "СправкиПоНДФЛДляРасчетаПоНалогуНаПрибыль": {
-      "Document.json": "base\\Document\\СправкиПоНДФЛДляРасчетаПоНалогуНаПрибыль\\Document.json"
-    },
-    "СторнированиеНачислений": {
-      "Document.json": "base\\Document\\СторнированиеНачислений\\Document.json"
-    },
     "ТабельУчетаРабочегоВремени": {
       "Document.json": "base\\Document\\ТабельУчетаРабочегоВремени\\Document.json"
     },
-    "УведомлениеОПолучателеДокументов": {
-      "Document.json": "base\\Document\\УведомлениеОПолучателеДокументов\\Document.json"
-    },
-    "УведомлениеОПравеНаИмущественныйВычетДляНДФЛ": {
-      "Document.json": "base\\Document\\УведомлениеОПравеНаИмущественныйВычетДляНДФЛ\\Document.json"
-    },
     "УведомлениеОПрекращенииОтпускаПоУходуЗаРебенком": {
       "Document.json": "base\\Document\\УведомлениеОПрекращенииОтпускаПоУходуЗаРебенком\\Document.json"
-    },
-    "УведомлениеОСпецрежимахНалогообложения": {
-      "Document.json": "base\\Document\\УведомлениеОСпецрежимахНалогообложения\\Document.json"
     },
     "Увольнение": {
       "Document.json": "base\\Document\\Увольнение\\Document.json"
     },
     "УвольнениеСписком": {
       "Document.json": "base\\Document\\УвольнениеСписком\\Document.json"
-    },
-    "УдалитьЗапросНаВыпискуИзЕГРЮЛ_ЕГРИП": {
-      "Document.json": "base\\Document\\УдалитьЗапросНаВыпискуИзЕГРЮЛ_ЕГРИП\\Document.json"
-    },
-    "УдалитьЗапросНаИнформационноеОбслуживаниеНалогоплательщика": {
-      "Document.json": "base\\Document\\УдалитьЗапросНаИнформационноеОбслуживаниеНалогоплательщика\\Document.json"
-    },
-    "УдалитьЗаявлениеАбонентаСпецоператораСвязи": {
-      "Document.json": "base\\Document\\УдалитьЗаявлениеАбонентаСпецоператораСвязи\\Document.json"
-    },
-    "УдержаниеВСчетРасчетовПоПрочимОперациям": {
-      "Document.json": "base\\Document\\УдержаниеВСчетРасчетовПоПрочимОперациям\\Document.json"
-    },
-    "УдержаниеДобровольныхВзносовВНПФ": {
-      "Document.json": "base\\Document\\УдержаниеДобровольныхВзносовВНПФ\\Document.json"
-    },
-    "УдержаниеДобровольныхСтраховыхВзносов": {
-      "Document.json": "base\\Document\\УдержаниеДобровольныхСтраховыхВзносов\\Document.json"
-    },
-    "УдержаниеПрофсоюзныхВзносов": {
-      "Document.json": "base\\Document\\УдержаниеПрофсоюзныхВзносов\\Document.json"
-    },
-    "УплатаСтраховыхВзносовВФонды": {
-      "Document.json": "base\\Document\\УплатаСтраховыхВзносовВФонды\\Document.json"
     },
     "УтверждениеШтатногоРасписания": {
       "Document.json": "base\\Document\\УтверждениеШтатногоРасписания\\Document.json"
