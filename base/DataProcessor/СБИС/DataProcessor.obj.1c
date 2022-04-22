@@ -5,7 +5,7 @@
 #Область include_BlocklyExecutor_src_API
 #КонецОбласти
 
-#Область include_core_ДлительныеОперации
+#Область include_core_src_ДлительныеОперации
 #КонецОбласти
 
 
