@@ -45,6 +45,7 @@
 	Если saby_param <> Неопределено Тогда	
 		saby_param.session = "";
 		saby_param.password = "";
+		saby_param.ConnectionId = "";
 		Saby_Core.НастройкиПодключенияЗаписать(saby_param );
 	КонецЕсли;	
 КонецПроцедуры
