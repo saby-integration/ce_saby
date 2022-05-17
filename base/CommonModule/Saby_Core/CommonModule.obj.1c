@@ -10,3 +10,10 @@
 
 #Область include_core_src_ExtException
 #КонецОбласти
+
+#Область include_core_src_Helpers_ПриНачалеРаботыСистемы
+#КонецОбласти
+
+#Область include_core_src_Helpers_ПослеОбновления
+#КонецОбласти
+
