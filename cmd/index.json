@@ -77,6 +77,10 @@
     "ПодключаемыеКомандыПереопределяемый": {
       "CommonModule.json": "base\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.json",
       "CommonModule.obj.1c": "base\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.obj.1c"
+    },
+    "СтандартныеПодсистемыКлиент": {
+      "CommonModule.json": "base\\CommonModule\\СтандартныеПодсистемыКлиент\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\СтандартныеПодсистемыКлиент\\CommonModule.obj.1c"
     }
   },
   "CommonPicture": {
@@ -87,7 +91,9 @@
     "КоллекцияСкрепка.json": "base\\CommonPicture\\КоллекцияСкрепка.json",
     "Ошибка32.json": "base\\CommonPicture\\Ошибка32.json",
     "Успешно32.json": "base\\CommonPicture\\Успешно32.json",
-    "Скрепка.json": "base\\CommonPicture\\Скрепка.json"
+    "Скрепка.json": "base\\CommonPicture\\Скрепка.json",
+    "Saby_Bird.bin": "base\\CommonPicture\\Saby_Bird.bin",
+    "Saby_Bird.json": "base\\CommonPicture\\Saby_Bird.json"
   },
   "ConfigurationExtension.json": "base\\ConfigurationExtension.json",
   "DataProcessor": {
