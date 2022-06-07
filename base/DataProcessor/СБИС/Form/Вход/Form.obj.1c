@@ -66,6 +66,7 @@
 	context_param.Вставить("password", password);
 	context_param.Вставить("api_url", api_url);
 	context_param.Вставить("ConnectionId", ConnectionId);
+	context_param.Удалить("proxy");
 	Если Не ПустаяСтрока(proxyserver) Тогда
 		proxy	= Новый Структура("protocol, server, port, user, password",
 			proxyprotocol,proxyserver,proxyport,proxylogin,proxypassword);
