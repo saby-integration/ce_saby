@@ -1,0 +1,19 @@
+
+#Область include_core_src_Helpers_НастройкиПодключения
+#КонецОбласти
+
+#Область include_core_src_Helpers_ОбщиеНастройки
+#КонецОбласти
+
+#Область include_core_src_Helpers_РаботаСоСвойствамиСтруктуры
+#КонецОбласти
+
+#Область include_core_src_ExtException
+#КонецОбласти
+
+#Область include_core_src_Helpers_ПриНачалеРаботыСистемы
+#КонецОбласти
+
+#Область include_core_src_Helpers_ПослеОбновления
+#КонецОбласти
+
