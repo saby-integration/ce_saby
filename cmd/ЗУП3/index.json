@@ -5,20 +5,20 @@
 	"core_src_Helpers_ПроверкаВерсииПродукта_НазваниеПродукта": "core_src_Helpers_ПроверкаВерсииПродукта_Расширение_НазваниеПродукта",
 	"core_src_Helpers_ПроверкаВерсииПродукта_НаФорме": "core_src_Helpers_ПроверкаВерсииПродукта_Расширение_НаФорме"  
   },
-  "ConfigurationExtension.json": "src\\ЗУП3\\ConfigurationExtension.json",
+  "ConfigurationExtension.json": "base\\ЗУП3\\ConfigurationExtension.json",
   "Catalog": {
     "Saby_СостоянияОбъектов": {
-      "Catalog.json": "src\\ЗУП3\\Catalog\\Saby_СостоянияОбъектов\\Catalog.json",
-      "Catalog.mgr.1c": "src\\ЗУП3\\Catalog\\Saby_СостоянияОбъектов\\Catalog.mgr.1c"
+      "Catalog.json": "base\\ЗУП3\\Catalog\\Saby_СостоянияОбъектов\\Catalog.json",
+      "Catalog.mgr.1c": "base\\ЗУП3\\Catalog\\Saby_СостоянияОбъектов\\Catalog.mgr.1c"
     },
     "Организации": {
-      "Catalog.json": "src\\ЗУП3\\Catalog\\Организации\\Catalog.json"
+      "Catalog.json": "base\\ЗУП3\\Catalog\\Организации\\Catalog.json"
     },
     "Сотрудники": {
-      "Catalog.json": "src\\ЗУП3\\Catalog\\Сотрудники\\Catalog.json"
+      "Catalog.json": "base\\ЗУП3\\Catalog\\Сотрудники\\Catalog.json"
     },
     "ФизическиеЛица": {
-      "Catalog.json": "src\\ЗУП3\\Catalog\\ФизическиеЛица\\Catalog.json"
+      "Catalog.json": "base\\ЗУП3\\Catalog\\ФизическиеЛица\\Catalog.json"
     }
   },
   "CommonCommand": {
@@ -27,309 +27,309 @@
   },
   "CommonForm": {
     "Saby_ВыполнитьДействие": {
-      "Form.json": "base\\CommonForm\\Saby_ВыполнитьДействие\\Form.json",
-      "Form.form803.json": "base\\CommonForm\\Saby_ВыполнитьДействие\\Form.form803.json",
-      "Form.obj.1c": "base\\CommonForm\\Saby_ВыполнитьДействие\\Form.obj.1c"
+      "Form.json": "base\\ЗУП3\\CommonForm\\Saby_ВыполнитьДействие\\Form.json",
+      "Form.form803.json": "base\\ЗУП3\\CommonForm\\Saby_ВыполнитьДействие\\Form.form803.json",
+      "Form.obj.1c": "base\\ЗУП3\\CommonForm\\Saby_ВыполнитьДействие\\Form.obj.1c"
     },
     "Saby_ДлительнаяОперация": {
-      "Form.json": "base\\CommonForm\\Saby_ДлительнаяОперация\\Form.json",
-      "Form.form803.json": "base\\CommonForm\\Saby_ДлительнаяОперация\\Form.form803.json",
-      "Form.obj.1c": "base\\CommonForm\\Saby_ДлительнаяОперация\\Form.obj.1c"
+      "Form.json": "base\\ЗУП3\\CommonForm\\Saby_ДлительнаяОперация\\Form.json",
+      "Form.form803.json": "base\\ЗУП3\\CommonForm\\Saby_ДлительнаяОперация\\Form.form803.json",
+      "Form.obj.1c": "base\\ЗУП3\\CommonForm\\Saby_ДлительнаяОперация\\Form.obj.1c"
     },
     "Saby_ПодписатьДокументНовый": {
-      "Form.json": "base\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.json",
-      "Form.form803.json": "base\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.form803.json",
-      "Form.obj.1c": "base\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.obj.1c"
+      "Form.json": "base\\ЗУП3\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.json",
+      "Form.form803.json": "base\\ЗУП3\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.form803.json",
+      "Form.obj.1c": "base\\ЗУП3\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.obj.1c"
     }
   },
   "CommonModule": {
     "Saby_Core": {
-      "CommonModule.json": "base\\CommonModule\\Saby_Core\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\CommonModule\\Saby_Core\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\ЗУП3\\CommonModule\\Saby_Core\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\Saby_Core\\CommonModule.obj.1c"
     },
     "Saby_КолонкиСостояния": {
-      "CommonModule.json": "base\\CommonModule\\Saby_КолонкиСостояния\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\CommonModule\\Saby_КолонкиСостояния\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\ЗУП3\\CommonModule\\Saby_КолонкиСостояния\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\Saby_КолонкиСостояния\\CommonModule.obj.1c"
     },
     "Saby_КомандыОбменаДляФормыКлиент": {
-      "CommonModule.json": "base\\CommonModule\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\CommonModule\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\ЗУП3\\CommonModule\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.obj.1c"
     },
     "Saby_КомандыОбменаДляФормыСервер": {
-      "CommonModule.json": "base\\CommonModule\\Saby_КомандыОбменаДляФормыСервер\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\CommonModule\\Saby_КомандыОбменаДляФормыСервер\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\ЗУП3\\CommonModule\\Saby_КомандыОбменаДляФормыСервер\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\Saby_КомандыОбменаДляФормыСервер\\CommonModule.obj.1c"
     },
     "Saby_ФоновыеЗаданияКлиент": {
-      "CommonModule.json": "base\\CommonModule\\Saby_ФоновыеЗаданияКлиент\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\CommonModule\\Saby_ФоновыеЗаданияКлиент\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\ЗУП3\\CommonModule\\Saby_ФоновыеЗаданияКлиент\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\Saby_ФоновыеЗаданияКлиент\\CommonModule.obj.1c"
     },
     "Saby_ФоновыеЗаданияСервер": {
-      "CommonModule.json": "base\\CommonModule\\Saby_ФоновыеЗаданияСервер\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\CommonModule\\Saby_ФоновыеЗаданияСервер\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\ЗУП3\\CommonModule\\Saby_ФоновыеЗаданияСервер\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\Saby_ФоновыеЗаданияСервер\\CommonModule.obj.1c"
     },
     "ЗарплатаКадры": {
-      "CommonModule.json": "src\\ЗУП3\\CommonModule\\ЗарплатаКадры\\CommonModule.json",
-      "CommonModule.obj.1c": "src\\ЗУП3\\CommonModule\\ЗарплатаКадры\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\ЗУП3\\CommonModule\\ЗарплатаКадры\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\ЗарплатаКадры\\CommonModule.obj.1c"
     },
     "ПодключаемыеКоманды": {
-      "CommonModule.json": "src\\ЗУП3\\CommonModule\\ПодключаемыеКоманды\\CommonModule.json",
-      "CommonModule.obj.1c": "src\\ЗУП3\\CommonModule\\ПодключаемыеКоманды\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\ЗУП3\\CommonModule\\ПодключаемыеКоманды\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\ПодключаемыеКоманды\\CommonModule.obj.1c"
     },
     "СтандартныеПодсистемыКлиент": {
-      "CommonModule.json": "src\\ЗУП3\\CommonModule\\СтандартныеПодсистемыКлиент\\CommonModule.json",
-      "CommonModule.obj.1c": "src\\ЗУП3\\CommonModule\\СтандартныеПодсистемыКлиент\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\ЗУП3\\CommonModule\\СтандартныеПодсистемыКлиент\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\СтандартныеПодсистемыКлиент\\CommonModule.obj.1c"
     },
     "ПодключаемыеКомандыПереопределяемый": {
-      "CommonModule.json": "src\\ЗУП3\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.json",
-      "CommonModule.obj.1c": "src\\ЗУП3\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\ЗУП3\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.obj.1c"
     }
   },
   "CommonPicture": {
-    "Saby_Ошибка32.bin": "base\\CommonPicture\\Saby_Ошибка32.bin",
-    "Saby_Ошибка32.json": "base\\CommonPicture\\Saby_Ошибка32.json",
-    "Saby_Успешно32.bin": "base\\CommonPicture\\Saby_Успешно32.bin",
-    "Saby_Успешно32.json": "base\\CommonPicture\\Saby_Успешно32.json",
-    "Saby_Скрепка.bin": "base\\CommonPicture\\Saby_Скрепка.bin",
-    "Saby_Скрепка.json": "base\\CommonPicture\\Saby_Скрепка.json",
-    "Saby_ДлительнаяОперация48.bin": "base\\CommonPicture\\Saby_ДлительнаяОперация48.bin",
-    "Saby_ДлительнаяОперация48.json": "base\\CommonPicture\\Saby_ДлительнаяОперация48.json",
-    "Saby_Состояния.bin": "base\\CommonPicture\\Saby_Состояния.bin",
-    "Saby_Состояния.json": "base\\CommonPicture\\Saby_Состояния.json",
-    "Saby_ТребуетсяКомментарий.bin": "base\\CommonPicture\\Saby_ТребуетсяКомментарий.bin",
-    "Saby_ТребуетсяКомментарий.json": "base\\CommonPicture\\Saby_ТребуетсяКомментарий.json",
-    "Saby_ТребуетсяИсполнитель.bin": "base\\CommonPicture\\Saby_ТребуетсяИсполнитель.bin",
-    "Saby_ТребуетсяИсполнитель.json": "base\\CommonPicture\\Saby_ТребуетсяИсполнитель.json",
-    "Saby_ТребуетсяКомментарийИИсполнителя.bin": "base\\CommonPicture\\Saby_ТребуетсяКомментарийИИсполнителя.bin",
-    "Saby_ТребуетсяКомментарийИИсполнителя.json": "base\\CommonPicture\\Saby_ТребуетсяКомментарийИИсполнителя.json",
-    "Saby_Bird.bin": "base\\CommonPicture\\Saby_Bird.bin",
-    "Saby_Bird.json": "base\\CommonPicture\\Saby_Bird.json"
+    "Saby_Ошибка32.bin": "base\\ЗУП3\\CommonPicture\\Saby_Ошибка32.bin",
+    "Saby_Ошибка32.json": "base\\ЗУП3\\CommonPicture\\Saby_Ошибка32.json",
+    "Saby_Успешно32.bin": "base\\ЗУП3\\CommonPicture\\Saby_Успешно32.bin",
+    "Saby_Успешно32.json": "base\\ЗУП3\\CommonPicture\\Saby_Успешно32.json",
+    "Saby_Скрепка.bin": "base\\ЗУП3\\CommonPicture\\Saby_Скрепка.bin",
+    "Saby_Скрепка.json": "base\\ЗУП3\\CommonPicture\\Saby_Скрепка.json",
+    "Saby_ДлительнаяОперация48.bin": "base\\ЗУП3\\CommonPicture\\Saby_ДлительнаяОперация48.bin",
+    "Saby_ДлительнаяОперация48.json": "base\\ЗУП3\\CommonPicture\\Saby_ДлительнаяОперация48.json",
+    "Saby_Состояния.bin": "base\\ЗУП3\\CommonPicture\\Saby_Состояния.bin",
+    "Saby_Состояния.json": "base\\ЗУП3\\CommonPicture\\Saby_Состояния.json",
+    "Saby_ТребуетсяКомментарий.bin": "base\\ЗУП3\\CommonPicture\\Saby_ТребуетсяКомментарий.bin",
+    "Saby_ТребуетсяКомментарий.json": "base\\ЗУП3\\CommonPicture\\Saby_ТребуетсяКомментарий.json",
+    "Saby_ТребуетсяИсполнитель.bin": "base\\ЗУП3\\CommonPicture\\Saby_ТребуетсяИсполнитель.bin",
+    "Saby_ТребуетсяИсполнитель.json": "base\\ЗУП3\\CommonPicture\\Saby_ТребуетсяИсполнитель.json",
+    "Saby_ТребуетсяКомментарийИИсполнителя.bin": "base\\ЗУП3\\CommonPicture\\Saby_ТребуетсяКомментарийИИсполнителя.bin",
+    "Saby_ТребуетсяКомментарийИИсполнителя.json": "base\\ЗУП3\\CommonPicture\\Saby_ТребуетсяКомментарийИИсполнителя.json",
+    "Saby_Bird.bin": "base\\ЗУП3\\CommonPicture\\Saby_Bird.bin",
+    "Saby_Bird.json": "base\\ЗУП3\\CommonPicture\\Saby_Bird.json"
   },
   "DataProcessor": {
     "СБИС": {
-      "DataProcessor.json": "base\\DataProcessor\\СБИС\\DataProcessor.json",
-      "DataProcessor.obj.1c": "base\\DataProcessor\\СБИС\\DataProcessor.obj.1c",
+      "DataProcessor.json": "base\\ЗУП3\\DataProcessor\\СБИС\\DataProcessor.json",
+      "DataProcessor.obj.1c": "base\\ЗУП3\\DataProcessor\\СБИС\\DataProcessor.obj.1c",
       "Form": {
         "Browser": {
-          "Form.json": "base\\DataProcessor\\СБИС\\Form\\Browser\\Form.json",
-          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\Browser\\Form.form803.json",
-          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\Browser\\Form.obj.1c"
+          "Form.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Browser\\Form.json",
+          "Form.form803.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Browser\\Form.form803.json",
+          "Form.obj.1c": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Browser\\Form.obj.1c"
         },
         "Вход": {
-          "Form.json": "base\\DataProcessor\\СБИС\\Form\\Вход\\Form.json",
-          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\Вход\\Form.form803.json",
-          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\Вход\\Form.obj.1c"
+          "Form.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Вход\\Form.json",
+          "Form.form803.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Вход\\Form.form803.json",
+          "Form.obj.1c": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Вход\\Form.obj.1c"
         },
         "ЗагрузкаПечатныхФормДокументов": {
-          "Form.json": "base\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.json",
-          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.form803.json",
-          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.obj.1c"
+          "Form.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.json",
+          "Form.form803.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.form803.json",
+          "Form.obj.1c": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.obj.1c"
         },
         "Настройки": {
-          "Form.json": "base\\DataProcessor\\СБИС\\Form\\Настройки\\Form.json",
-          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\Настройки\\Form.form803.json",
-          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\Настройки\\Form.obj.1c"
+          "Form.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Настройки\\Form.json",
+          "Form.form803.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Настройки\\Form.form803.json",
+          "Form.obj.1c": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Настройки\\Form.obj.1c"
         }
       }
     }
   },
   "DefinedType": {
-    "ВладелецПрисоединенныхФайлов.json": "src\\ЗУП3\\DefinedType\\ВладелецПрисоединенныхФайлов.json",
-    "ДокументПоФизическомуЛицу.json": "src\\ЗУП3\\DefinedType\\ДокументПоФизическомуЛицу.json",
-    "Организация.json": "src\\ЗУП3\\DefinedType\\Организация.json"
+    "ВладелецПрисоединенныхФайлов.json": "base\\ЗУП3\\DefinedType\\ВладелецПрисоединенныхФайлов.json",
+    "ДокументПоФизическомуЛицу.json": "base\\ЗУП3\\DefinedType\\ДокументПоФизическомуЛицу.json",
+    "Организация.json": "base\\ЗУП3\\DefinedType\\Организация.json"
   },
   "Document": {
     "БольничныйЛист": {
-      "Document.json": "src\\ЗУП3\\Document\\БольничныйЛист\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\БольничныйЛист\\Document.json"
     },
     "БронированиеГражданПребывающихВЗапасе": {
-      "Document.json": "src\\ЗУП3\\Document\\БронированиеГражданПребывающихВЗапасе\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\БронированиеГражданПребывающихВЗапасе\\Document.json"
     },
     "ВводНачальныхОстатковОтпусков": {
-      "Document.json": "src\\ЗУП3\\Document\\ВводНачальныхОстатковОтпусков\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ВводНачальныхОстатковОтпусков\\Document.json"
     },
     "ВозвратИзОтпускаПоУходуЗаРебенком": {
-      "Document.json": "src\\ЗУП3\\Document\\ВозвратИзОтпускаПоУходуЗаРебенком\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ВозвратИзОтпускаПоУходуЗаРебенком\\Document.json"
     },
     "ВосстановлениеВДолжности": {
-      "Document.json": "src\\ЗУП3\\Document\\ВосстановлениеВДолжности\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ВосстановлениеВДолжности\\Document.json"
     },
     "ГрафикОтпусков": {
-      "Document.json": "src\\ЗУП3\\Document\\ГрафикОтпусков\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ГрафикОтпусков\\Document.json"
     },
     "ДоговорРаботыУслуги": {
-      "Document.json": "src\\ЗУП3\\Document\\ДоговорРаботыУслуги\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ДоговорРаботыУслуги\\Document.json"
     },
     "ИзменениеГрафикаРаботыСписком": {
-      "Document.json": "src\\ЗУП3\\Document\\ИзменениеГрафикаРаботыСписком\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ИзменениеГрафикаРаботыСписком\\Document.json"
     },
     "ИзменениеКвалификационногоРазряда": {
-      "Document.json": "src\\ЗУП3\\Document\\ИзменениеКвалификационногоРазряда\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ИзменениеКвалификационногоРазряда\\Document.json"
     },
     "ИзменениеМестРаботы": {
-      "Document.json": "src\\ЗУП3\\Document\\ИзменениеМестРаботы\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ИзменениеМестРаботы\\Document.json"
     },
     "ИзменениеОплатыТруда": {
-      "Document.json": "src\\ЗУП3\\Document\\ИзменениеОплатыТруда\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ИзменениеОплатыТруда\\Document.json"
     },
     "ИзменениеПлановыхНачислений": {
-      "Document.json": "src\\ЗУП3\\Document\\ИзменениеПлановыхНачислений\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ИзменениеПлановыхНачислений\\Document.json"
     },
     "ИзменениеУсловийОплатыОтпускаПоУходуЗаРебенком": {
-      "Document.json": "src\\ЗУП3\\Document\\ИзменениеУсловийОплатыОтпускаПоУходуЗаРебенком\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ИзменениеУсловийОплатыОтпускаПоУходуЗаРебенком\\Document.json"
     },
     "ИзменениеШтатногоРасписания": {
-      "Document.json": "src\\ЗУП3\\Document\\ИзменениеШтатногоРасписания\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ИзменениеШтатногоРасписания\\Document.json"
     },
     "ИндексацияЗаработка": {
-      "Document.json": "src\\ЗУП3\\Document\\ИндексацияЗаработка\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ИндексацияЗаработка\\Document.json"
     },
     "ИндексацияШтатногоРасписания": {
-      "Document.json": "src\\ЗУП3\\Document\\ИндексацияШтатногоРасписания\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ИндексацияШтатногоРасписания\\Document.json"
     },
     "ИндивидуальныйГрафик": {
-      "Document.json": "src\\ЗУП3\\Document\\ИндивидуальныйГрафик\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ИндивидуальныйГрафик\\Document.json"
     },
     "КадровыйПеревод": {
-      "Document.json": "src\\ЗУП3\\Document\\КадровыйПеревод\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\КадровыйПеревод\\Document.json"
     },
     "КадровыйПереводСписком": {
-      "Document.json": "src\\ЗУП3\\Document\\КадровыйПереводСписком\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\КадровыйПереводСписком\\Document.json"
     },
     "Командировка": {
-      "Document.json": "src\\ЗУП3\\Document\\Командировка\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\Командировка\\Document.json"
     },
     "КомандировкиСотрудников": {
-      "Document.json": "src\\ЗУП3\\Document\\КомандировкиСотрудников\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\КомандировкиСотрудников\\Document.json"
     },
     "НазначениеПодработки": {
-      "Document.json": "src\\ЗУП3\\Document\\НазначениеПодработки\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\НазначениеПодработки\\Document.json"
     },
     "НачальнаяШтатнаяРасстановка": {
-      "Document.json": "src\\ЗУП3\\Document\\НачальнаяШтатнаяРасстановка\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\НачальнаяШтатнаяРасстановка\\Document.json"
     },
     "ОплатаПоСреднемуЗаработку": {
-      "Document.json": "src\\ЗУП3\\Document\\ОплатаПоСреднемуЗаработку\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ОплатаПоСреднемуЗаработку\\Document.json"
     },
     "ОплатаПоСреднемуЗаработкуСписком": {
-      "Document.json": "src\\ЗУП3\\Document\\ОплатаПоСреднемуЗаработкуСписком\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ОплатаПоСреднемуЗаработкуСписком\\Document.json"
     },
     "Отгул": {
-      "Document.json": "src\\ЗУП3\\Document\\Отгул\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\Отгул\\Document.json"
     },
     "ОтгулСписком": {
-      "Document.json": "src\\ЗУП3\\Document\\ОтгулСписком\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ОтгулСписком\\Document.json"
     },
     "ОтменаДоплатыДоСреднегоЗаработка": {
-      "Document.json": "src\\ЗУП3\\Document\\ОтменаДоплатыДоСреднегоЗаработка\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ОтменаДоплатыДоСреднегоЗаработка\\Document.json"
     },
     "ОтменаСовмещения": {
-      "Document.json": "src\\ЗУП3\\Document\\ОтменаСовмещения\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ОтменаСовмещения\\Document.json"
     },
     "Отпуск": {
-      "Document.json": "src\\ЗУП3\\Document\\Отпуск\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\Отпуск\\Document.json"
     },
     "ОтпускаСотрудников": {
-      "Document.json": "src\\ЗУП3\\Document\\ОтпускаСотрудников\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ОтпускаСотрудников\\Document.json"
     },
     "ОтпускБезСохраненияОплаты": {
-      "Document.json": "src\\ЗУП3\\Document\\ОтпускБезСохраненияОплаты\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ОтпускБезСохраненияОплаты\\Document.json"
     },
     "ОтпускБезСохраненияОплатыСписком": {
-      "Document.json": "src\\ЗУП3\\Document\\ОтпускБезСохраненияОплатыСписком\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ОтпускБезСохраненияОплатыСписком\\Document.json"
     },
     "ОтпускПоУходуЗаРебенком": {
-      "Document.json": "src\\ЗУП3\\Document\\ОтпускПоУходуЗаРебенком\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ОтпускПоУходуЗаРебенком\\Document.json"
     },
     "ПереводКДругомуРаботодателю": {
-      "Document.json": "src\\ЗУП3\\Document\\ПереводКДругомуРаботодателю\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ПереводКДругомуРаботодателю\\Document.json"
     },
     "ПереводНаОплатуПоСреднемуЗаработку": {
-      "Document.json": "src\\ЗУП3\\Document\\ПереводНаОплатуПоСреднемуЗаработку\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ПереводНаОплатуПоСреднемуЗаработку\\Document.json"
     },
     "ПереводНаРаботуСКоронавирусом": {
-      "Document.json": "src\\ЗУП3\\Document\\ПереводНаРаботуСКоронавирусом\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ПереводНаРаботуСКоронавирусом\\Document.json"
     },
     "ПеремещениеВДругоеПодразделение": {
-      "Document.json": "src\\ЗУП3\\Document\\ПеремещениеВДругоеПодразделение\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ПеремещениеВДругоеПодразделение\\Document.json"
     },
     "ПеремещениеМеждуТерриториями": {
-      "Document.json": "src\\ЗУП3\\Document\\ПеремещениеМеждуТерриториями\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ПеремещениеМеждуТерриториями\\Document.json"
     },
     "ПереносОтпуска": {
-      "Document.json": "src\\ЗУП3\\Document\\ПереносОтпуска\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ПереносОтпуска\\Document.json"
     },
     "ПриемНаРаботу": {
-      "Document.json": "src\\ЗУП3\\Document\\ПриемНаРаботу\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ПриемНаРаботу\\Document.json"
     },
     "ПриемНаРаботуСписком": {
-      "Document.json": "src\\ЗУП3\\Document\\ПриемНаРаботуСписком\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ПриемНаРаботуСписком\\Document.json"
     },
     "ПрогулНеявка": {
-      "Document.json": "src\\ЗУП3\\Document\\ПрогулНеявка\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ПрогулНеявка\\Document.json"
     },
     "ПрогулНеявкаСписком": {
-      "Document.json": "src\\ЗУП3\\Document\\ПрогулНеявкаСписком\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ПрогулНеявкаСписком\\Document.json"
     },
     "ПродлениеКонтрактаДоговора": {
-      "Document.json": "src\\ЗУП3\\Document\\ПродлениеКонтрактаДоговора\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ПродлениеКонтрактаДоговора\\Document.json"
     },
     "ПростойСотрудников": {
-      "Document.json": "src\\ЗУП3\\Document\\ПростойСотрудников\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ПростойСотрудников\\Document.json"
     },
     "РаботаВВыходныеИПраздничныеДни": {
-      "Document.json": "src\\ЗУП3\\Document\\РаботаВВыходныеИПраздничныеДни\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\РаботаВВыходныеИПраздничныеДни\\Document.json"
     },
     "РаботаСверхурочно": {
-      "Document.json": "src\\ЗУП3\\Document\\РаботаСверхурочно\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\РаботаСверхурочно\\Document.json"
     },
     "РегистрацияПереработок": {
-      "Document.json": "src\\ЗУП3\\Document\\РегистрацияПереработок\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\РегистрацияПереработок\\Document.json"
     },
     "Совмещение": {
-      "Document.json": "src\\ЗУП3\\Document\\Совмещение\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\Совмещение\\Document.json"
     },
     "ТабельУчетаРабочегоВремени": {
-      "Document.json": "src\\ЗУП3\\Document\\ТабельУчетаРабочегоВремени\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ТабельУчетаРабочегоВремени\\Document.json"
     },
     "УведомлениеОПрекращенииОтпускаПоУходуЗаРебенком": {
-      "Document.json": "src\\ЗУП3\\Document\\УведомлениеОПрекращенииОтпускаПоУходуЗаРебенком\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\УведомлениеОПрекращенииОтпускаПоУходуЗаРебенком\\Document.json"
     },
     "Увольнение": {
-      "Document.json": "src\\ЗУП3\\Document\\Увольнение\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\Увольнение\\Document.json"
     },
     "УвольнениеСписком": {
-      "Document.json": "src\\ЗУП3\\Document\\УвольнениеСписком\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\УвольнениеСписком\\Document.json"
     },
     "УтверждениеШтатногоРасписания": {
-      "Document.json": "src\\ЗУП3\\Document\\УтверждениеШтатногоРасписания\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\УтверждениеШтатногоРасписания\\Document.json"
     },
     "ХодатайствоОБронированииГражданПребывающихВЗапасе": {
-      "Document.json": "src\\ЗУП3\\Document\\ХодатайствоОБронированииГражданПребывающихВЗапасе\\Document.json"
+      "Document.json": "base\\ЗУП3\\Document\\ХодатайствоОБронированииГражданПребывающихВЗапасе\\Document.json"
     }
   },
   "InformationRegister": {
     "Saby_Состояние": {
-      "InformationRegister.json": "src\\ЗУП3\\InformationRegister\\Saby_Состояние\\InformationRegister.json",
-      "InformationRegister.mgr.1c": "base\\InformationRegister\\Saby_Состояние\\InformationRegister.mgr.1c",
+      "InformationRegister.json": "base\\ЗУП3\\InformationRegister\\Saby_Состояние\\InformationRegister.json",
+      "InformationRegister.mgr.1c": "base\\ЗУП3\\InformationRegister\\Saby_Состояние\\InformationRegister.mgr.1c",
       "InformationRegisterForm": {
         "ФормаЗаписи": {
-          "Form.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.json",
-          "Form.form803.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.form803.json"
+          "Form.json": "base\\ЗУП3\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.json",
+          "Form.form803.json": "base\\ЗУП3\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.form803.json"
         },
         "ФормаСписка": {
-          "Form.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.json",
-          "Form.form803.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.form803.json"
+          "Form.json": "base\\ЗУП3\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.json",
+          "Form.form803.json": "base\\ЗУП3\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.form803.json"
         }
       }
     }
   },
   "Role": {
-    "Saby_ОсновнаяРоль.json": "src\\ЗУП3\\Role\\Saby_ОсновнаяРоль.json",
-    "ИспользованиеИнтеграцииС1СДокументооборотом.json": "src\\ЗУП3\\Role\\ИспользованиеИнтеграцииС1СДокументооборотом.json"
+    "Saby_ОсновнаяРоль.json": "base\\ЗУП3\\Role\\Saby_ОсновнаяРоль.json",
+    "ИспользованиеИнтеграцииС1СДокументооборотом.json": "base\\ЗУП3\\Role\\ИспользованиеИнтеграцииС1СДокументооборотом.json"
   },
   "Subsystem": {
     "Администрирование": {
-      "Subsystem.json": "src\\ЗУП3\\Subsystem\\Администрирование\\Subsystem.json"
+      "Subsystem.json": "base\\ЗУП3\\Subsystem\\Администрирование\\Subsystem.json"
     }
   },
   "version.txt": "version.txt"

@@ -5,20 +5,20 @@
 	"core_src_Helpers_ПроверкаВерсииПродукта_НазваниеПродукта": "core_src_Helpers_ПроверкаВерсииПродукта_Расширение_НазваниеПродукта",
 	"core_src_Helpers_ПроверкаВерсииПродукта_НаФорме": "core_src_Helpers_ПроверкаВерсииПродукта_Расширение_НаФорме"  
   },
-  "ConfigurationExtension.json": "src\\БУХ3\\ConfigurationExtension.json",
+  "ConfigurationExtension.json": "base\\БУХ3\\ConfigurationExtension.json",
   "Catalog": {
     "Saby_СостоянияОбъектов": {
-      "Catalog.json": "src\\БУХ3\\Catalog\\Saby_СостоянияОбъектов\\Catalog.json",
-      "Catalog.mgr.1c": "src\\БУХ3\\Catalog\\Saby_СостоянияОбъектов\\Catalog.mgr.1c"
+      "Catalog.json": "base\\БУХ3\\Catalog\\Saby_СостоянияОбъектов\\Catalog.json",
+      "Catalog.mgr.1c": "base\\БУХ3\\Catalog\\Saby_СостоянияОбъектов\\Catalog.mgr.1c"
     },
     "Организации": {
-      "Catalog.json": "src\\БУХ3\\Catalog\\Организации\\Catalog.json"
+      "Catalog.json": "base\\БУХ3\\Catalog\\Организации\\Catalog.json"
     },
     "Сотрудники": {
-      "Catalog.json": "src\\БУХ3\\Catalog\\Сотрудники\\Catalog.json"
+      "Catalog.json": "base\\БУХ3\\Catalog\\Сотрудники\\Catalog.json"
     },
     "ФизическиеЛица": {
-      "Catalog.json": "src\\БУХ3\\Catalog\\ФизическиеЛица\\Catalog.json"
+      "Catalog.json": "base\\БУХ3\\Catalog\\ФизическиеЛица\\Catalog.json"
     }
   },
   "CommonCommand": {
@@ -27,150 +27,150 @@
   },
   "CommonForm": {
     "Saby_ВыполнитьДействие": {
-      "Form.json": "base\\CommonForm\\Saby_ВыполнитьДействие\\Form.json",
-      "Form.form803.json": "base\\CommonForm\\Saby_ВыполнитьДействие\\Form.form803.json",
-      "Form.obj.1c": "base\\CommonForm\\Saby_ВыполнитьДействие\\Form.obj.1c"
+      "Form.json": "base\\БУХ3\\CommonForm\\Saby_ВыполнитьДействие\\Form.json",
+      "Form.form803.json": "base\\БУХ3\\CommonForm\\Saby_ВыполнитьДействие\\Form.form803.json",
+      "Form.obj.1c": "base\\БУХ3\\CommonForm\\Saby_ВыполнитьДействие\\Form.obj.1c"
     },
     "Saby_ДлительнаяОперация": {
-      "Form.json": "base\\CommonForm\\Saby_ДлительнаяОперация\\Form.json",
-      "Form.form803.json": "base\\CommonForm\\Saby_ДлительнаяОперация\\Form.form803.json",
-      "Form.obj.1c": "base\\CommonForm\\Saby_ДлительнаяОперация\\Form.obj.1c"
+      "Form.json": "base\\БУХ3\\CommonForm\\Saby_ДлительнаяОперация\\Form.json",
+      "Form.form803.json": "base\\БУХ3\\CommonForm\\Saby_ДлительнаяОперация\\Form.form803.json",
+      "Form.obj.1c": "base\\БУХ3\\CommonForm\\Saby_ДлительнаяОперация\\Form.obj.1c"
     },
     "Saby_ПодписатьДокументНовый": {
-      "Form.json": "base\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.json",
-      "Form.form803.json": "base\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.form803.json",
-      "Form.obj.1c": "base\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.obj.1c"
+      "Form.json": "base\\БУХ3\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.json",
+      "Form.form803.json": "base\\БУХ3\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.form803.json",
+      "Form.obj.1c": "base\\БУХ3\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.obj.1c"
     }
   },
   "CommonModule": {
     "Saby_Core": {
-      "CommonModule.json": "base\\CommonModule\\Saby_Core\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\CommonModule\\Saby_Core\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\БУХ3\\CommonModule\\Saby_Core\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\БУХ3\\CommonModule\\Saby_Core\\CommonModule.obj.1c"
     },
     "Saby_КолонкиСостояния": {
-      "CommonModule.json": "base\\CommonModule\\Saby_КолонкиСостояния\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\CommonModule\\Saby_КолонкиСостояния\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\БУХ3\\CommonModule\\Saby_КолонкиСостояния\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\БУХ3\\CommonModule\\Saby_КолонкиСостояния\\CommonModule.obj.1c"
     },
     "Saby_КомандыОбменаДляФормыКлиент": {
-      "CommonModule.json": "base\\CommonModule\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\CommonModule\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\БУХ3\\CommonModule\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\БУХ3\\CommonModule\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.obj.1c"
     },
     "Saby_КомандыОбменаДляФормыСервер": {
-      "CommonModule.json": "base\\CommonModule\\Saby_КомандыОбменаДляФормыСервер\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\CommonModule\\Saby_КомандыОбменаДляФормыСервер\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\БУХ3\\CommonModule\\Saby_КомандыОбменаДляФормыСервер\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\БУХ3\\CommonModule\\Saby_КомандыОбменаДляФормыСервер\\CommonModule.obj.1c"
     },
     "Saby_ФоновыеЗаданияКлиент": {
-      "CommonModule.json": "base\\CommonModule\\Saby_ФоновыеЗаданияКлиент\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\CommonModule\\Saby_ФоновыеЗаданияКлиент\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\БУХ3\\CommonModule\\Saby_ФоновыеЗаданияКлиент\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\БУХ3\\CommonModule\\Saby_ФоновыеЗаданияКлиент\\CommonModule.obj.1c"
     },
     "Saby_ФоновыеЗаданияСервер": {
-      "CommonModule.json": "base\\CommonModule\\Saby_ФоновыеЗаданияСервер\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\CommonModule\\Saby_ФоновыеЗаданияСервер\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\БУХ3\\CommonModule\\Saby_ФоновыеЗаданияСервер\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\БУХ3\\CommonModule\\Saby_ФоновыеЗаданияСервер\\CommonModule.obj.1c"
     },
     "ЗарплатаКадры": {
-      "CommonModule.json": "src\\БУХ3\\CommonModule\\ЗарплатаКадры\\CommonModule.json",
-      "CommonModule.obj.1c": "src\\БУХ3\\CommonModule\\ЗарплатаКадры\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\БУХ3\\CommonModule\\ЗарплатаКадры\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\БУХ3\\CommonModule\\ЗарплатаКадры\\CommonModule.obj.1c"
     },
     "ПодключаемыеКоманды": {
-      "CommonModule.json": "src\\БУХ3\\CommonModule\\ПодключаемыеКоманды\\CommonModule.json",
-      "CommonModule.obj.1c": "src\\БУХ3\\CommonModule\\ПодключаемыеКоманды\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\БУХ3\\CommonModule\\ПодключаемыеКоманды\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\БУХ3\\CommonModule\\ПодключаемыеКоманды\\CommonModule.obj.1c"
     },
     "ПодключаемыеКомандыПереопределяемый": {
-      "CommonModule.json": "src\\БУХ3\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.json",
-      "CommonModule.obj.1c": "src\\БУХ3\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\БУХ3\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\БУХ3\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.obj.1c"
     }
   },
   "CommonPicture": {
-    "Saby_Ошибка32.bin": "base\\CommonPicture\\Saby_Ошибка32.bin",
-    "Saby_Ошибка32.json": "base\\CommonPicture\\Saby_Ошибка32.json",
-    "Saby_Успешно32.bin": "base\\CommonPicture\\Saby_Успешно32.bin",
-    "Saby_Успешно32.json": "base\\CommonPicture\\Saby_Успешно32.json",
-    "Saby_Скрепка.bin": "base\\CommonPicture\\Saby_Скрепка.bin",
-    "Saby_Скрепка.json": "base\\CommonPicture\\Saby_Скрепка.json",
-    "Saby_ДлительнаяОперация48.bin": "base\\CommonPicture\\Saby_ДлительнаяОперация48.bin",
-    "Saby_ДлительнаяОперация48.json": "base\\CommonPicture\\Saby_ДлительнаяОперация48.json",
-    "Saby_Состояния.bin": "base\\CommonPicture\\Saby_Состояния.bin",
-    "Saby_Состояния.json": "base\\CommonPicture\\Saby_Состояния.json",
-    "Saby_ТребуетсяКомментарий.bin": "base\\CommonPicture\\Saby_ТребуетсяКомментарий.bin",
-    "Saby_ТребуетсяКомментарий.json": "base\\CommonPicture\\Saby_ТребуетсяКомментарий.json",
-    "Saby_ТребуетсяИсполнитель.bin": "base\\CommonPicture\\Saby_ТребуетсяИсполнитель.bin",
-    "Saby_ТребуетсяИсполнитель.json": "base\\CommonPicture\\Saby_ТребуетсяИсполнитель.json",
-    "Saby_ТребуетсяКомментарийИИсполнителя.bin": "base\\CommonPicture\\Saby_ТребуетсяКомментарийИИсполнителя.bin",
-    "Saby_ТребуетсяКомментарийИИсполнителя.json": "base\\CommonPicture\\Saby_ТребуетсяКомментарийИИсполнителя.json",
-    "Saby_Bird.bin": "base\\CommonPicture\\Saby_Bird.bin",
-    "Saby_Bird.json": "base\\CommonPicture\\Saby_Bird.json"
+    "Saby_Ошибка32.bin": "base\\БУХ3\\CommonPicture\\Saby_Ошибка32.bin",
+    "Saby_Ошибка32.json": "base\\БУХ3\\CommonPicture\\Saby_Ошибка32.json",
+    "Saby_Успешно32.bin": "base\\БУХ3\\CommonPicture\\Saby_Успешно32.bin",
+    "Saby_Успешно32.json": "base\\БУХ3\\CommonPicture\\Saby_Успешно32.json",
+    "Saby_Скрепка.bin": "base\\БУХ3\\CommonPicture\\Saby_Скрепка.bin",
+    "Saby_Скрепка.json": "base\\БУХ3\\CommonPicture\\Saby_Скрепка.json",
+    "Saby_ДлительнаяОперация48.bin": "base\\БУХ3\\CommonPicture\\Saby_ДлительнаяОперация48.bin",
+    "Saby_ДлительнаяОперация48.json": "base\\БУХ3\\CommonPicture\\Saby_ДлительнаяОперация48.json",
+    "Saby_Состояния.bin": "base\\БУХ3\\CommonPicture\\Saby_Состояния.bin",
+    "Saby_Состояния.json": "base\\БУХ3\\CommonPicture\\Saby_Состояния.json",
+    "Saby_ТребуетсяКомментарий.bin": "base\\БУХ3\\CommonPicture\\Saby_ТребуетсяКомментарий.bin",
+    "Saby_ТребуетсяКомментарий.json": "base\\БУХ3\\CommonPicture\\Saby_ТребуетсяКомментарий.json",
+    "Saby_ТребуетсяИсполнитель.bin": "base\\БУХ3\\CommonPicture\\Saby_ТребуетсяИсполнитель.bin",
+    "Saby_ТребуетсяИсполнитель.json": "base\\БУХ3\\CommonPicture\\Saby_ТребуетсяИсполнитель.json",
+    "Saby_ТребуетсяКомментарийИИсполнителя.bin": "base\\БУХ3\\CommonPicture\\Saby_ТребуетсяКомментарийИИсполнителя.bin",
+    "Saby_ТребуетсяКомментарийИИсполнителя.json": "base\\БУХ3\\CommonPicture\\Saby_ТребуетсяКомментарийИИсполнителя.json",
+    "Saby_Bird.bin": "base\\БУХ3\\CommonPicture\\Saby_Bird.bin",
+    "Saby_Bird.json": "base\\БУХ3\\CommonPicture\\Saby_Bird.json"
   },
   "DataProcessor": {
     "СБИС": {
-      "DataProcessor.json": "base\\DataProcessor\\СБИС\\DataProcessor.json",
-      "DataProcessor.obj.1c": "base\\DataProcessor\\СБИС\\DataProcessor.obj.1c",
+      "DataProcessor.json": "base\\БУХ3\\DataProcessor\\СБИС\\DataProcessor.json",
+      "DataProcessor.obj.1c": "base\\БУХ3\\DataProcessor\\СБИС\\DataProcessor.obj.1c",
       "Form": {
         "Browser": {
-          "Form.json": "base\\DataProcessor\\СБИС\\Form\\Browser\\Form.json",
-          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\Browser\\Form.form803.json",
-          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\Browser\\Form.obj.1c"
+          "Form.json": "base\\БУХ3\\DataProcessor\\СБИС\\Form\\Browser\\Form.json",
+          "Form.form803.json": "base\\БУХ3\\DataProcessor\\СБИС\\Form\\Browser\\Form.form803.json",
+          "Form.obj.1c": "base\\БУХ3\\DataProcessor\\СБИС\\Form\\Browser\\Form.obj.1c"
         },
         "Вход": {
-          "Form.json": "base\\DataProcessor\\СБИС\\Form\\Вход\\Form.json",
-          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\Вход\\Form.form803.json",
-          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\Вход\\Form.obj.1c"
+          "Form.json": "base\\БУХ3\\DataProcessor\\СБИС\\Form\\Вход\\Form.json",
+          "Form.form803.json": "base\\БУХ3\\DataProcessor\\СБИС\\Form\\Вход\\Form.form803.json",
+          "Form.obj.1c": "base\\БУХ3\\DataProcessor\\СБИС\\Form\\Вход\\Form.obj.1c"
         },
         "ЗагрузкаПечатныхФормДокументов": {
-          "Form.json": "base\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.json",
-          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.form803.json",
-          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.obj.1c"
+          "Form.json": "base\\БУХ3\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.json",
+          "Form.form803.json": "base\\БУХ3\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.form803.json",
+          "Form.obj.1c": "base\\БУХ3\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.obj.1c"
         },
         "Настройки": {
-          "Form.json": "base\\DataProcessor\\СБИС\\Form\\Настройки\\Form.json",
-          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\Настройки\\Form.form803.json",
-          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\Настройки\\Form.obj.1c"
+          "Form.json": "base\\БУХ3\\DataProcessor\\СБИС\\Form\\Настройки\\Form.json",
+          "Form.form803.json": "base\\БУХ3\\DataProcessor\\СБИС\\Form\\Настройки\\Form.form803.json",
+          "Form.obj.1c": "base\\БУХ3\\DataProcessor\\СБИС\\Form\\Настройки\\Form.obj.1c"
         }
       }
     }
   },
   "DefinedType": {
-    "ВладелецПрисоединенныхФайлов.json": "src\\БУХ3\\DefinedType\\ВладелецПрисоединенныхФайлов.json",
-    "ДокументПоФизическомуЛицу.json": "src\\БУХ3\\DefinedType\\ДокументПоФизическомуЛицу.json"
+    "ВладелецПрисоединенныхФайлов.json": "base\\БУХ3\\DefinedType\\ВладелецПрисоединенныхФайлов.json",
+    "ДокументПоФизическомуЛицу.json": "base\\БУХ3\\DefinedType\\ДокументПоФизическомуЛицу.json"
   },
   "Document": {
     "ПриемНаРаботу": {
-      "Document.json": "src\\БУХ3\\Document\\ПриемНаРаботу\\Document.json"
+      "Document.json": "base\\БУХ3\\Document\\ПриемНаРаботу\\Document.json"
     },
     "Увольнение": {
-      "Document.json": "src\\БУХ3\\Document\\Увольнение\\Document.json"
+      "Document.json": "base\\БУХ3\\Document\\Увольнение\\Document.json"
     },
     "Отпуск": {
-      "Document.json": "src\\БУХ3\\Document\\Отпуск\\Document.json"
+      "Document.json": "base\\БУХ3\\Document\\Отпуск\\Document.json"
     },
     "КадровыйПеревод": {
-      "Document.json": "src\\БУХ3\\Document\\КадровыйПеревод\\Document.json"
+      "Document.json": "base\\БУХ3\\Document\\КадровыйПеревод\\Document.json"
     },
     "БольничныйЛист": {
-      "Document.json": "src\\БУХ3\\Document\\БольничныйЛист\\Document.json"
+      "Document.json": "base\\БУХ3\\Document\\БольничныйЛист\\Document.json"
     }
   },
   "InformationRegister": {
     "Saby_Состояние": {
-      "InformationRegister.json": "src\\БУХ3\\InformationRegister\\Saby_Состояние\\InformationRegister.json",
-      "InformationRegister.mgr.1c": "base\\InformationRegister\\Saby_Состояние\\InformationRegister.mgr.1c",
+      "InformationRegister.json": "base\\БУХ3\\InformationRegister\\Saby_Состояние\\InformationRegister.json",
+      "InformationRegister.mgr.1c": "base\\БУХ3\\InformationRegister\\Saby_Состояние\\InformationRegister.mgr.1c",
       "InformationRegisterForm": {
         "ФормаЗаписи": {
-          "Form.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.json",
-          "Form.form803.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.form803.json"
+          "Form.json": "base\\БУХ3\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.json",
+          "Form.form803.json": "base\\БУХ3\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.form803.json"
         },
         "ФормаСписка": {
-          "Form.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.json",
-          "Form.form803.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.form803.json"
+          "Form.json": "base\\БУХ3\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.json",
+          "Form.form803.json": "base\\БУХ3\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.form803.json"
         }
       }
     }
   },
   "Role": {
-    "Saby_ОсновнаяРоль.json": "src\\БУХ3\\Role\\Saby_ОсновнаяРоль.json"
+    "Saby_ОсновнаяРоль.json": "base\\БУХ3\\Role\\Saby_ОсновнаяРоль.json"
   },
   "Subsystem": {
     "Администрирование": {
-      "Subsystem.json": "src\\БУХ3\\Subsystem\\Администрирование\\Subsystem.json"
+      "Subsystem.json": "base\\БУХ3\\Subsystem\\Администрирование\\Subsystem.json"
     }
   },
   "version.txt": "version.txt"
