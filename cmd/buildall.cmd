@@ -17,5 +17,7 @@ v8unpack.exe -B src\%SUBSYSTEM%%PREFIX% bin\%PRODUCT%_%SUBSYSTEM%%PREFIX%_%DESCE
 SET PREFIX=CORP
 v8unpack.exe -B src\%SUBSYSTEM%%PREFIX% bin\%PRODUCT%_%SUBSYSTEM%%PREFIX%_%DESCENT%.cfe --index cmd\%SUBSYSTEM%\index.json --version %PLATFORM% --descent %DESCENT%
 SET PREFIX=PROF
-v8unpack.exe -B src\%SUBSYSTEM%%PREFIX% bin\%PRODUCT%_%SUBSYSTEM%_%DESCENT%.cfe --index cmd\%SUBSYSTEM%\index.json --version %PLATFORM% --descent %DESCENT%
+v8unpack.exe -B src\%SUBSYSTEM%%PREFIX% bin\%PRODUCT%_%SUBSYSTEM%%PREFIX%_%DESCENT%.cfe --index cmd\%SUBSYSTEM%\index.json --version %PLATFORM% --descent %DESCENT%
+SET PREFIX=ZGU
+v8unpack.exe -B src\%SUBSYSTEM%%PREFIX% bin\%PRODUCT%_%SUBSYSTEM%%PREFIX%_%DESCENT%.cfe --index cmd\%SUBSYSTEM%\index.json --version %PLATFORM% --descent %DESCENT%
 pause
