@@ -8,7 +8,6 @@
 Процедура ПрочитатьНастройки()
 	context_param = Saby_Core.НастройкиПодключенияПрочитать();
 	
-	proxyprotocol	= "https";
 	Если context_param <> Неопределено Тогда
 		//Заполним элементы формы данными из настроек
 		context_param.Свойство("password", password);
@@ -68,7 +67,7 @@
 	context_param.Вставить("api_url", api_url);
 	context_param.Вставить("ConnectionId", ConnectionId);
 	context_param.Удалить("proxy");
-	Если Не ПустаяСтрока(proxyserver) Тогда
+	Если Не ПустаяСтрока(proxyprotocol) И  Не ПустаяСтрока(proxyserver) И (proxyport > 0 И proxyport <= 65535) Тогда
 		proxy	= Новый Структура("protocol, server, port, user, password",
 			proxyprotocol,proxyserver,proxyport,proxylogin,proxypassword);
 		context_param.Вставить("proxy", proxy);
