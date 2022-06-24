@@ -4,5 +4,5 @@ SET DESCENT=301019
 SET PLATFORM=80314
 
 cd ../..
-v8unpack.exe -E bin\%PRODUCT%_%SUBSYSTEM%‡ƒ“_%DESCENT%.cfe src\%SUBSYSTEM%‡ƒ“ --index cmd\%SUBSYSTEM%\index.json --descent %DESCENT%
+v8unpack.exe -E bin\%PRODUCT%_%SUBSYSTEM%‡Šƒ“_%DESCENT%.cfe src\%SUBSYSTEM%‡Šƒ“ --index cmd\%SUBSYSTEM%\index.json --descent %DESCENT%
 pause
