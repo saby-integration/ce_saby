@@ -15,21 +15,21 @@
 		context_param.Свойство("api_url", api_url);
 		context_param.Свойство("ConnectionId", ConnectionId);
 		proxy			= Неопределено;
-		Если context_param.Свойство("proxy", proxy) Тогда
-			Если proxy.Свойство("protocol") Тогда
-				proxyprotocol	= proxy.protocol;
+		Если context_param.Свойство("Proxy", proxy) Тогда
+			Если proxy.Свойство("Protocol") Тогда
+				ProxyProtocol	= proxy.Protocol;
 			КонецЕсли;
-			Если proxy.Свойство("server") Тогда
-				proxyserver	= proxy.server;
+			Если proxy.Свойство("Server") Тогда
+				ProxyServer	= proxy.Server;
 			КонецЕсли;
-			Если proxy.Свойство("port") Тогда
-				proxyport	= proxy.port;
+			Если proxy.Свойство("Port") Тогда
+				ProxyPort	= proxy.Port;
 			КонецЕсли;
-			Если proxy.Свойство("user") Тогда
-				proxylogin	= proxy.user;
+			Если proxy.Свойство("User") Тогда
+				ProxyLogin	= proxy.User;
 			КонецЕсли;
-			Если proxy.Свойство("password") Тогда
-				proxypassword	= proxy.password;
+			Если proxy.Свойство("Password") Тогда
+				ProxyPassword	= proxy.Password;
 			КонецЕсли;
 		КонецЕсли;
 	Иначе
@@ -66,11 +66,11 @@
 	context_param.Вставить("password", password);
 	context_param.Вставить("api_url", api_url);
 	context_param.Вставить("ConnectionId", ConnectionId);
-	context_param.Удалить("proxy");
-	Если Не ПустаяСтрока(proxyprotocol) И  Не ПустаяСтрока(proxyserver) И (proxyport > 0 И proxyport <= 65535) Тогда
-		proxy	= Новый Структура("protocol, server, port, user, password",
-			proxyprotocol, proxyserver, proxyport, proxylogin, proxypassword);
-		context_param.Вставить("proxy", proxy);
+	context_param.Удалить("Proxy");
+	Если Не ПустаяСтрока(ProxyProtocol) И  Не ПустаяСтрока(ProxyServer) И (ProxyPort > 0 И ProxyPort <= 65535) Тогда
+		Proxy	= Новый Структура("Protocol, Server, Port, User, Password",
+			ProxyProtocol, ProxyServer, ProxyPort, ProxyLogin, ProxyPassword);
+		context_param.Вставить("Proxy", Proxy);
 	КонецЕсли;
 	Попытка
 		ВойтиНаСервере(context_param);
