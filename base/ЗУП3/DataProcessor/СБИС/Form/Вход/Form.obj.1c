@@ -69,7 +69,7 @@
 	context_param.Удалить("proxy");
 	Если Не ПустаяСтрока(proxyprotocol) И  Не ПустаяСтрока(proxyserver) И (proxyport > 0 И proxyport <= 65535) Тогда
 		proxy	= Новый Структура("protocol, server, port, user, password",
-			proxyprotocol,proxyserver,proxyport,proxylogin,proxypassword);
+			proxyprotocol, proxyserver, proxyport, proxylogin, proxypassword);
 		context_param.Вставить("proxy", proxy);
 	КонецЕсли;
 	Попытка
