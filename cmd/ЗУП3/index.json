@@ -27,107 +27,107 @@
   },
   "CommonForm": {
     "Saby_ВыполнитьДействие": {
-      "Form.json": "base\\ЗУП3\\CommonForm\\Saby_ВыполнитьДействие\\Form.json",
-      "Form.form803.json": "base\\ЗУП3\\CommonForm\\Saby_ВыполнитьДействие\\Form.form803.json",
-      "Form.obj.1c": "base\\ЗУП3\\CommonForm\\Saby_ВыполнитьДействие\\Form.obj.1c"
+      "Form.json": "base\\CommonForm\\Saby_ВыполнитьДействие\\Form.json",
+      "Form.form803.json": "base\\CommonForm\\Saby_ВыполнитьДействие\\Form.form803.json",
+      "Form.obj.1c": "base\\CommonForm\\Saby_ВыполнитьДействие\\Form.obj.1c"
     },
     "Saby_ДлительнаяОперация": {
-      "Form.json": "base\\ЗУП3\\CommonForm\\Saby_ДлительнаяОперация\\Form.json",
-      "Form.form803.json": "base\\ЗУП3\\CommonForm\\Saby_ДлительнаяОперация\\Form.form803.json",
-      "Form.obj.1c": "base\\ЗУП3\\CommonForm\\Saby_ДлительнаяОперация\\Form.obj.1c"
+      "Form.json": "base\\CommonForm\\Saby_ДлительнаяОперация\\Form.json",
+      "Form.form803.json": "base\\CommonForm\\Saby_ДлительнаяОперация\\Form.form803.json",
+      "Form.obj.1c": "base\\CommonForm\\Saby_ДлительнаяОперация\\Form.obj.1c"
     },
     "Saby_ПодписатьДокументНовый": {
-      "Form.json": "base\\ЗУП3\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.json",
-      "Form.form803.json": "base\\ЗУП3\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.form803.json",
-      "Form.obj.1c": "base\\ЗУП3\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.obj.1c"
+      "Form.json": "base\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.json",
+      "Form.form803.json": "base\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.form803.json",
+      "Form.obj.1c": "base\\CommonForm\\Saby_ПодписатьДокументНовый\\Form.obj.1c"
     }
   },
   "CommonModule": {
     "Saby_Core": {
-      "CommonModule.json": "base\\ЗУП3\\CommonModule\\Saby_Core\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\Saby_Core\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\CommonModule\\Saby_Core\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_Core\\CommonModule.obj.1c"
     },
     "Saby_КолонкиСостояния": {
-      "CommonModule.json": "base\\ЗУП3\\CommonModule\\Saby_КолонкиСостояния\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\Saby_КолонкиСостояния\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\CommonModule\\Saby_КолонкиСостояния\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_КолонкиСостояния\\CommonModule.obj.1c"
     },
     "Saby_КомандыОбменаДляФормыКлиент": {
-      "CommonModule.json": "base\\ЗУП3\\CommonModule\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\CommonModule\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.obj.1c"
     },
     "Saby_КомандыОбменаДляФормыСервер": {
-      "CommonModule.json": "base\\ЗУП3\\CommonModule\\Saby_КомандыОбменаДляФормыСервер\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\Saby_КомандыОбменаДляФормыСервер\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\CommonModule\\Saby_КомандыОбменаДляФормыСервер\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_КомандыОбменаДляФормыСервер\\CommonModule.obj.1c"
     },
     "Saby_ФоновыеЗаданияКлиент": {
-      "CommonModule.json": "base\\ЗУП3\\CommonModule\\Saby_ФоновыеЗаданияКлиент\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\Saby_ФоновыеЗаданияКлиент\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\CommonModule\\Saby_ФоновыеЗаданияКлиент\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_ФоновыеЗаданияКлиент\\CommonModule.obj.1c"
     },
     "Saby_ФоновыеЗаданияСервер": {
-      "CommonModule.json": "base\\ЗУП3\\CommonModule\\Saby_ФоновыеЗаданияСервер\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\Saby_ФоновыеЗаданияСервер\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\CommonModule\\Saby_ФоновыеЗаданияСервер\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_ФоновыеЗаданияСервер\\CommonModule.obj.1c"
     },
     "ЗарплатаКадры": {
-      "CommonModule.json": "base\\ЗУП3\\CommonModule\\ЗарплатаКадры\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\ЗарплатаКадры\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\CommonModule\\ЗарплатаКадры\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\ЗарплатаКадры\\CommonModule.obj.1c"
     },
     "ПодключаемыеКоманды": {
-      "CommonModule.json": "base\\ЗУП3\\CommonModule\\ПодключаемыеКоманды\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\ПодключаемыеКоманды\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\CommonModule\\ПодключаемыеКоманды\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\ПодключаемыеКоманды\\CommonModule.obj.1c"
     },
     "СтандартныеПодсистемыКлиент": {
       "CommonModule.json": "base\\ЗУП3\\CommonModule\\СтандартныеПодсистемыКлиент\\CommonModule.json",
       "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\СтандартныеПодсистемыКлиент\\CommonModule.obj.1c"
     },
     "ПодключаемыеКомандыПереопределяемый": {
-      "CommonModule.json": "base\\ЗУП3\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.json",
-      "CommonModule.obj.1c": "base\\ЗУП3\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.obj.1c"
+      "CommonModule.json": "base\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.obj.1c"
     }
   },
   "CommonPicture": {
-    "Saby_Ошибка32.bin": "base\\ЗУП3\\CommonPicture\\Saby_Ошибка32.bin",
-    "Saby_Ошибка32.json": "base\\ЗУП3\\CommonPicture\\Saby_Ошибка32.json",
-    "Saby_Успешно32.bin": "base\\ЗУП3\\CommonPicture\\Saby_Успешно32.bin",
-    "Saby_Успешно32.json": "base\\ЗУП3\\CommonPicture\\Saby_Успешно32.json",
-    "Saby_Скрепка.bin": "base\\ЗУП3\\CommonPicture\\Saby_Скрепка.bin",
-    "Saby_Скрепка.json": "base\\ЗУП3\\CommonPicture\\Saby_Скрепка.json",
-    "Saby_ДлительнаяОперация48.bin": "base\\ЗУП3\\CommonPicture\\Saby_ДлительнаяОперация48.bin",
-    "Saby_ДлительнаяОперация48.json": "base\\ЗУП3\\CommonPicture\\Saby_ДлительнаяОперация48.json",
-    "Saby_Состояния.bin": "base\\ЗУП3\\CommonPicture\\Saby_Состояния.bin",
-    "Saby_Состояния.json": "base\\ЗУП3\\CommonPicture\\Saby_Состояния.json",
-    "Saby_ТребуетсяКомментарий.bin": "base\\ЗУП3\\CommonPicture\\Saby_ТребуетсяКомментарий.bin",
-    "Saby_ТребуетсяКомментарий.json": "base\\ЗУП3\\CommonPicture\\Saby_ТребуетсяКомментарий.json",
-    "Saby_ТребуетсяИсполнитель.bin": "base\\ЗУП3\\CommonPicture\\Saby_ТребуетсяИсполнитель.bin",
-    "Saby_ТребуетсяИсполнитель.json": "base\\ЗУП3\\CommonPicture\\Saby_ТребуетсяИсполнитель.json",
-    "Saby_ТребуетсяКомментарийИИсполнителя.bin": "base\\ЗУП3\\CommonPicture\\Saby_ТребуетсяКомментарийИИсполнителя.bin",
-    "Saby_ТребуетсяКомментарийИИсполнителя.json": "base\\ЗУП3\\CommonPicture\\Saby_ТребуетсяКомментарийИИсполнителя.json",
-    "Saby_Bird.bin": "base\\ЗУП3\\CommonPicture\\Saby_Bird.bin",
-    "Saby_Bird.json": "base\\ЗУП3\\CommonPicture\\Saby_Bird.json"
+    "Saby_Ошибка32.bin": "base\\CommonPicture\\Saby_Ошибка32.bin",
+    "Saby_Ошибка32.json": "base\\CommonPicture\\Saby_Ошибка32.json",
+    "Saby_Успешно32.bin": "base\\CommonPicture\\Saby_Успешно32.bin",
+    "Saby_Успешно32.json": "base\\CommonPicture\\Saby_Успешно32.json",
+    "Saby_Скрепка.bin": "base\\CommonPicture\\Saby_Скрепка.bin",
+    "Saby_Скрепка.json": "base\\CommonPicture\\Saby_Скрепка.json",
+    "Saby_ДлительнаяОперация48.bin": "base\\CommonPicture\\Saby_ДлительнаяОперация48.bin",
+    "Saby_ДлительнаяОперация48.json": "base\\CommonPicture\\Saby_ДлительнаяОперация48.json",
+    "Saby_Состояния.bin": "base\\CommonPicture\\Saby_Состояния.bin",
+    "Saby_Состояния.json": "base\\CommonPicture\\Saby_Состояния.json",
+    "Saby_ТребуетсяКомментарий.bin": "base\\CommonPicture\\Saby_ТребуетсяКомментарий.bin",
+    "Saby_ТребуетсяКомментарий.json": "base\\CommonPicture\\Saby_ТребуетсяКомментарий.json",
+    "Saby_ТребуетсяИсполнитель.bin": "base\\CommonPicture\\Saby_ТребуетсяИсполнитель.bin",
+    "Saby_ТребуетсяИсполнитель.json": "base\\CommonPicture\\Saby_ТребуетсяИсполнитель.json",
+    "Saby_ТребуетсяКомментарийИИсполнителя.bin": "base\\CommonPicture\\Saby_ТребуетсяКомментарийИИсполнителя.bin",
+    "Saby_ТребуетсяКомментарийИИсполнителя.json": "base\\CommonPicture\\Saby_ТребуетсяКомментарийИИсполнителя.json",
+    "Saby_Bird.bin": "base\\CommonPicture\\Saby_Bird.bin",
+    "Saby_Bird.json": "base\\CommonPicture\\Saby_Bird.json"
   },
   "DataProcessor": {
     "СБИС": {
-      "DataProcessor.json": "base\\ЗУП3\\DataProcessor\\СБИС\\DataProcessor.json",
-      "DataProcessor.obj.1c": "base\\ЗУП3\\DataProcessor\\СБИС\\DataProcessor.obj.1c",
+      "DataProcessor.json": "base\\DataProcessor\\СБИС\\DataProcessor.json",
+      "DataProcessor.obj.1c": "base\\DataProcessor\\СБИС\\DataProcessor.obj.1c",
       "Form": {
         "Browser": {
-          "Form.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Browser\\Form.json",
-          "Form.form803.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Browser\\Form.form803.json",
-          "Form.obj.1c": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Browser\\Form.obj.1c"
+          "Form.json": "base\\DataProcessor\\СБИС\\Form\\Browser\\Form.json",
+          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\Browser\\Form.form803.json",
+          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\Browser\\Form.obj.1c"
         },
         "Вход": {
-          "Form.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Вход\\Form.json",
-          "Form.form803.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Вход\\Form.form803.json",
-          "Form.obj.1c": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Вход\\Form.obj.1c"
+          "Form.json": "base\\DataProcessor\\СБИС\\Form\\Вход\\Form.json",
+          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\Вход\\Form.form803.json",
+          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\Вход\\Form.obj.1c"
         },
         "ЗагрузкаПечатныхФормДокументов": {
-          "Form.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.json",
-          "Form.form803.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.form803.json",
-          "Form.obj.1c": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.obj.1c"
+          "Form.json": "base\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.json",
+          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.form803.json",
+          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.obj.1c"
         },
         "Настройки": {
-          "Form.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Настройки\\Form.json",
-          "Form.form803.json": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Настройки\\Form.form803.json",
-          "Form.obj.1c": "base\\ЗУП3\\DataProcessor\\СБИС\\Form\\Настройки\\Form.obj.1c"
+          "Form.json": "base\\DataProcessor\\СБИС\\Form\\Настройки\\Form.json",
+          "Form.form803.json": "base\\DataProcessor\\СБИС\\Form\\Настройки\\Form.form803.json",
+          "Form.obj.1c": "base\\DataProcessor\\СБИС\\Form\\Настройки\\Form.obj.1c"
         }
       }
     }
