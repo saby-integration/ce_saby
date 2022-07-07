@@ -106,7 +106,7 @@
   },
   "DataProcessor": {
     "СБИС": {
-      "DataProcessor.json": "core\\src\\DataProcessor\\СБИС\\Расширение\\DataProcessor.json",
+      "DataProcessor.json": "core\\src\\DataProcessor\\СБИС\\DataProcessor.json",
       "DataProcessor.obj.1c": "core\\src\\DataProcessor\\СБИС\\DataProcessor.obj.1c",
       "Form": {
         "Browser": {
