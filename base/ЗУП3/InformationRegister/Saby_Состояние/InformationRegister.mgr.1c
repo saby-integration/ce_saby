@@ -191,6 +191,12 @@
 #Область include_core_src_Helpers
 #КонецОбласти
 
+#Область include_core_src_Helpers_НастройкиПодключения
+#КонецОбласти  
+
+#Область include_core_src_Helpers_ОбщиеНастройки
+#КонецОбласти
+
 #Область include_core_src_Helpers_РаботаСоСвойствамиСтруктуры
 #КонецОбласти
 
