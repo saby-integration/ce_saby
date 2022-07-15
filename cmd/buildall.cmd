@@ -13,4 +13,9 @@ v8unpack.exe -B src\%SUBSYSTEM%BASE bin\%PRODUCT%_%SUBSYSTEM%BASE_%DESCENT%.cfe 
 v8unpack.exe -B src\%SUBSYSTEM%CORP bin\%PRODUCT%_%SUBSYSTEM%CORP_%DESCENT%.cfe --index cmd\%SUBSYSTEM%\index.json --version %PLATFORM% --descent %DESCENT%
 v8unpack.exe -B src\%SUBSYSTEM%PROF bin\%PRODUCT%_%SUBSYSTEM%PROF_%DESCENT%.cfe --index cmd\%SUBSYSTEM%\index.json --version %PLATFORM% --descent %DESCENT%
 v8unpack.exe -B src\%SUBSYSTEM%‡Šƒ“3 bin\%PRODUCT%_‡Šƒ“3_%DESCENT%.cfe --index cmd\%SUBSYSTEM%\index.json --version %PLATFORM% --descent %DESCENT%
+
+SET SUBSYSTEM=ERP25
+SET DESCENT=2005006
+v8unpack.exe -B src\%SUBSYSTEM%PROF bin\%PRODUCT%_%SUBSYSTEM%PROF_%DESCENT%.cfe --index cmd\%SUBSYSTEM%\index.json --version %PLATFORM% --descent %DESCENT%
+
 pause
