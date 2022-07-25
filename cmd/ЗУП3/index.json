@@ -200,6 +200,9 @@
     "КомандировкиСотрудников": {
       "Document.json": "base\\ЗУП3\\Document\\КомандировкиСотрудников\\Document.json"
     },
+    "МатериальнаяПомощь": {
+      "Document.json": "base\\ЗУП3\\Document\\МатериальнаяПомощь\\Document.json"
+    },
     "НазначениеПодработки": {
       "Document.json": "base\\ЗУП3\\Document\\НазначениеПодработки\\Document.json"
     },
