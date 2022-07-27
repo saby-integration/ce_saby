@@ -24,6 +24,9 @@
     "Saby_ОткрытьФормуНастроек.json": "base\\CommonCommand\\Saby_ОткрытьФормуНастроек.json",
     "Saby_ОткрытьФормуНастроек.obj.1c": "base\\CommonCommand\\Saby_ОткрытьФормуНастроек.obj.1c"
   },
+  "CommandGroup": {
+    "Saby_ГруппаНастройки.json": "base\\CommandGroup\\Saby_ГруппаНастройки.json"
+  },
   "CommonForm": {
     "Saby_ВыполнитьДействие": {
       "Form.json": "base\\CommonForm\\Saby_ВыполнитьДействие\\Form.json",
@@ -165,12 +168,8 @@
     }
   },
   "Role": {
-    "Saby_ОсновнаяРоль.json": "base\\БУХ3\\Role\\Saby_ОсновнаяРоль.json"
-  },
-  "Subsystem": {
-    "Администрирование": {
-      "Subsystem.json": "base\\БУХ3\\Subsystem\\Администрирование\\Subsystem.json"
-    }
+    "Saby_ОсновнаяРоль.json": "base\\БУХ3\\Role\\Saby_ОсновнаяРоль.json",
+	"БазовыеПраваБП.json": "base\\БУХ3\\Role\\БазовыеПраваБП.json"
   },
   "version.txt": "version.txt"
 }

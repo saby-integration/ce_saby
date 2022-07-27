@@ -24,6 +24,9 @@
     "Saby_ОткрытьФормуНастроек.json": "base\\CommonCommand\\Saby_ОткрытьФормуНастроек.json",
     "Saby_ОткрытьФормуНастроек.obj.1c": "base\\CommonCommand\\Saby_ОткрытьФормуНастроек.obj.1c"
   },
+  "CommandGroup": {
+    "Saby_ГруппаНастройки.json": "base\\CommandGroup\\Saby_ГруппаНастройки.json"
+  },
   "CommonForm": {
     "Saby_ВыполнитьДействие": {
       "Form.json": "base\\CommonForm\\Saby_ВыполнитьДействие\\Form.json",
@@ -307,6 +310,9 @@
     },
     "ХодатайствоОБронированииГражданПребывающихВЗапасе": {
       "Document.json": "base\\ЗУП3\\Document\\ХодатайствоОБронированииГражданПребывающихВЗапасе\\Document.json"
+    },
+    "МатериальнаяПомощь": {
+      "Document.json": "base\\ЗУП3\\Document\\МатериальнаяПомощь\\Document.json"
     }
   },
   "InformationRegister": {
@@ -328,11 +334,6 @@
   "Role": {
     "Saby_ОсновнаяРоль.json": "base\\ЗУП3\\Role\\Saby_ОсновнаяРоль.json",
     "ИспользованиеИнтеграцииС1СДокументооборотом.json": "base\\ЗУП3\\Role\\ИспользованиеИнтеграцииС1СДокументооборотом.json"
-  },
-  "Subsystem": {
-    "Администрирование": {
-      "Subsystem.json": "base\\ЗУП3\\Subsystem\\Администрирование\\Subsystem.json"
-    }
   },
   "version.txt": "version.txt"
 }

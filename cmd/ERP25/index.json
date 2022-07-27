@@ -1,8 +1,8 @@
 {
-  "Области include":{
-	"core_src_ДлительныеОперации": "core_src_ДлительныеОперации_Расширение",
-	"core_src_Helpers_ПроверкаВерсииПродукта_НазваниеПродукта": "core_src_Helpers_ПроверкаВерсииПродукта_Расширение_НазваниеПродукта",
-	"core_src_Helpers_ПроверкаВерсииПродукта_НаФормеПоТипу": "core_src_Helpers_ПроверкаВерсииПродукта_Расширение_НаФормеПоТипу"  
+  "Области include": {
+    "core_src_ДлительныеОперации": "core_src_ДлительныеОперации_Расширение",
+    "core_src_Helpers_ПроверкаВерсииПродукта_НазваниеПродукта": "core_src_Helpers_ПроверкаВерсииПродукта_Расширение_НазваниеПродукта",
+    "core_src_Helpers_ПроверкаВерсииПродукта_НаФормеПоТипу": "core_src_Helpers_ПроверкаВерсииПродукта_Расширение_НаФормеПоТипу"
   },
   "ConfigurationExtension.json": "base\\ERP25\\ConfigurationExtension.json",
   "Catalog": {
@@ -23,6 +23,9 @@
   "CommonCommand": {
     "Saby_ОткрытьФормуНастроек.json": "base\\CommonCommand\\Saby_ОткрытьФормуНастроек.json",
     "Saby_ОткрытьФормуНастроек.obj.1c": "base\\CommonCommand\\Saby_ОткрытьФормуНастроек.obj.1c"
+  },
+  "CommandGroup": {
+    "Saby_ГруппаНастройки.json": "base\\CommandGroup\\Saby_ГруппаНастройки.json"
   },
   "CommonForm": {
     "Saby_ВыполнитьДействие": {
@@ -304,6 +307,9 @@
     },
     "ХодатайствоОБронированииГражданПребывающихВЗапасе": {
       "Document.json": "base\\ERP25\\Document\\ХодатайствоОБронированииГражданПребывающихВЗапасе\\Document.json"
+    },
+    "МатериальнаяПомощь": {
+      "Document.json": "base\\ERP25\\Document\\МатериальнаяПомощь\\Document.json"
     }
   },
   "InformationRegister": {
@@ -325,11 +331,6 @@
   "Role": {
     "Saby_ОсновнаяРоль.json": "base\\ERP25\\Role\\Saby_ОсновнаяРоль.json",
     "ИспользованиеИнтеграцииС1СДокументооборотом.json": "base\\ERP25\\Role\\ИспользованиеИнтеграцииС1СДокументооборотом.json"
-  },
-  "Subsystem": {
-    "Администрирование": {
-      "Subsystem.json": "base\\ERP25\\Subsystem\\Администрирование\\Subsystem.json"
-    }
   },
   "version.txt": "version.txt"
 }
