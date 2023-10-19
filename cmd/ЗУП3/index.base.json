@@ -1,0 +1,208 @@
+{
+  "Области include": {
+    "core_src_ДлительныеОперации": "core_src_ДлительныеОперации_Расширение",
+    "core_src_DataProcessor_SABY_ОсобенностиПлатформы_МодульФормы": "core_src_DataProcessor_SABY_ОсобенностиПлатформы_МодульФормы803",
+    "core_src_DataProcessor_SABY_ОсобенностиПлатформы_РаботаСоСтроками": "core_src_DataProcessor_SABY_ОсобенностиПлатформы_РаботаСоСтроками803",
+	"core_src_DataProcessor_SABY_ОсобенностиПлатформы_РаботаСЭлементамиФормы": "core_src_DataProcessor_SABY_ОсобенностиПлатформы_РаботаСЭлементамиУправляемойФормы",
+    "core_src_DataProcessor_СБИС_ОсобенностиПлатформы_МодульОбъекта": "core_src_DataProcessor_СБИС_DataProcessor803",
+    "core_src_DataProcessor_СБИС_Form_Browser_ОсобенностиПлатформы": "core_src_DataProcessor_СБИС_Form_Browser_Form803",
+    "core_src_Helpers_Константы": "core_src_Helpers_Константы803",
+    "core_src_Helpers_FormGetters": "core_src_Helpers_FormGetters803",
+    "base_src_ПроверкаДоступа_ПолучитьРольДляДоступаПоУмолчанию": "base_ЗУП3_ПроверкаДоступа_ПолучитьРольДляДоступаПоУмолчанию",
+    "base_ОбъектыФормыИзПодсистемыКадры": "base_ЗУП3_ОбъектыФормыИзПодсистемыКадры",
+    "core_src_ПроверкаВерсии_ПолучитьИмяФайлаИНомерТекущейВерсии": "core_src_ПроверкаВерсии_ПолучитьИмяФайлаИНомерТекущейВерсииРасширение",
+	"core_base_АвтоматическиеОперации_МодульОбработки": "core_base_АвтоматическиеОперации_МодульОбработки",
+	"core_base_АвтоматическиеОперации_ВызовФорм": "core_base_АвтоматическиеОперации_ВызовФорм_Расширение",
+	"core_base_АвтоматическиеОперации_РегламентнаяОперация": "core_base_АвтоматическиеОперации_РегламентнаяОперация803"
+  },
+  "ConfigurationExtension.json": "src\\ЗУП3\\ConfigurationExtension.json",
+  "Catalog": {
+    "Saby_СостоянияОбъектов": {
+      "Catalog.json": "base\\Catalog\\Saby_СостоянияОбъектов\\Catalog.json",
+      "Catalog.mgr.1c": "base\\Catalog\\Saby_СостоянияОбъектов\\Catalog.mgr.1c"
+    },
+    "Организации": {
+      "Catalog.json": "src\\ЗУП3\\Catalog\\Организации\\Catalog.json"
+    },
+    "Сотрудники": {
+      "Catalog.json": "src\\ЗУП3\\Catalog\\Сотрудники\\Catalog.json"
+    },
+    "ФизическиеЛица": {
+      "Catalog.json": "src\\ЗУП3\\Catalog\\ФизическиеЛица\\Catalog.json"
+    }
+  },
+  "CommonCommand": {
+  },
+  "CommandGroup": {
+  },
+  "CommonForm": {
+  },
+  "ExchangePlan": {
+    "МиграцияПриложений": {
+      "ExchangePlan.json": "src\\ЗУП3\\ExchangePlan\\МиграцияПриложений\\ExchangePlan.json"
+    }
+  },
+  "EventSubscription": {
+	"Saby_ЗаписьДокументаСоСреднимЗарабатком.json": "base\\EventSubscription\\Saby_ЗаписьДокументаСоСреднимЗарабатком.json"
+   },
+  "CommonModule": {
+    "Saby_Core": {
+      "CommonModule.json": "base\\CommonModule\\Saby_Core\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_Core\\CommonModule.obj.1c"
+    },
+    "ДополнительныеОтчетыИОбработки": {
+      "CommonModule.json": "base\\CommonModule\\ДополнительныеОтчетыИОбработки\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\ДополнительныеОтчетыИОбработки\\CommonModule.obj.1c"
+    },
+	"Saby_ПодпискиНаСобытия": {
+      "CommonModule.json": "base\\CommonModule\\Saby_ПодпискиНаСобытия\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_ПодпискиНаСобытия\\CommonModule.obj.1c"
+    }
+  },
+  "CommonPicture": {
+  },
+  "DataProcessor": {
+    "SABY": {
+      "DataProcessor.json": "core\\src\\DataProcessor\\SABY\\DataProcessor.json",
+      "DataProcessor.obj.1c": "core\\src\\DataProcessor\\SABY\\DataProcessor.obj.1c",
+      "Form": {
+        "Browser": {
+          "Form.json": "core\\src\\DataProcessor\\SABY\\Form\\Browser\\Form.json",
+          "Form.form803.json": "core\\src\\DataProcessor\\SABY\\Form\\Browser\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\DataProcessor\\SABY\\Form\\Browser\\Form.obj.1c",
+          "Form.commands803.json": "core\\src\\DataProcessor\\SABY\\Form\\Browser\\Form.commands803.json",
+          "Form.elements803.json": "core\\src\\DataProcessor\\SABY\\Form\\Browser\\Form.elements803.json",
+          "Form.params803.json": "core\\src\\DataProcessor\\SABY\\Form\\Browser\\Form.params803.json",
+          "Form.props803.json": "core\\src\\DataProcessor\\SABY\\Form\\Browser\\Form.props803.json"
+        },
+        "Вход": {
+          "Form.json": "core\\src\\DataProcessor\\SABY\\Form\\Вход\\Form.json",
+          "Form.form803.json": "core\\src\\DataProcessor\\SABY\\Form\\Вход\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\DataProcessor\\SABY\\Form\\Вход\\Form.obj.1c",
+          "Form.commands803.json": "core\\src\\DataProcessor\\SABY\\Form\\Вход\\Form.commands803.json",
+          "Form.props803.json": "core\\src\\DataProcessor\\SABY\\Form\\Вход\\Form.props803.json",
+          "Form.params803.json": "core\\src\\DataProcessor\\SABY\\Form\\Вход\\Form.params803.json"
+        },
+        "ЗагрузкаПечатныхФормДокументов": {
+          "Form.json": "core\\src\\DataProcessor\\SABY\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.json",
+          "Form.form803.json": "core\\src\\DataProcessor\\SABY\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\DataProcessor\\SABY\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.obj.1c",
+          "Form.commands803.json": "core\\src\\DataProcessor\\SABY\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.commands803.json",
+          "Form.elements803.json": "core\\src\\DataProcessor\\SABY\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.elements803.json",
+          "Form.props803.json": "core\\src\\DataProcessor\\SABY\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.props803.json"
+        },
+        "Настройки": {
+          "Form.json": "core\\src\\DataProcessor\\SABY\\Form\\Настройки\\Form.json",
+          "Form.form803.json": "core\\src\\DataProcessor\\SABY\\Form\\Настройки\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\DataProcessor\\SABY\\Form\\Настройки\\Form.obj.1c",
+          "Form.commands803.json": "core\\src\\DataProcessor\\SABY\\Form\\Настройки\\Form.commands803.json",
+          "Form.props803.json": "core\\src\\DataProcessor\\SABY\\Form\\Настройки\\Form.props803.json"
+        },
+        "ФормаПросмотраДокумента": {
+          "Form.json": "core\\src\\DataProcessor\\SABY\\Form\\ФормаПросмотраДокумента\\Form.json",
+          "Form.form803.json": "core\\src\\DataProcessor\\SABY\\Form\\ФормаПросмотраДокумента\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\DataProcessor\\SABY\\Form\\ФормаПросмотраДокумента\\Form.obj.1c",
+          "Form.commands803.json": "core\\src\\DataProcessor\\SABY\\Form\\ФормаПросмотраДокумента\\Form.commands803.json",
+          "Form.elements803.json": "core\\src\\DataProcessor\\SABY\\Form\\ФормаПросмотраДокумента\\Form.elements803.json",
+          "Form.params803.json": "core\\src\\DataProcessor\\SABY\\Form\\ФормаПросмотраДокумента\\Form.params803.json",
+          "Form.props803.json": "core\\src\\DataProcessor\\SABY\\Form\\ФормаПросмотраДокумента\\Form.props803.json"
+        },
+        "Задачи": {
+          "Form.json": "core\\src\\DataProcessor\\SABY\\Form\\Задачи\\Form.json",
+          "Form.form803.json": "core\\src\\DataProcessor\\SABY\\Form\\Задачи\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\DataProcessor\\SABY\\Form\\Задачи\\Form.obj.1c",
+          "Form.commands803.json": "core\\src\\DataProcessor\\SABY\\Form\\Задачи\\Form.commands803.json",
+          "Form.props803.json": "core\\src\\DataProcessor\\SABY\\Form\\Задачи\\Form.props803.json"
+        },
+        "ВыполнитьДействие": {
+          "Form.json": "core\\src\\DataProcessor\\SABY\\Form\\ВыполнитьДействие\\Form.json",
+          "Form.form803.json": "core\\src\\DataProcessor\\SABY\\Form\\ВыполнитьДействие\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\DataProcessor\\SABY\\Form\\ВыполнитьДействие\\Form.obj.1c",
+          "Form.commands803.json": "core\\src\\DataProcessor\\SABY\\Form\\ВыполнитьДействие\\Form.commands803.json",
+          "Form.params803.json": "core\\src\\DataProcessor\\SABY\\Form\\ВыполнитьДействие\\Form.params803.json",
+          "Form.props803.json": "core\\src\\DataProcessor\\SABY\\Form\\ВыполнитьДействие\\Form.props803.json"
+        },
+		"РоботСписок": {
+          "Form.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботСписок\\Form.json",
+          "Form.form803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботСписок\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\АвтоматическиеОперации\\Form\\РоботСписок\\Form.obj.1c",
+          "Form.commands803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботСписок\\Form.commands803.json",
+          "Form.props803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботСписок\\Form.props803.json"
+        },
+		"РоботОперация": {
+          "Form.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботОперация\\Form.json",
+          "Form.form803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботОперация\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\АвтоматическиеОперации\\Form\\РоботОперация\\Form.obj.1c",
+          "Form.commands803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботОперация\\Form.commands803.json",
+          "Form.props803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботОперация\\Form.props803.json"
+        },
+		"РоботВыборАлгоритма": {
+          "Form.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботВыборАлгоритма\\Form.json",
+          "Form.form803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботВыборАлгоритма\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\АвтоматическиеОперации\\Form\\РоботВыборАлгоритма\\Form.obj.1c",
+          "Form.commands803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботВыборАлгоритма\\Form.commands803.json",
+          "Form.props803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботВыборАлгоритма\\Form.props803.json",
+		  "Form.elements803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботВыборАлгоритма\\Form.elements803.json"
+         },
+		"РоботПарамФильтрОбъектовСинх": {
+          "Form.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботПарамФильтрОбъектовСинх\\Form.json",
+          "Form.form803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботПарамФильтрОбъектовСинх\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\АвтоматическиеОперации\\Form\\РоботПарамФильтрОбъектовСинх\\Form.obj.1c",
+          "Form.commands803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботПарамФильтрОбъектовСинх\\Form.commands803.json",
+          "Form.props803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботПарамФильтрОбъектовСинх\\Form.props803.json",
+		  "Form.elements803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботПарамФильтрОбъектовСинх\\Form.elements803.json"
+        },
+		"РоботДлительнаяОперация": {
+          "Form.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботДлительнаяОперация\\Form.json",
+          "Form.form803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботДлительнаяОперация\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\АвтоматическиеОперации\\Form\\РоботДлительнаяОперация\\Form.obj.1c",
+          "Form.params803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботДлительнаяОперация\\Form.params803.json",
+          "Form.props803.json": "core\\src\\АвтоматическиеОперации\\Form\\РоботДлительнаяОперация\\Form.props803.json"
+        }
+      },
+      "Template": {
+        "WebInWeb.html": "core\\src\\DataProcessor\\SABY\\Template\\WebInWeb.html",
+        "WebInWeb.json": "core\\src\\DataProcessor\\SABY\\Template\\WebInWeb.json",
+		"ИсторияОбмена.json": "core\\src\\АвтоматическиеОперации\\Template\\ИсторияОбмена.json",
+		"ИсторияОбмена.bin": "core\\src\\АвтоматическиеОперации\\Template\\ИсторияОбмена.bin"
+      }
+    }
+  },
+  "DefinedType": {},
+  "Document": {
+  },
+  "InformationRegister": {
+    "Saby_Состояние": {
+      "InformationRegister.json": "src\\ЗУП3\\InformationRegister\\Saby_Состояние\\InformationRegister.json",
+      "InformationRegister.mgr.1c": "base\\InformationRegister\\Saby_Состояние\\InformationRegister.mgr.1c",
+      "InformationRegisterForm": {
+        "ФормаЗаписи": {
+          "Form.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.json",
+          "Form.form803.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.form803.json",
+          "Form.elements803.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.elements803.json",
+          "Form.props803.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.props803.json"
+        },
+        "ФормаСписка": {
+          "Form.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.json",
+          "Form.form803.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.form803.json",
+          "Form.elements803.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.elements803.json",
+          "Form.props803.json": "base\\InformationRegister\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.props803.json"
+        }
+      }
+    }
+  },
+  "Role": {
+    "Saby_ОсновнаяРоль.json": "src\\ЗУП3\\Role\\Saby_ОсновнаяРоль.json",
+    "ИспользованиеИнтеграцииС1СДокументооборотом.json": "src\\ЗУП3\\Role\\ИспользованиеИнтеграцииС1СДокументооборотом.json",
+    "ПолныеПрава.json": "src\\ЗУП3\\Role\\ПолныеПрава.json"
+  },
+  "Subsystem": {
+     "SABY": {
+      "Subsystem.json": "src\\ЗУП3\\Subsystem\\SABY\\Subsystem.json"
+    }
+  },
+  "Language": {
+    "Русский.json": ""
+  },
+  "version.bin": "version.bin"
+}
