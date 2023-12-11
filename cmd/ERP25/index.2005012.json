@@ -1,0 +1,8 @@
+{
+  "index.json": [
+	"kedo\\cmd\\ERP25\\index.json",
+	"etrn\\cmd\\ERP25\\index.json",
+	"sickleave\\cmd\\ERP25\\index.2005012.json",
+	"cmd\\ERP25\\index.base.json"
+  ]
+}

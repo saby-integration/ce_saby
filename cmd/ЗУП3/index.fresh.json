@@ -1,0 +1,15 @@
+{
+  "index.json": [
+	"kedo\\cmd\\ЗУП3\\index.json",
+	"sickleave\\cmd\\ЗУП3\\index.3001027.json",
+	"cmd\\ЗУП3\\index.base.json"
+  ],
+  "Области include": 
+  {
+	"core_base_Transport_МодульФормы": "core_base_Transport_МодульФормыFRESH",
+	"core_base_SabyHttpsClient_МодульОбъекта": "core_base_SabyHttpsClient_МодульОбъектаFRESH",
+	"core_base_Helpers_НастройкиПодключенияСписокДоменов": "core_base_Helpers_НастройкиПодключенияСписокДоменовFRESH",
+	"core_base_SabyHttpsClient_ПолучениеКомпоненты": "core_base_SabyHttpsClient_ПолучениеКомпонентыFRESH",
+	"core_base_АвтоматическиеОперации_ВызовФорм_УдалениеУзлаОбмена": "core_base_АвтоматическиеОперации_ВызовФорм_УдалениеУзлаОбменаFRESH"
+  }
+}
