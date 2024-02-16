@@ -1,0 +1,101 @@
+{
+  "index.json": [
+    "kedo\\cmd\\УТ11\\index.json",
+	"etrn\\cmd\\УТ11\\index.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.json"
+  ],
+  "Области include": {
+    "core_base_ОсобенностиПлатформы_МодульФормы": "core_base_ОсобенностиПлатформы_МодульФормыУФ",
+    "core_base_ОсобенностиПлатформы_РаботаСоСтроками": "core_base_ОсобенностиПлатформы_РаботаСоСтрокамиУФ",
+    "core_base_ОсобенностиПлатформы_МодульОбъекта": "core_base_ОсобенностиПлатформы_МодульОбъектаУФ",
+	"core_base_ОсобенностиПлатформы_РаботаСЭлементамиФормы": "core_base_ОсобенностиПлатформы_РаботаСЭлементамиУФ",
+    "base_src_ПроверкаДоступа_ПолучитьРольДляДоступаПоУмолчанию": "base_УТ11_ПроверкаДоступа_ПолучитьРольДляДоступаПоУмолчанию",
+    "base_ОбъектыФормыИзПодсистемыКадры": "base_УТ11_ОбъектыФормыИзПодсистемыКадры",
+    "core_base_АвтоматическиеОперации_МодульОбработки": "core_base_АвтоматическиеОперации_МодульОбработки",
+	"core_base_АвтоматическиеОперации_ВызовФорм": "core_base_АвтоматическиеОперации_ВызовФорм_Расширение",
+	"core_base_АвтоматическиеОперации_РегламентнаяОперация": "core_base_АвтоматическиеОперации_РегламентнаяОперацияУФ",
+	"core_base_Транспорт_МодульФормы": "core_base_Транспорт_МодульФормы",
+	"core_base_Транспорт_SabyHttpsClient_МодульОбъекта": "core_base_Транспорт_SabyHttpsClient_МодульОбъекта"
+  },
+  "ConfigurationExtension.json": "src\\УТ11\\ConfigurationExtension.json",
+  "Catalog": {
+    "Saby_СостоянияОбъектов": {
+      "Catalog.json": "core\\base\\СтатусыSABY\\Saby_СостоянияОбъектов\\Catalog.json",
+      "Catalog.mgr.1c": "core\\base\\СтатусыSABY\\Saby_СостоянияОбъектов\\Catalog.mgr.1c"
+    }
+  },
+  "CommonCommand": {
+  },
+  "CommandGroup": {
+  },
+  "CommonForm": {
+  },
+  "ExchangePlan": {
+    "МиграцияПриложений": {
+      "ExchangePlan.json": "src\\УТ11\\ExchangePlan\\МиграцияПриложений\\ExchangePlan.json"
+    }
+  },  
+  "CommonModule": {
+    "Saby_Core": {
+      "CommonModule.json": "base\\CommonModule\\Saby_Core\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_Core\\CommonModule.obj.1c"
+    },
+    "ДополнительныеОтчетыИОбработки": {
+      "CommonModule.json": "base\\CommonModule\\ДополнительныеОтчетыИОбработки\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\ДополнительныеОтчетыИОбработки\\CommonModule.obj.1c"
+    },
+	"Saby_ПодпискиНаСобытия": {
+      "CommonModule.json": "base\\CommonModule\\Saby_ПодпискиНаСобытия\\CommonModule.json",
+      "CommonModule.obj.1c": "base\\CommonModule\\Saby_ПодпискиНаСобытия\\CommonModule.obj.1c"
+    }
+  },
+  "CommonPicture": {
+    "Saby_Отступ24х24.bin": "base\\CommonPicture\\Saby_Отступ24х24.bin",
+    "Saby_Отступ24х24.json": "base\\CommonPicture\\Saby_Отступ24х24.json"
+  },
+  "DataProcessor": {
+  },
+  "DefinedType": {},
+  "Document": {
+  },
+  "InformationRegister": {
+    "Saby_Состояние": {
+      "InformationRegister.json": "src\\УТ11\\InformationRegister\\Saby_Состояние\\InformationRegister.json",
+      "InformationRegister.mgr.1c": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegister.mgr.1c",
+      "InformationRegisterForm": {
+        "ФормаЗаписи": {
+          "Form.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.json",
+          "Form.form803.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.form803.json",
+          "Form.elements803.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.elements803.json",
+          "Form.props803.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.props803.json"
+        },
+        "ФормаСписка": {
+          "Form.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.json",
+          "Form.form803.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.form803.json",
+          "Form.elements803.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.elements803.json",
+          "Form.props803.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.props803.json"
+        }
+      }
+    }
+  },
+  "Role": {
+    "Saby_ОсновнаяРоль.json": "src\\УТ11\\Role\\Saby_ОсновнаяРоль.json",
+    "ИспользованиеИнтеграцииС1СДокументооборотом.json": "src\\УТ11\\Role\\ИспользованиеИнтеграцииС1СДокументооборотом.json",
+    "ПолныеПрава.json": "src\\УТ11\\Role\\ПолныеПрава.json"
+  },
+  "Subsystem": {
+    "SABY": {
+      "Subsystem.json": "src\\УТ11\\Subsystem\\SABY\\Subsystem.json"
+    }
+  },
+  "Constant": {
+  },
+  "Enum": {
+  },
+  "FunctionalOption": {
+  },
+  "Language": {
+    "Русский.json": ""
+  },
+  "version.bin": "version.bin"
+}
