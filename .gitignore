@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+/.idea
+/temp
+/bin
+*test.cfe
+v8unpack.exe

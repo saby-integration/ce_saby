@@ -1,0 +1,9 @@
+{
+  "index.json": [
+	"kedo\\cmd\\БУХ3\\index.json",
+	"etrn\\cmd\\БУХ3\\index.json",
+	"sickleave\\cmd\\БУХ3\\index.3000112.json",	
+	"cmd\\БУХ3\\index.base.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.json"
+  ]
+}
