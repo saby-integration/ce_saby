@@ -1,0 +1,7 @@
+{
+  "index.json": [
+	"kedo\\cmd\\KZP5\\index.json",
+	"cmd\\KZP5\\index.base.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.json"
+  ]
+}
