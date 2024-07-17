@@ -1,0 +1,95 @@
+{
+  "Области include": {
+    "core_base_ОсобенностиПлатформы_МодульФормы": "core_base_ОсобенностиПлатформы_МодульФормыУФ",
+    "core_base_ОсобенностиПлатформы_РаботаСоСтроками": "core_base_ОсобенностиПлатформы_РаботаСоСтрокамиУФ",
+    "core_base_ОсобенностиПлатформы_МодульОбъекта": "core_base_ОсобенностиПлатформы_МодульОбъектаУФ",
+	"core_base_ОсобенностиПлатформы_РаботаСЭлементамиФормы": "core_base_ОсобенностиПлатформы_РаботаСЭлементамиУФ",
+    "base_src_ПроверкаДоступа_ПолучитьРольДляДоступаПоУмолчанию": "base_KZP5_ПроверкаДоступа_ПолучитьРольДляДоступаПоУмолчанию",
+    "base_ОбъектыФормыИзПодсистемыКадры": "base_KZP5_ОбъектыФормыИзПодсистемыКадры",
+	"core_base_АвтоматическиеОперации_МодульОбработки": "core_base_АвтоматическиеОперации_МодульОбработки",
+	"core_base_АвтоматическиеОперации_ВызовФорм": "core_base_АвтоматическиеОперации_ВызовФорм_Расширение",
+	"core_base_АвтоматическиеОперации_РегламентнаяОперация": "core_base_АвтоматическиеОперации_РегламентнаяОперацияУФ",
+	"core_base_Транспорт_МодульФормы": "core_base_Транспорт_МодульФормы",
+	"core_base_Транспорт_SabyHttpsClient_МодульОбъекта": "core_base_Транспорт_SabyHttpsClient_МодульОбъекта",
+	"core_base_ЭДО_Form_ПросмотрДокументаСБИС_ПоказатьВложение": "core_base_ЭДО_Form_ПросмотрДокументаСБИС_ПоказатьВложениеFresh",
+	"core_base_ВстраиваниеВФормы_ДобавитьКолонкиВСправочники": "core_base_ВстраиваниеВФормы_ДобавитьКолонкиВСправочникиKZP5",
+	"kedo_base_Form_ДокументыКЭДО_СписокПриАктивизацииСтроки": "kedo_base_Form_ДокументыКЭДО_СписокПриАктивизацииСтрокиKZP5",
+	"kedo_base_Form_ДокументыКЭДО_УстановитьТекустЗапросаСписка": "kedo_base_Form_ДокументыКЭДО_УстановитьТекустЗапросаСпискаKZP5"
+  },
+  "ConfigurationExtension.json": "src\\KZP5\\ConfigurationExtension.json",
+  "ConfigurationExtension803.app.bsl": "src\\ConfigurationExtension803.app.bsl",
+  "Catalog": {
+  },
+  "CommonCommand": {
+  },
+  "CommandGroup": {
+  },
+  "CommonForm": {
+  },
+  "ExchangePlan": {
+    "МиграцияПриложений": {
+      "ExchangePlan.json": "src\\KZP5\\ExchangePlan\\МиграцияПриложений\\ExchangePlan.json"
+    }
+  },
+  "EventSubscription": {
+	"Saby_ЗаписьДокументаСоСреднимЗаработком.json": "base\\EventSubscription\\Saby_ЗаписьДокументаСоСреднимЗаработком.json"
+   },
+  "CommonModule": {
+    "Saby_Core": {
+      "CommonModule.json": "base\\CommonModule\\Saby_Core\\CommonModule.json",
+      "CommonModule.obj.bsl": "base\\CommonModule\\Saby_Core\\CommonModule.obj.bsl"
+    },
+    "ДополнительныеОтчетыИОбработки": {
+      "CommonModule.json": "base\\CommonModule\\ДополнительныеОтчетыИОбработки\\CommonModule.json",
+      "CommonModule.obj.bsl": "base\\CommonModule\\ДополнительныеОтчетыИОбработки\\CommonModule.obj.bsl"
+    },
+	"Saby_ПодпискиНаСобытия": {
+      "CommonModule.json": "base\\CommonModule\\Saby_ПодпискиНаСобытия\\CommonModule.json",
+      "CommonModule.obj.bsl": "base\\CommonModule\\Saby_ПодпискиНаСобытия\\CommonModule.obj.bsl"
+    }
+  },
+  "CommonPicture": {
+  },
+  "DataProcessor": {
+  },
+  "DefinedType": {},
+  "Document": {
+  },
+  "InformationRegister": {
+    "Saby_Состояние": {
+      "InformationRegister.json": "src\\KZP5\\InformationRegister\\Saby_Состояние\\InformationRegister.json",
+      "InformationRegister.mgr.bsl": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegister.mgr.bsl",
+      "InformationRegisterForm": {
+        "ФормаЗаписи": {
+          "Form.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.json",
+          "Form.form803.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.form803.json",
+          "Form.elements803.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.elements803.json",
+          "Form.props803.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаЗаписи\\Form.props803.json"
+        },
+        "ФормаСписка": {
+          "Form.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.json",
+          "Form.form803.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.form803.json",
+          "Form.elements803.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.elements803.json",
+          "Form.props803.json": "core\\base\\СтатусыSABY\\Saby_Состояние\\InformationRegisterForm\\ФормаСписка\\Form.props803.json"
+        }
+      }
+    }
+  },
+  "Role": {
+    "Saby_ОсновнаяРоль.0.c1brace": "src\\KZP5\\Role\\Saby_ОсновнаяРоль.c1brace",
+    "Saby_ОсновнаяРоль.json": "src\\KZP5\\Role\\Saby_ОсновнаяРоль.json",
+    "ИспользованиеИнтеграцииС1СДокументооборотом.0.c1brace": "src\\KZP5\\Role\\ИспользованиеИнтеграцииС1СДокументооборотом.c1brace",
+    "ИспользованиеИнтеграцииС1СДокументооборотом.json": "src\\KZP5\\Role\\ИспользованиеИнтеграцииС1СДокументооборотом.json",
+    "ПолныеПрава.0.c1brace": "src\\KZP5\\Role\\ПолныеПрава.c1brace",
+    "ПолныеПрава.json": "src\\KZP5\\Role\\ПолныеПрава.json"
+  },
+ "Subsystem": {
+     "SABY": {
+      "Subsystem.json": "src\\KZP5\\Subsystem\\SABY\\Subsystem.json"
+    }
+  },
+  "Language": {
+    "Русский.json": ""
+  },
+  "version.bin": "version.bin"
+}
