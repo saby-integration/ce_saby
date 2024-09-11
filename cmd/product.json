@@ -1,0 +1,1475 @@
+{
+  "vo3_kedo_scheduled_job": {
+      "src": "vo3_kedo_scheduled_job/src",
+      "bin": "bin/vo3_kedo_scheduled_job.epf",
+      "temp": "temp",
+      "index": "cmd/vo3_kedo_scheduled_job/index.json",
+      "disable": false,
+      "options": {
+        "version": "80314",
+        "descent": null,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "vo3_kedo_scheduled_job_test": {
+      "src": "vo3_kedo_scheduled_job/src",
+      "bin": "bin/vo3_kedo_scheduled_job.test.epf",
+      "temp": "temp",
+      "index": "cmd/vo3_kedo_scheduled_job/index.json",
+      "disable": true,
+      "options": {
+        "version": "80314",
+        "descent": null,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  
+  
+  "BP3PROF_3000112": {
+      "src": "src/БУХ3PROF",
+      "bin": "bin/SABY_BP3PROF_3000112.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000112.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }  },
+  "BP3PROF_3000112_test": {
+      "src": "src/БУХ3PROF",
+      "bin": "bin/SABY_BP3PROF_3000112_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000112.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }  },
+  
+  "BP3PROF_3000118": {
+      "src": "src/БУХ3PROF",
+      "bin": "bin/SABY_BP3PROF_3000118.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000118.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 3000118,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "BP3PROF_3000118_test": {
+      "src": "src/БУХ3PROF",
+      "bin": "bin/SABY_BP3PROF_3000118_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000118.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 3000118,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  "BP3PROF_3000139": {
+      "src": "src/БУХ3PROF",
+      "bin": "bin/SABY_BP3PROF_3000139.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000139.json",
+      "disable": false,
+      "options": {
+        "version": "80317",
+        "descent": 3000139,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "BP3PROF_3000139_test": {
+      "src": "src/БУХ3PROF",
+      "bin": "bin/SABY_BP3PROF_3000139_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000139.json",
+      "disable": true,
+      "options": {
+        "version": "80317",
+        "descent": 3000139,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+ 
+  "BP3PROF_3000142": {
+      "src": "src/БУХ3PROF",
+      "bin": "bin/SABY_BP3PROF_3000142.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000142.json",
+      "disable": false,
+      "options": {
+        "version": "80317",
+        "descent": 3000142,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "BP3PROF_3000142_test": {
+      "src": "src/БУХ3PROF",
+      "bin": "bin/SABY_BP3PROF_3000142_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000142.json",
+      "disable": true,
+      "options": {
+        "version": "80317",
+        "descent": 3000142,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+ 
+  "BP3PROF_3000143": {
+      "src": "src/БУХ3PROF",
+      "bin": "bin/SABY_BP3PROF_3000143.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000143.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 3000143,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "BP3PROF_3000143_test": {
+      "src": "src/БУХ3PROF",
+      "bin": "bin/SABY_BP3PROF_3000143_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000143.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 3000143,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "BP3PROF_FRESH": {
+      "src": "src/БУХ3PROF",
+      "bin": "bin/SABY_BP3PROF_FRESH.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.fresh.json",
+      "disable": false,
+      "options": {
+        "version": "80317",
+        "descent": 3000143,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "BP3PROF_FRESH_test": {
+      "src": "src/БУХ3PROF",
+      "bin": "bin/SABY_BP3PROF_FRESH_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.fresh.json",
+      "disable": true,
+      "options": {
+        "version": "80317",
+        "descent": 3000143,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  
+  "BP3CORP_3000112": {
+      "src": "src/БУХ3CORP",
+      "bin": "bin/SABY_BP3CORP_3000112.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000112.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }  },
+  "BP3CORP_3000112_test": {
+      "src": "src/БУХ3CORP",
+      "bin": "bin/SABY_BP3CORP_3000112_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000112.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }  },
+  
+  "BP3CORP_3000118": {
+      "src": "src/БУХ3CORP",
+      "bin": "bin/SABY_BP3CORP_3000118.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000118.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 3000118,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "BP3CORP_3000118_test": {
+      "src": "src/БУХ3CORP",
+      "bin": "bin/SABY_BP3CORP_3000118_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000118.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 3000118,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  "BP3CORP_3000139": {
+      "src": "src/БУХ3CORP",
+      "bin": "bin/SABY_BP3CORP_3000139.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000139.json",
+      "disable": false,
+      "options": {
+        "version": "80317",
+        "descent": 3000139,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "BP3CORP_3000139_test": {
+      "src": "src/БУХ3CORP",
+      "bin": "bin/SABY_BP3CORP_3000139_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000139.json",
+      "disable": true,
+      "options": {
+        "version": "80317",
+        "descent": 3000139,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+ 
+  "BP3CORP_3000142": {
+      "src": "src/БУХ3CORP",
+      "bin": "bin/SABY_BP3CORP_3000142.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000142.json",
+      "disable": false,
+      "options": {
+        "version": "80317",
+        "descent": 3000142,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "BP3CORP_3000142_test": {
+      "src": "src/БУХ3CORP",
+      "bin": "bin/SABY_BP3CORP_3000142_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000142.json",
+      "disable": true,
+      "options": {
+        "version": "80317",
+        "descent": 3000142,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+ 
+  "BP3CORP_3000143": {
+      "src": "src/БУХ3CORP",
+      "bin": "bin/SABY_BP3CORP_3000143.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000143.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 3000143,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "BP3CORP_3000143_test": {
+      "src": "src/БУХ3CORP",
+      "bin": "bin/SABY_BP3CORP_3000143_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000143.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 3000143,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "BP3CORP_FRESH": {
+      "src": "src/БУХ3CORP",
+      "bin": "bin/SABY_BP3CORP_FRESH.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.fresh.json",
+      "disable": false,
+      "options": {
+        "version": "80317",
+        "descent": 3000143,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "BP3CORP_FRESH_test": {
+      "src": "src/БУХ3CORP",
+      "bin": "bin/SABY_BP3CORP_FRESH_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.fresh.json",
+      "disable": true,
+      "options": {
+        "version": "80317",
+        "descent": 3000143,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+
+  "BP3BitFinance_3000112": {
+      "src": "src/БУХ3БитФинанс",
+      "bin": "bin/SABY_BP3BitFinance_3000112.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000112.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "BP3BitFinance_3000112_test": {
+      "src": "src/БУХ3БитФинанс",
+      "bin": "bin/SABY_BP3BitFinance_3000112_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000112.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "BP3BitFinance_3000118": {
+      "src": "src/БУХ3БитФинанс",
+      "bin": "bin/SABY_BP3BitFinance_3000118.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000118.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 3000118,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "BP3BitFinance_3000118_test": {
+      "src": "src/БУХ3БитФинанс",
+      "bin": "bin/SABY_BP3BitFinance_3000118_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000118.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 3000118,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "BP3BitFinance_3000139": {
+      "src": "src/БУХ3БитФинанс",
+      "bin": "bin/SABY_BP3BitFinance_3000139.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000139.json",
+      "disable": false,
+      "options": {
+        "version": "80317",
+        "descent": 3000139,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "BP3BitFinance_3000139_test": {
+      "src": "src/БУХ3БитФинанс",
+      "bin": "bin/SABY_BP3BitFinance_3000139_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000139.json",
+      "disable": true,
+      "options": {
+        "version": "80317",
+        "descent": 3000139,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "BP3BitFinance_3000142": {
+      "src": "src/БУХ3БитФинанс",
+      "bin": "bin/SABY_BP3BitFinance_3000142.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000142.json",
+      "disable": false,
+      "options": {
+        "version": "80317",
+        "descent": 3000142,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "BP3BitFinance_3000142_test": {
+      "src": "src/БУХ3БитФинанс",
+      "bin": "bin/SABY_BP3BitFinance_3000142_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000142.json",
+      "disable": true,
+      "options": {
+        "version": "80317",
+        "descent": 3000142,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "BP3BitFinance_3000143": {
+      "src": "src/БУХ3БитФинанс",
+      "bin": "bin/SABY_BP3BitFinance_3000143.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000143.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 3000143,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "BP3BitFinance_3000143_test": {
+      "src": "src/БУХ3БитФинанс",
+      "bin": "bin/SABY_BP3BitFinance_3000143_test.cfe",
+      "temp": "temp",
+      "index": "cmd/БУХ3/index.3000143.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 3000143,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+
+  "ZUP3CORP_3001019": {
+      "src": "src/ЗУП3CORP",
+      "bin": "bin/SABY_ZUP3CORP_3001019.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001019.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3CORP_3001019_test": {
+      "src": "src/ЗУП3CORP",
+      "bin": "bin/SABY_ZUP3CORP_3001019_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001019.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  "ZUP3CORP_3001023": {
+      "src": "src/ЗУП3CORP",
+      "bin": "bin/SABY_ZUP3CORP_3001023.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001023.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 3001023,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3CORP_3001023_test": {
+      "src": "src/ЗУП3CORP",
+      "bin": "bin/SABY_ZUP3CORP_3001023_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001023.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 3001023,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  "ZUP3CORP_3001027": {
+      "src": "src/ЗУП3CORP",
+      "bin": "bin/SABY_ZUP3CORP_3001027.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001027.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 3001027,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3CORP_3001027_test": {
+      "src": "src/ЗУП3CORP",
+      "bin": "bin/SABY_ZUP3CORP_3001027_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001027.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 3001027,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  "ZUP3CORP_3001028": {
+      "src": "src/ЗУП3CORP",
+      "bin": "bin/SABY_ZUP3CORP_3001028.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001028.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 3001028,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3CORP_3001028_test": {
+      "src": "src/ЗУП3CORP",
+      "bin": "bin/SABY_ZUP3CORP_3001028_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001028.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 3001028,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "ZUP3PROF_3001019": {
+      "src": "src/ЗУП3PROF",
+      "bin": "bin/SABY_ZUP3PROF_3001019.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001019.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3PROF_3001019_test": {
+      "src": "src/ЗУП3PROF",
+      "bin": "bin/SABY_ZUP3PROF_3001019_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001019.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  "ZUP3PROF_3001023": {
+      "src": "src/ЗУП3PROF",
+      "bin": "bin/SABY_ZUP3PROF_3001023.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001023.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 3001023,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3PROF_3001023_test": {
+      "src": "src/ЗУП3PROF",
+      "bin": "bin/SABY_ZUP3PROF_3001023_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001023.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 3001023,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  "ZUP3PROF_3001027": {
+      "src": "src/ЗУП3PROF",
+      "bin": "bin/SABY_ZUP3PROF_3001027.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001027.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 3001027,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3PROF_3001027_test": {
+      "src": "src/ЗУП3PROF",
+      "bin": "bin/SABY_ZUP3PROF_3001027_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001027.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 3001027,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  "ZUP3PROF_3001028": {
+      "src": "src/ЗУП3PROF",
+      "bin": "bin/SABY_ZUP3PROF_3001028.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001028.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 3001028,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3PROF_3001028_test": {
+      "src": "src/ЗУП3PROF",
+      "bin": "bin/SABY_ZUP3PROF_3001028_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001028.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 3001028,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "ZUP3PROF_FRESH": {
+      "src": "src/ЗУП3PROF",
+      "bin": "bin/SABY_ZUP3PROF_FRESH.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.fresh.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 3001028,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3PROF_FRESH_test": {
+      "src": "src/ЗУП3PROF",
+      "bin": "bin/SABY_ZUP3PROF_FRESH_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.fresh.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 3001028,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "ZUP3ZKGU3CORP_3001019": {
+      "src": "src/ЗУП3ЗКГУ3CORP",
+      "bin": "bin/SABY_ZUP3ZKGU3CORP_3001019.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001019.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3ZKGU3CORP_3001019_test": {
+      "src": "src/ЗУП3ЗКГУ3CORP",
+      "bin": "bin/SABY_ZUP3ZKGU3CORP_3001019_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001019.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  "ZUP3ZKGU3CORP_3001023": {
+      "src": "src/ЗУП3ЗКГУ3CORP",
+      "bin": "bin/SABY_ZUP3ZKGU3CORP_3001023.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001023.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 3001023,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3ZKGU3CORP_3001023_test": {
+      "src": "src/ЗУП3ЗКГУ3CORP",
+      "bin": "bin/SABY_ZUP3ZKGU3CORP_3001023_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001023.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 3001023,
+        "gui": null,
+        "auto_include": true
+      }
+
+  },
+  
+  "ZUP3ZKGU3CORP_3001027": {
+      "src": "src/ЗУП3ЗКГУ3CORP",
+      "bin": "bin/SABY_ZUP3ZKGU3CORP_3001027.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001027.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 3001027,
+        "gui": null,
+        "auto_include": true
+      } 
+  },
+  "ZUP3ZKGU3CORP_3001027_test": {
+      "src": "src/ЗУП3ЗКГУ3CORP",
+      "bin": "bin/SABY_ZUP3ZKGU3CORP_3001027_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001027.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 3001027,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "ZUP3ZKGU3CORP_3001028": {
+      "src": "src/ЗУП3ЗКГУ3CORP",
+      "bin": "bin/SABY_ZUP3ZKGU3CORP_3001028.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001028.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 3001028,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3ZKGU3CORP_3001028_test": {
+      "src": "src/ЗУП3ЗКГУ3CORP",
+      "bin": "bin/SABY_ZUP3ZKGU3CORP_3001028_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001028.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 3001028,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  "ZUP3ZKGU3CORP_fresh": {
+      "src": "src/ЗУП3ЗКГУ3CORP",
+      "bin": "bin/SABY_ZUP3ZKGU3CORP_fresh.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.fresh.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 3001028,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3ZKGU3CORP_fresh_test": {
+      "src": "src/ЗУП3ЗКГУ3CORP",
+      "bin": "bin/SABY_ZUP3ZKGU3CORP_fresh_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.fresh.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 3001028,
+        "gui": null,
+        "auto_include": true
+      }
+  },  
+  
+  
+
+  "ZUP3ZKGU3PROF_3001019": {
+      "src": "src/ЗУП3ЗКГУ3PROF",
+      "bin": "bin/SABY_ZUP3ZKGU3PROF_3001019.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001019.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3ZKGU3PROF_3001019_test": {
+      "src": "src/ЗУП3ЗКГУ3PROF",
+      "bin": "bin/SABY_ZUP3ZKGU3PROF_3001019_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001019.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "ZUP3ZKGU3PROF_3001023": {
+      "src": "src/ЗУП3ЗКГУ3PROF",
+      "bin": "bin/SABY_ZUP3ZKGU3PROF_3001023.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001023.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 3001023,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3ZKGU3PROF_3001023_test": {
+      "src": "src/ЗУП3ЗКГУ3PROF",
+      "bin": "bin/SABY_ZUP3ZKGU3PROF_3001023_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001023.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 3001023,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  "ZUP3ZKGU3PROF_3001027": {
+      "src": "src/ЗУП3ЗКГУ3PROF",
+      "bin": "bin/SABY_ZUP3ZKGU3PROF_3001027.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001027.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 3001027,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3ZKGU3PROF_3001027_test": {
+      "src": "src/ЗУП3ЗКГУ3PROF",
+      "bin": "bin/SABY_ZUP3ZKGU3PROF_3001027_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001027.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 3001027,
+        "gui": null,
+        "auto_include": true
+      }
+  },		
+  
+  "ZUP3ZKGU3PROF_3001028": {
+      "src": "src/ЗУП3ЗКГУ3PROF",
+      "bin": "bin/SABY_ZUP3ZKGU3PROF_3001028.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001028.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 3001028,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3ZKGU3PROF_3001028_test": {
+      "src": "src/ЗУП3ЗКГУ3PROF",
+      "bin": "bin/SABY_ZUP3ZKGU3PROF_3001028_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.3001028.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 3001028,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "ZUP3ZKGU3PROF_fresh": {
+      "src": "src/ЗУП3ЗКГУ3PROF",
+      "bin": "bin/SABY_ZUP3ZKGU3PROF_fresh.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.fresh.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 3001028,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUP3ZKGU3PROF_fresh_test": {
+      "src": "src/ЗУП3ЗКГУ3PROF",
+      "bin": "bin/SABY_ZUP3ZKGU3PROF_fresh_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУП3/index.fresh.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 3001028,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+
+  "ZUPK3PROF_3001021": {
+      "src": "src/ЗУПК3PROF",
+      "bin": "bin/SETTY_ZUPK3PROF_3001021.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУПК3/index.3001021.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUPK3PROF_3001021_test": {
+      "src": "src/ЗУПК3PROF",
+      "bin": "bin/SETTY_ZUPK3PROF_3001021_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУПК3/index.3001021.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "ZUPK3PROF_FRESH": {
+      "src": "src/ЗУПК3PROF",
+      "bin": "bin/SETTY_ZUPK3PROF_FRESH.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУПК3/index.3001021.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ZUPK3PROF_FRESH_test": {
+      "src": "src/ЗУПК3PROF",
+      "bin": "bin/SETTY_ZUPK3PROF_FRESH_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ЗУПК3/index.3001021.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+
+
+  "KZP5PROF_5000095": {
+      "src": "src/KZP5PROF",
+      "bin": "bin/SABY_KZP5PROF_5000095.cfe",
+      "temp": "temp",
+      "index": "cmd/KZP5/index.5000095.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "KZP5PROF_5000095_test": {
+      "src": "src/KZP5PROF",
+      "bin": "bin/S_KZP5PROF_5000095_test.cfe",
+      "temp": "temp",
+      "index": "cmd/KZP5/index.5000095.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+
+  "KA24PROF_2004014": {
+      "src": "src/КА24PROF",
+      "bin": "bin/SABY_KA24PROF_2004014.cfe",
+      "temp": "temp",
+      "index": "cmd/КА24/index.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "KA24PROF_2004014_test": {
+      "src": "src/КА24PROF",
+      "bin": "bin/SABY_KA24PROF_2004014_test.cfe",
+      "temp": "temp",
+      "index": "cmd/КА24/index.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+ 
+ 
+  "KA25PROF_2005010": {
+      "src": "src/КА25PROF",
+      "bin": "bin/SABY_KA25PROF_2005010.cfe",
+      "temp": "temp",
+      "index": "cmd/КА25/index.2005010.json",
+      "disable": false,
+      "options": {
+        "version": "80317",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "KA25PROF_2005010_test": {
+      "src": "src/КА25PROF",
+      "bin": "bin/SABY_KA25PROF_2005010_test.cfe",
+      "temp": "temp",
+      "index": "cmd/КА25/index.2005010.json",
+      "disable": true,
+      "options": {
+        "version": "80317",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  "KA25PROF_2005012": {
+      "src": "src/КА25PROF",
+      "bin": "bin/SABY_KA25PROF_2005012.cfe",
+      "temp": "temp",
+      "index": "cmd/КА25/index.2005012.json",
+      "disable": false,
+      "options": {
+        "version": "80317",
+        "descent": 2005012,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "KA25PROF_2005012_test": {
+      "src": "src/КА25PROF",
+      "bin": "bin/SABY_KA25PROF_2005012_test.cfe",
+      "temp": "temp",
+      "index": "cmd/КА25/index.2005012.json",
+      "disable": true,
+      "options": {
+        "version": "80317",
+        "descent": 2005012,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+   "KA25PROF_2005014": {
+      "src": "src/КА25PROF",
+      "bin": "bin/SABY_KA25PROF_2005014.cfe",
+      "temp": "temp",
+      "index": "cmd/КА25/index.2005014.json",
+      "disable": false,
+      "options": {
+        "version": "80317",
+        "descent": 2005014,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "KA25PROF_2005014_test": {
+      "src": "src/КА25PROF",
+      "bin": "bin/SABY_KA25PROF_2005014_test.cfe",
+      "temp": "temp",
+      "index": "cmd/КА25/index.2005014.json",
+      "disable": true,
+      "options": {
+        "version": "80317",
+        "descent": 2005014,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+   
+   "KA25PROF_2005015": {
+      "src": "src/КА25PROF",
+      "bin": "bin/SABY_KA25PROF_2005015.cfe",
+      "temp": "temp",
+      "index": "cmd/КА25/index.2005015.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 2005015,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "KA25PROF_2005015_test": {
+      "src": "src/КА25PROF",
+      "bin": "bin/SABY_KA25PROF_2005015_test.cfe",
+      "temp": "temp",
+      "index": "cmd/КА25/index.2005015.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 2005015,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+   "KA25PROF_FRESH": {
+      "src": "src/КА25PROF",
+      "bin": "bin/SABY_KA25PROF_FRESH.cfe",
+      "temp": "temp",
+      "index": "cmd/КА25/index.fresh.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 2005015,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "KA25PROF_FRESH_test": {
+      "src": "src/КА25PROF",
+      "bin": "bin/SABY_KA25PROF_FRESH_test.cfe",
+      "temp": "temp",
+      "index": "cmd/КА25/index.fresh.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 2005015,
+        "gui": null,
+        "auto_include": true
+      }
+  },  
+
+
+
+  "ERP25PROF_2005006": {
+      "src": "src/ERP25PROF",
+      "bin": "bin/SABY_ERP25PROF_2005006.cfe",
+      "temp": "temp",
+      "index": "cmd/ERP25/index.2005006.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ERP25PROF_2005006_test": {
+      "src": "src/ERP25PROF",
+      "bin": "bin/SABY_ERP25PROF_2005006_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ERP25/index.2005006.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  "ERP25PROF_2005009": {
+      "src": "src/ERP25PROF",
+      "bin": "bin/SABY_ERP25PROF_2005009.cfe",
+      "temp": "temp",
+      "index": "cmd/ERP25/index.2005009.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 2005009,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ERP25PROF_2005009_test": {
+      "src": "src/ERP25PROF",
+      "bin": "bin/SABY_ERP25PROF_2005009_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ERP25/index.2005009.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 2005009,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  "ERP25PROF_2005012": {
+      "src": "src/ERP25PROF",
+      "bin": "bin/SABY_ERP25PROF_2005012.cfe",
+      "temp": "temp",
+      "index": "cmd/ERP25/index.2005012.json",
+      "disable": false,
+      "options": {
+        "version": "80317",
+        "descent": 2005012,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ERP25PROF_2005012_test": {
+      "src": "src/ERP25PROF",
+      "bin": "bin/SABY_ERP25PROF_2005012_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ERP25/index.2005012.json",
+      "disable": true,
+      "options": {
+        "version": "80317",
+        "descent": 2005012,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "ERP25PROF_2005014": {
+      "src": "src/ERP25PROF",
+      "bin": "bin/SABY_ERP25PROF_2005014.cfe",
+      "temp": "temp",
+      "index": "cmd/ERP25/index.2005012.json",
+      "disable": false,
+      "options": {
+        "version": "80317",
+        "descent": 2005014,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ERP25PROF_2005014_test": {
+      "src": "src/ERP25PROF",
+      "bin": "bin/SABY_ERP25PROF_2005014_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ERP25/index.2005012.json",
+      "disable": true,
+      "options": {
+        "version": "80317",
+        "descent": 2005014,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "ERP25PROF_2005015": {
+      "src": "src/ERP25PROF",
+      "bin": "bin/SABY_ERP25PROF_2005015.cfe",
+      "temp": "temp",
+      "index": "cmd/ERP25/index.2005015.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 2005015,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ERP25PROF_2005015_test": {
+      "src": "src/ERP25PROF",
+      "bin": "bin/SABY_ERP25PROF_2005015_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ERP25/index.2005015.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 2005015,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+  "ERP25PROF_FRESH": {
+      "src": "src/ERP25PROF",
+      "bin": "bin/SABY_ERP25PROF_FRESH.cfe",
+      "temp": "temp",
+      "index": "cmd/ERP25/index.fresh.json",
+      "disable": false,
+      "options": {
+        "version": "80321",
+        "descent": 2005015,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "ERP25PROF_FRESH_test": {
+      "src": "src/ERP25PROF",
+      "bin": "bin/SABY_ERP25PROF_FRESH_test.cfe",
+      "temp": "temp",
+      "index": "cmd/ERP25/index.fresh.json",
+      "disable": true,
+      "options": {
+        "version": "80321",
+        "descent": 2005015,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+
+
+
+  "UT11PROF_1100414": {
+      "src": "src/УТ11PROF",
+      "bin": "bin/SABY_UT11PROF_1100414.cfe",
+      "temp": "temp",
+      "index": "cmd/УТ11/index.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "UT11PROF_1100414_test": {
+      "src": "src/УТ11PROF",
+      "bin": "bin/SABY_UT11PROF_1100414_test.cfe",
+      "temp": "temp",
+      "index": "cmd/УТ11/index.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  
+  
+  
+   "UAT22PROF_2022401": {
+      "src": "src/УАТ22PROF",
+      "bin": "bin/SABY_UAT22PROF_2022401.cfe",
+      "temp": "temp",
+      "index": "cmd/УАТ22/index.json",
+      "disable": false,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "UAT22PROF_2022401_test": {
+      "src": "src/УАТ22PROF",
+      "bin": "bin/SABY_UAT22PROF_2022401_test.cfe",
+      "temp": "temp",
+      "index": "cmd/УАТ22/index.json",
+      "disable": true,
+      "options": {
+        "version": "80316",
+        "descent": 0,
+        "gui": null,
+        "auto_include": true
+      }
+  } 
+}
