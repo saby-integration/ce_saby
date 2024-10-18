@@ -1,0 +1,3 @@
+
+#Область include_base_CommonModule_ДополнительныеОтчетыИОбработки_CommonModule
+#КонецОбласти
