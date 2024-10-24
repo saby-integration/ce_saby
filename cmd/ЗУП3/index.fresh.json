@@ -1,0 +1,25 @@
+{
+  "index.json": [
+	"kedo\\cmd\\ЗУП3\\index.json",
+	"kedo\\cmd\\index.SSL3001007502.json",
+	"sickleave\\cmd\\ЗУП3\\index.3001028.json",
+	"cmd\\ЗУП3\\index.base.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.json"
+  ],
+  "Области include": 
+  {
+	"core_base_Транспорт_МодульФормы": "core_base_Транспорт_МодульФормыFresh",
+	"core_base_Транспорт_SabyHttpsClient_МодульОбъекта": "core_base_Транспорт_SabyHttpsClient_МодульОбъектаFresh",
+	"core_base_Helpers_НастройкиПодключенияСписокДоменов": "core_base_Helpers_НастройкиПодключенияСписокДоменовFresh",
+	"core_base_Транспорт_SabyHttpsClient_ПолучениеКомпоненты": "core_base_Транспорт_SabyHttpsClient_ПолучениеКомпонентыFresh",
+	"core_base_АвтоматическиеОперации_ВызовФорм_УдалениеУзлаОбмена": "core_base_АвтоматическиеОперации_ВызовФорм_УдалениеУзлаОбменаFresh",
+	"core_base_ОсобенностиПлатформы_УстановитьРежимWebInWeb": "core_base_ОсобенностиПлатформы_УстановитьРежимWebInWebFresh",
+	"core_base_Настройки_Form_Настройки_ОсобенностиПродукта": "core_base_Настройки_Form_Настройки_ОсобенностиПродуктаFresh",
+	"core_base_ВзаимодействиеСРегламентнымиЗаданиямиМетодыПубликации": "core_base_ВзаимодействиеСРегламентнымиЗаданиямиМетодыПубликацииFresh",
+	"core_base_РегламентныеЗадания": "core_base_РегламентныеЗаданияFresh",
+	"core_base_ОбщийМодульКонфигурации": "core_base_ОбщийМодульКонфигурацииFresh",
+	"base_CommonModule_ДополнительныеОтчетыИОбработки_CommonModule": "base_CommonModule_ДополнительныеОтчетыИОбработки_CommonModuleFresh",
+	"IntegrationBlockly_base_Blocks_ExtsyncdocWriteExtSysType": "IntegrationBlockly_base_Blocks_ExtsyncdocWriteExtSysTypeFresh",
+	"core_base_ЭДО_Form_ПросмотрДокументаСБИС_ПоказатьВложение": "core_base_ЭДО_Form_ПросмотрДокументаСБИС_ПоказатьВложениеFresh"
+  }
+}
