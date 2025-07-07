@@ -1,0 +1,40 @@
+{
+  "CommonModule": {
+    "КомандыОбменаДляФормыКлиент": {
+      "CommonModule.json": "core\\base\\ВстраиваниеВФормы\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.json",
+      "CommonModule.obj.bsl": "core\\base\\ВстраиваниеВФормы\\Saby_КомандыОбменаДляФормыКлиент\\CommonModule.obj.bsl"
+    },
+	"ФоновыеЗаданияКлиент": {
+      "CommonModule.json": "core\\base\\ФоновыеЗадания\\ФоновыеЗаданияКлиент\\CommonModule.json",
+      "CommonModule.obj.bsl": "core\\base\\ФоновыеЗадания\\ФоновыеЗаданияКлиент\\CommonModule.obj.bsl"
+    },
+	"ФоновыеЗаданияГлобальный": {
+      "CommonModule.json": "core\\base\\ФоновыеЗадания\\ФоновыеЗаданияГлобальный\\CommonModule.json",
+      "CommonModule.obj.bsl": "core\\base\\ФоновыеЗадания\\ФоновыеЗаданияГлобальный\\CommonModule.obj.bsl"
+    },
+    "ПодключаемыеКомандыПереопределяемый": {
+      "CommonModule.json": "kedo\\base\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.json",
+      "CommonModule.obj.bsl": "kedo\\base\\CommonModule\\ПодключаемыеКомандыПереопределяемый\\CommonModule.obj.bsl"
+    },
+    "ПодключаемыеКоманды": {
+      "CommonModule.json": "kedo\\base\\CommonModule\\ПодключаемыеКоманды\\CommonModule.json",
+      "CommonModule.obj.bsl": "kedo\\base\\CommonModule\\ПодключаемыеКоманды\\CommonModule.obj.bsl"
+    },
+    "ФоновыеЗаданияСервер": {
+      "CommonModule.json": "core\\base\\ФоновыеЗадания\\ФоновыеЗаданияСервер\\CommonModule.json",
+      "CommonModule.obj.bsl": "core\\base\\ФоновыеЗадания\\ФоновыеЗаданияСервер\\CommonModule.obj.bsl"
+    },
+    "ОтчетыПереопределяемый": {
+      "CommonModule.json": "kedo\\base\\CommonModule\\ОтчетыПереопределяемый\\CommonModule.json",
+      "CommonModule.obj.bsl": "kedo\\base\\CommonModule\\ОтчетыПереопределяемый\\CommonModule.obj.bsl"
+    },
+    "ОтчетыКлиентПереопределяемый": {
+      "CommonModule.json": "kedo\\base\\CommonModule\\ОтчетыКлиентПереопределяемый\\CommonModule.json",
+      "CommonModule.obj.bsl": "kedo\\base\\CommonModule\\ОтчетыКлиентПереопределяемый\\CommonModule.obj.bsl"
+    },
+    "ВстраиваниеВСтандартныеФормы": {
+      "CommonModule.json": "core\\base\\ВстраиваниеВФормы\\Saby_ВстраиваниеВСтандартныеФормы\\CommonModule.json",
+      "CommonModule.obj.bsl": "core\\base\\ВстраиваниеВФормы\\Saby_ВстраиваниеВСтандартныеФормы\\CommonModule.obj.bsl"
+   }
+  },
+}

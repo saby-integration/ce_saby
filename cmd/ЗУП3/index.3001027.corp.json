@@ -1,0 +1,22 @@
+{
+  "index.json": [
+	"cmd\\ЗУП3\\index.base.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.picture.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.shared.json",
+	"sickleave\\cmd\\ЗУП3\\index.3001027.json",
+	"kedo\\cmd\\index.SSL3001007502.json",
+	"kedo\\cmd\\ЗУП3\\index.json",
+	"kedo\\cmd\\index.common.json"
+  ],
+  "DataProcessor": {
+    "СписокСотрудников": {
+        "*": "kedo\\base\\ФормаСпискаСотрудников",
+        "Form": {
+			"ФормаСпискаСотрудников": {
+				"*": "kedo\\base\\Form\\ФормаСпискаСотрудников"
+			}
+        }
+    }
+  }
+}
