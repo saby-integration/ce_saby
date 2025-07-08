@@ -1,0 +1,14 @@
+{
+  "index.json": [
+	"cmd\\KZP5\\index.base.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.picture.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.shared.json",
+	"kedo\\cmd\\index.common.json",
+	"kedo\\cmd\\KZP5\\index.modules.json",
+	"kedo\\cmd\\KZP5\\index.json",
+	"kedo\\cmd\\KZP5\\index.5000098.json",
+	"kedo\\cmd\\index.SSL3001007502.json",
+	"sickleave\\cmd\\KZP5\\index.5000098.json"
+  ]
+}
