@@ -1,0 +1,29 @@
+{
+  "index.json": [
+	"cmd\\ЗУПК3\\index.base.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.picture.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.shared.json",
+	"kedo\\cmd\\index.common.json",
+	"kedo\\cmd\\ЗУПК3\\index.json",
+	"kedo\\cmd\\index.common_Казахстан.json",
+	"sickleave\\cmd\\ЗУПК3\\index.3001028.json"
+  ],
+  "Области include": 
+  {
+	"core_base_Транспорт_МодульФормы": "core_base_Транспорт_МодульФормыFresh",
+	"core_base_Транспорт_SabyHttpsClient_МодульОбъекта": "core_base_Транспорт_SabyHttpsClient_МодульОбъектаFresh",
+	"core_base_Helpers_НастройкиПодключенияСписокДоменов": "core_base_Helpers_НастройкиПодключенияСписокДоменовFresh",
+	"core_base_Транспорт_ПолучениеКомпоненты": "core_base_Транспорт_ПолучениеКомпонентыFresh",
+	"core_base_АвтоматическиеОперации_ВызовФорм_УдалениеУзлаОбмена": "core_base_АвтоматическиеОперации_ВызовФорм_УдалениеУзлаОбменаFresh",
+	"core_base_ОсобенностиПлатформы_УстановитьРежимWebInWeb": "core_base_ОсобенностиПлатформы_УстановитьРежимWebInWebFresh",
+	"core_base_ВзаимодействиеСРегламентнымиЗаданиями": "core_base_ВзаимодействиеСРегламентнымиЗаданиямиFresh",
+	"core_base_РегламентныеЗадания": "core_base_РегламентныеЗаданияFresh",
+	"core_base_ОбщийМодульКонфигурации": "core_base_ОбщийМодульКонфигурацииFresh",
+	"base_CommonModule_ДополнительныеОтчетыИОбработки_CommonModule": "base_CommonModule_ДополнительныеОтчетыИОбработки_CommonModuleFresh",
+	"IntegrationBlockly_base_Blocks_ExtsyncdocWriteExtSysType": "IntegrationBlockly_base_Blocks_ExtsyncdocWriteExtSysTypeFresh",
+	"core_base_Транспорт_МодульExtSdk2": "core_base_Транспорт_МодульExtSdk2Fresh",
+	"core_base_Транспорт_МодульSabyPluginConnector": "core_base_Транспорт_МодульSabyPluginConnectorFresh",
+	"core_base_Транспорт_TransportCallMethodExtSDK2": "core_base_Транспорт_TransportCallMethodExtSDK2Fresh"
+  }
+}

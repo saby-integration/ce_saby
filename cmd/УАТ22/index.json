@@ -1,0 +1,59 @@
+{
+  "index.json": [
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.picture.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.shared.json",
+	"kedo\\cmd\\index.common.json",
+    "kedo\\cmd\\УАТ22\\index.json",
+	"kedo\\cmd\\УАТ22\\index.modules.json",
+	"etrn\\cmd\\УАТ22\\indexbase.json",
+	"etrn\\cmd\\УАТ22\\index.json"
+  ],
+  "Области include": {
+    "core_base_ОсобенностиПлатформы_МодульФормы": "core_base_ОсобенностиПлатформы_МодульФормыУФ",
+    "core_base_ОсобенностиПлатформы_РаботаСоСтроками": "core_base_ОсобенностиПлатформы_РаботаСоСтрокамиУФ",
+    "core_base_ОсобенностиПлатформы_МодульОбъекта": "core_base_ОсобенностиПлатформы_МодульОбъектаУФ",
+	"core_base_ОсобенностиПлатформы_РаботаСЭлементамиФормы": "core_base_ОсобенностиПлатформы_РаботаСЭлементамиУФ",
+    "base_src_ПроверкаДоступа_ПолучитьРольДляДоступаПоУмолчанию": "base_УАТ22_ПроверкаДоступа_ПолучитьРольДляДоступаПоУмолчанию",
+    "base_ОбъектыФормыИзПодсистемыКадры": "base_УАТ22_ОбъектыФормыИзПодсистемыКадры",
+    "core_base_АвтоматическиеОперации_МодульОбработки": "core_base_АвтоматическиеОперации_МодульОбработки",
+	"core_base_АвтоматическиеОперации_ВызовФорм": "core_base_АвтоматическиеОперации_ВызовФорм_Расширение",
+	"core_base_АвтоматическиеОперации_РегламентнаяОперация": "core_base_АвтоматическиеОперации_РегламентнаяОперацияУФ",
+	"core_base_Транспорт_МодульФормы": "core_base_Транспорт_МодульФормы",
+	"core_base_Транспорт_SabyHttpsClient_МодульОбъекта": "core_base_Транспорт_SabyHttpsClient_МодульОбъекта",
+  	"core_base_СтатусыДокументов_ПоказатьТекстСообщения": "base_CommonModule_ПоказатьТекстСообщения",
+    "core_base_СтатусыДокументов_ПереносСтатусов": "base_CommonModule_ПереносСтатусов",
+	"etrn_src_vo3_Module": "base_empty"
+  },
+  "ConfigurationExtension.json": "src\\УАТ22\\ConfigurationExtension.json",
+  "ConfigurationExtension.app.bsl": "src\\ConfigurationExtension.app.bsl",
+  "ExchangePlan": {
+    "МиграцияПриложений": {
+      "ExchangePlan.json": "src\\УАТ22\\ExchangePlan\\МиграцияПриложений\\ExchangePlan.json"
+    }
+  },  
+  "InformationRegister": {
+    "Состояние": {
+      "*": "src\\УАТ22\\InformationRegister\\Состояние"
+	}
+  },
+  "Role": {
+	"ОсновнаяРоль":{
+		"*":	"src\\УАТ22\\Role\\ОсновнаяРоль"
+	},
+	"ПолныеПрава":{
+		"*":	"src\\УАТ22\\Role\\ПолныеПрава"
+	}
+  },
+  "Subsystem": {
+     "SABY": {
+      "*": "src\\УАТ22\\Subsystem\\SABY"
+    }
+  },
+  "Language": {
+	"Русский": {
+		"*":	"src\\УАТ22\\Language\\Русский"
+	}
+  },  
+  "version.bin": "version.bin"
+}

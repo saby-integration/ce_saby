@@ -1,0 +1,2154 @@
+{
+    "BP3BitFinance_3000112": {
+        "bin": "bin/SABY_BP3BitFinance_3000112.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000112.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/БУХ3БитФинанс",
+        "temp": "temp"
+    },
+    "BP3BitFinance_3000112_test": {
+        "bin": "bin/SABY_BP3BitFinance_3000112_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000112.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/БУХ3БитФинанс",
+        "temp": "temp"
+    },
+    "BP3BitFinance_3000118": {
+        "bin": "bin/SABY_BP3BitFinance_3000118.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000118.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000118,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/БУХ3БитФинанс",
+        "temp": "temp"
+    },
+    "BP3BitFinance_3000118_test": {
+        "bin": "bin/SABY_BP3BitFinance_3000118_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000118.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000118,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/БУХ3БитФинанс",
+        "temp": "temp"
+    },
+    "BP3BitFinance_3000139": {
+        "bin": "bin/SABY_BP3BitFinance_3000139.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000139.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000139,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3БитФинанс",
+        "temp": "temp"
+    },
+    "BP3BitFinance_3000139_test": {
+        "bin": "bin/SABY_BP3BitFinance_3000139_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000139.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000139,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3БитФинанс",
+        "temp": "temp"
+    },
+    "BP3BitFinance_3000142": {
+        "bin": "bin/SABY_BP3BitFinance_3000142.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000142.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000142,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3БитФинанс",
+        "temp": "temp"
+    },
+    "BP3BitFinance_3000142_test": {
+        "bin": "bin/SABY_BP3BitFinance_3000142_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000142.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000142,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3БитФинанс",
+        "temp": "temp"
+    },
+    "BP3BitFinance_3000143": {
+        "bin": "bin/SABY_BP3BitFinance_3000143.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000143.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000143,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3БитФинанс",
+        "temp": "temp"
+    },
+    "BP3BitFinance_3000143_test": {
+        "bin": "bin/SABY_BP3BitFinance_3000143_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000143.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000143,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3БитФинанс",
+        "temp": "temp"
+    },
+    "BP3BitFinance_3000161": {
+        "bin": "bin/SABY_BP3BitFinance_3000161.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000161.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000161,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3БитФинанс",
+        "temp": "temp"
+    },
+    "BP3BitFinance_3000161_test": {
+        "bin": "bin/SABY_BP3BitFinance_3000161_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000161.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000161,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3БитФинанс",
+        "temp": "temp"
+    },
+    "BP3BitFinance_3000163": {
+        "bin": "bin/SABY_BP3BitFinance_3000163.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000163.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000163,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3БитФинанс",
+        "temp": "temp"
+    },
+    "BP3BitFinance_3000163_test": {
+        "bin": "bin/SABY_BP3BitFinance_3000163_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000163.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000163,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3БитФинанс",
+        "temp": "temp"
+    },
+
+	
+    "BP3CORP_3000112": {
+        "bin": "bin/SABY_BP3CORP_3000112.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000112.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+    "BP3CORP_3000112_test": {
+        "bin": "bin/SABY_BP3CORP_3000112_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000112.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+    "BP3CORP_3000118": {
+        "bin": "bin/SABY_BP3CORP_3000118.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000118.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000118,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+    "BP3CORP_3000118_test": {
+        "bin": "bin/SABY_BP3CORP_3000118_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000118.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000118,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+    "BP3CORP_3000139": {
+        "bin": "bin/SABY_BP3CORP_3000139.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000139.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000139,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+    "BP3CORP_3000139_test": {
+        "bin": "bin/SABY_BP3CORP_3000139_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000139.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000139,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+    "BP3CORP_3000142": {
+        "bin": "bin/SABY_BP3CORP_3000142.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000142.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000142,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+    "BP3CORP_3000142_test": {
+        "bin": "bin/SABY_BP3CORP_3000142_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000142.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000142,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+    "BP3CORP_3000143": {
+        "bin": "bin/SABY_BP3CORP_3000143.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000143.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000143,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+    "BP3CORP_3000143_test": {
+        "bin": "bin/SABY_BP3CORP_3000143_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000143.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000143,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+    "BP3CORP_3000161": {
+        "bin": "bin/SABY_BP3CORP_3000161.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000161.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000161,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+    "BP3CORP_3000161_test": {
+        "bin": "bin/SABY_BP3CORP_3000161_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000161.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000161,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+    "BP3CORP_3000163": {
+        "bin": "bin/SABY_BP3CORP_3000163.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000163.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000163,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+    "BP3CORP_3000163_test": {
+        "bin": "bin/SABY_BP3CORP_3000163_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000163.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000163,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+    "BP3CORP_FRESH": {
+        "bin": "bin/SABY_BP3CORP_FRESH.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.fresh.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000163,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+    "BP3CORP_FRESH_test": {
+        "bin": "bin/SABY_BP3CORP_FRESH_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.fresh.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000163,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3CORP",
+        "temp": "temp"
+    },
+	
+	
+    "BP3PROF_3000112": {
+        "bin": "bin/SABY_BP3PROF_3000112.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000112.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+    "BP3PROF_3000112_test": {
+        "bin": "bin/SABY_BP3PROF_3000112_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000112.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+    "BP3PROF_3000118": {
+        "bin": "bin/SABY_BP3PROF_3000118.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000118.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000118,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+    "BP3PROF_3000118_test": {
+        "bin": "bin/SABY_BP3PROF_3000118_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000118.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000118,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+    "BP3PROF_3000139": {
+        "bin": "bin/SABY_BP3PROF_3000139.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000139.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000139,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+    "BP3PROF_3000139_test": {
+        "bin": "bin/SABY_BP3PROF_3000139_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000139.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000139,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+    "BP3PROF_3000142": {
+        "bin": "bin/SABY_BP3PROF_3000142.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000142.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000142,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+    "BP3PROF_3000142_test": {
+        "bin": "bin/SABY_BP3PROF_3000142_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000142.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000142,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+    "BP3PROF_3000143": {
+        "bin": "bin/SABY_BP3PROF_3000143.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000143.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000143,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+    "BP3PROF_3000143_test": {
+        "bin": "bin/SABY_BP3PROF_3000143_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000143.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000143,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+    "BP3PROF_3000161": {
+        "bin": "bin/SABY_BP3PROF_3000161.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000161.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000161,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+    "BP3PROF_3000161_test": {
+        "bin": "bin/SABY_BP3PROF_3000161_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000161.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000161,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+    "BP3PROF_3000163": {
+        "bin": "bin/SABY_BP3PROF_3000163.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.3000163.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000163,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+    "BP3PROF_3000163_test": {
+        "bin": "bin/SABY_BP3PROF_3000163_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.3000163.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000163,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+    "BP3PROF_FRESH": {
+        "bin": "bin/SABY_BP3PROF_FRESH.cfe",
+        "disable": false,
+        "index": "cmd/БУХ3/index.fresh.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000163,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+    "BP3PROF_FRESH_test": {
+        "bin": "bin/SABY_BP3PROF_FRESH_test.cfe",
+        "disable": true,
+        "index": "cmd/БУХ3/index.fresh.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3000163,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/БУХ3PROF",
+        "temp": "temp"
+    },
+	
+	
+    "ERP25PROF_2005006": {
+        "bin": "bin/SABY_ERP25PROF_2005006.cfe",
+        "disable": false,
+        "index": "cmd/ERP25/index.2005006.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ERP25PROF",
+        "temp": "temp"
+    },
+    "ERP25PROF_2005006_test": {
+        "bin": "bin/SABY_ERP25PROF_2005006_test.cfe",
+        "disable": true,
+        "index": "cmd/ERP25/index.2005006.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ERP25PROF",
+        "temp": "temp"
+    },
+    "ERP25PROF_2005009": {
+        "bin": "bin/SABY_ERP25PROF_2005009.cfe",
+        "disable": false,
+        "index": "cmd/ERP25/index.2005009.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005009,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ERP25PROF",
+        "temp": "temp"
+    },
+    "ERP25PROF_2005009_test": {
+        "bin": "bin/SABY_ERP25PROF_2005009_test.cfe",
+        "disable": true,
+        "index": "cmd/ERP25/index.2005009.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005009,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ERP25PROF",
+        "temp": "temp"
+    },
+    "ERP25PROF_2005012": {
+        "bin": "bin/SABY_ERP25PROF_2005012.cfe",
+        "disable": false,
+        "index": "cmd/ERP25/index.2005012.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005012,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/ERP25PROF",
+        "temp": "temp"
+    },
+    "ERP25PROF_2005012_test": {
+        "bin": "bin/SABY_ERP25PROF_2005012_test.cfe",
+        "disable": true,
+        "index": "cmd/ERP25/index.2005012.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005012,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/ERP25PROF",
+        "temp": "temp"
+    },
+    "ERP25PROF_2005014": {
+        "bin": "bin/SABY_ERP25PROF_2005014.cfe",
+        "disable": false,
+        "index": "cmd/ERP25/index.2005014.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005014,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/ERP25PROF",
+        "temp": "temp"
+    },
+    "ERP25PROF_2005014_test": {
+        "bin": "bin/SABY_ERP25PROF_2005014_test.cfe",
+        "disable": true,
+        "index": "cmd/ERP25/index.2005014.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005014,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/ERP25PROF",
+        "temp": "temp"
+    },
+    "ERP25PROF_2005015": {
+        "bin": "bin/SABY_ERP25PROF_2005015.cfe",
+        "disable": false,
+        "index": "cmd/ERP25/index.2005015.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005015,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ERP25PROF",
+        "temp": "temp"
+    },
+    "ERP25PROF_2005015_test": {
+        "bin": "bin/SABY_ERP25PROF_2005015_test.cfe",
+        "disable": true,
+        "index": "cmd/ERP25/index.2005015.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005015,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ERP25PROF",
+        "temp": "temp"
+    },
+    "ERP25PROF_2005019": {
+        "bin": "bin/SABY_ERP25PROF_2005019.cfe",
+        "disable": false,
+        "index": "cmd/ERP25/index.2005019.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005019,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80324"
+        },
+        "src": "src/ERP25PROF",
+        "temp": "temp"
+    },
+    "ERP25PROF_2005019_test": {
+        "bin": "bin/SABY_ERP25PROF_2005019_test.cfe",
+        "disable": true,
+        "index": "cmd/ERP25/index.2005019.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005019,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80324"
+        },
+        "src": "src/ERP25PROF",
+        "temp": "temp"
+    },
+    "ERP25PROF_FRESH": {
+        "bin": "bin/SABY_ERP25PROF_FRESH.cfe",
+        "disable": false,
+        "index": "cmd/ERP25/index.fresh.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005019,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ERP25PROF",
+        "temp": "temp"
+    },
+    "ERP25PROF_FRESH_test": {
+        "bin": "bin/SABY_ERP25PROF_FRESH_test.cfe",
+        "disable": true,
+        "index": "cmd/ERP25/index.fresh.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005019,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ERP25PROF",
+        "temp": "temp"
+    },
+	
+	
+    "KA24PROF_2004014": {
+        "bin": "bin/SABY_KA24PROF_2004014.cfe",
+        "disable": false,
+        "index": "cmd/КА24/index.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/КА24PROF",
+        "temp": "temp"
+    },
+    "KA24PROF_2004014_test": {
+        "bin": "bin/SABY_KA24PROF_2004014_test.cfe",
+        "disable": true,
+        "index": "cmd/КА24/index.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/КА24PROF",
+        "temp": "temp"
+    },
+	
+	
+    "KA25PROF_2005010": {
+        "bin": "bin/SABY_KA25PROF_2005010.cfe",
+        "disable": false,
+        "index": "cmd/КА25/index.2005010.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/КА25PROF",
+        "temp": "temp"
+    },
+    "KA25PROF_2005010_test": {
+        "bin": "bin/SABY_KA25PROF_2005010_test.cfe",
+        "disable": true,
+        "index": "cmd/КА25/index.2005010.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/КА25PROF",
+        "temp": "temp"
+    },
+    "KA25PROF_2005012": {
+        "bin": "bin/SABY_KA25PROF_2005012.cfe",
+        "disable": false,
+        "index": "cmd/КА25/index.2005012.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005012,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/КА25PROF",
+        "temp": "temp"
+    },
+    "KA25PROF_2005012_test": {
+        "bin": "bin/SABY_KA25PROF_2005012_test.cfe",
+        "disable": true,
+        "index": "cmd/КА25/index.2005012.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005012,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/КА25PROF",
+        "temp": "temp"
+    },
+    "KA25PROF_2005014": {
+        "bin": "bin/SABY_KA25PROF_2005014.cfe",
+        "disable": false,
+        "index": "cmd/КА25/index.2005014.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005014,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/КА25PROF",
+        "temp": "temp"
+    },
+    "KA25PROF_2005014_test": {
+        "bin": "bin/SABY_KA25PROF_2005014_test.cfe",
+        "disable": true,
+        "index": "cmd/КА25/index.2005014.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005014,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80317"
+        },
+        "src": "src/КА25PROF",
+        "temp": "temp"
+    },
+    "KA25PROF_2005015": {
+        "bin": "bin/SABY_KA25PROF_2005015.cfe",
+        "disable": false,
+        "index": "cmd/КА25/index.2005015.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005015,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/КА25PROF",
+        "temp": "temp"
+    },
+    "KA25PROF_2005015_test": {
+        "bin": "bin/SABY_KA25PROF_2005015_test.cfe",
+        "disable": true,
+        "index": "cmd/КА25/index.2005015.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005015,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/КА25PROF",
+        "temp": "temp"
+    },
+    "KA25PROF_2005019": {
+        "bin": "bin/SABY_KA25PROF_2005019.cfe",
+        "disable": false,
+        "index": "cmd/КА25/index.2005019.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005019,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80324"
+        },
+        "src": "src/КА25PROF",
+        "temp": "temp"
+    },
+    "KA25PROF_2005019_test": {
+        "bin": "bin/SABY_KA25PROF_2005019_test.cfe",
+        "disable": true,
+        "index": "cmd/КА25/index.2005019.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005019,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80324"
+        },
+        "src": "src/КА25PROF",
+        "temp": "temp"
+    },
+    "KA25PROF_FRESH": {
+        "bin": "bin/SABY_KA25PROF_FRESH.cfe",
+        "disable": false,
+        "index": "cmd/КА25/index.fresh.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005015,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/КА25PROF",
+        "temp": "temp"
+    },
+    "KA25PROF_FRESH_test": {
+        "bin": "bin/SABY_KA25PROF_FRESH_test.cfe",
+        "disable": true,
+        "index": "cmd/КА25/index.fresh.json",
+        "options": {
+            "auto_include": true,
+            "descent": 2005015,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/КА25PROF",
+        "temp": "temp"
+    },
+
+	
+    "KZP5PROF_5000095": {
+        "bin": "bin/SABY_KZP5PROF_5000095.cfe",
+        "disable": false,
+        "index": "cmd/KZP5/index.5000095.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/KZP5PROF",
+        "temp": "temp"
+    },
+    "KZP5PROF_5000095_test": {
+        "bin": "bin/SABY_KZP5PROF_5000095_test.cfe",
+        "disable": true,
+        "index": "cmd/KZP5/index.5000095.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/KZP5PROF",
+        "temp": "temp"
+    },
+    "KZP5PROF_5000098": {
+        "bin": "bin/SABY_KZP5PROF_5000098.cfe",
+        "disable": false,
+        "index": "cmd/KZP5/index.5000098.json",
+        "options": {
+            "auto_include": true,
+            "descent": 5000098,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/KZP5PROF",
+        "temp": "temp"
+    },
+    "KZP5PROF_5000098_test": {
+        "bin": "bin/SABY_KZP5PROF_5000098_test.cfe",
+        "disable": true,
+        "index": "cmd/KZP5/index.5000098.json",
+        "options": {
+            "auto_include": true,
+            "descent": 5000098,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/KZP5PROF",
+        "temp": "temp"
+    },
+    "KZP5PROF_5000103": {
+        "bin": "bin/SABY_KZP5PROF_5000103.cfe",
+        "disable": false,
+        "index": "cmd/KZP5/index.5000103.json",
+        "options": {
+            "auto_include": true,
+            "descent": 5000103,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/KZP5PROF",
+        "temp": "temp"
+    },
+    "KZP5PROF_5000103_test": {
+        "bin": "bin/SABY_KZP5PROF_5000103_test.cfe",
+        "disable": true,
+        "index": "cmd/KZP5/index.5000103.json",
+        "options": {
+            "auto_include": true,
+            "descent": 5000103,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/KZP5PROF",
+        "temp": "temp"
+    },
+	
+	
+    "UAT22_2022401": {
+        "bin": "bin/SABY_UAT22_2022401.cfe",
+        "disable": false,
+        "index": "cmd/УАТ22/index.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/УАТ22PROF",
+        "temp": "temp"
+    },
+    "UAT22_2022401_test": {
+        "bin": "bin/SABY_UAT22_2022401_test.cfe",
+        "disable": true,
+        "index": "cmd/УАТ22/index.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/УАТ22PROF",
+        "temp": "temp"
+    },
+    "UAT22PROF_2022401": {
+        "bin": "bin/SABY_UAT22PROF_2022401.cfe",
+        "disable": false,
+        "index": "cmd/УАТ22/index.PROF.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/УАТ22PROF",
+        "temp": "temp"
+    },
+    "UAT22PROF_2022401_test": {
+        "bin": "bin/SABY_UAT22PROF_2022401_test.cfe",
+        "disable": true,
+        "index": "cmd/УАТ22/index.PROF.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/УАТ22PROF",
+        "temp": "temp"
+    },
+	
+	
+    "UT11PROF_1100414": {
+        "bin": "bin/SABY_UT11PROF_1100414.cfe",
+        "disable": false,
+        "index": "cmd/УТ11/index.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/УТ11PROF",
+        "temp": "temp"
+    },
+    "UT11PROF_1100414_test": {
+        "bin": "bin/SABY_UT11PROF_1100414_test.cfe",
+        "disable": true,
+        "index": "cmd/УТ11/index.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/УТ11PROF",
+        "temp": "temp"
+    },
+  "UT11PROF_1100512": {
+        "bin": "bin/SABY_UT11PROF_1100512.cfe",
+        "disable": false,
+        "index": "cmd/УТ11/index.1100512.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/УТ11PROF",
+        "temp": "temp"
+    },
+    "UT11PROF_1100512_test": {
+        "bin": "bin/SABY_UT11PROF_1100512_test.cfe",
+        "disable": true,
+        "index": "cmd/УТ11/index.1100512.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/УТ11PROF",
+        "temp": "temp"
+    },
+	
+	
+    "vo3_kedo_scheduled_job": {
+        "bin": "bin/vo3_kedo_scheduled_job.epf",
+        "disable": false,
+        "index": "cmd/vo3_kedo_scheduled_job/index.json",
+        "options": {
+            "auto_include": true,
+            "descent": null,
+            "gui": null,
+            "version": "80314"
+        },
+        "src": "vo3_kedo_scheduled_job/src",
+        "temp": "temp"
+    },
+    "vo3_kedo_scheduled_job_test": {
+        "bin": "bin/vo3_kedo_scheduled_job.test.epf",
+        "disable": true,
+        "index": "cmd/vo3_kedo_scheduled_job/index.json",
+        "options": {
+            "auto_include": true,
+            "descent": null,
+            "gui": null,
+            "version": "80314"
+        },
+        "src": "vo3_kedo_scheduled_job/src",
+        "temp": "temp"
+    },
+	
+
+    "ZUP3CORP_3001019": {
+        "bin": "bin/SABY_ZUP3CORP_3001019.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001019.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3CORP",
+        "temp": "temp"
+    },
+    "ZUP3CORP_3001019_test": {
+        "bin": "bin/SABY_ZUP3CORP_3001019_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001019.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3CORP",
+        "temp": "temp"
+    },
+    "ZUP3CORP_3001023": {
+        "bin": "bin/SABY_ZUP3CORP_3001023.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001023.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001023,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3CORP",
+        "temp": "temp"
+    },
+    "ZUP3CORP_3001023_test": {
+        "bin": "bin/SABY_ZUP3CORP_3001023_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001023.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001023,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3CORP",
+        "temp": "temp"
+    },
+    "ZUP3CORP_3001027": {
+        "bin": "bin/SABY_ZUP3CORP_3001027.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001027.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001027,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3CORP",
+        "temp": "temp"
+    },
+    "ZUP3CORP_3001027_test": {
+        "bin": "bin/SABY_ZUP3CORP_3001027_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001027.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001027,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3CORP",
+        "temp": "temp"
+    },
+    "ZUP3CORP_3001028": {
+        "bin": "bin/SABY_ZUP3CORP_3001028.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001028.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001028,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3CORP",
+        "temp": "temp"
+    },
+    "ZUP3CORP_3001028_test": {
+        "bin": "bin/SABY_ZUP3CORP_3001028_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001028.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001028,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3CORP",
+        "temp": "temp"
+    },
+    "ZUP3CORP_3001030": {
+        "bin": "bin/SABY_ZUP3CORP_3001030.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001030.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001030,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80324"
+        },
+        "src": "src/ЗУП3CORP",
+        "temp": "temp"
+    },
+    "ZUP3CORP_3001030_test": {
+        "bin": "bin/SABY_ZUP3CORP_3001030_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001030.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001030,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80324"
+        },
+        "src": "src/ЗУП3CORP",
+        "temp": "temp"
+    },
+    "ZUP3CORP_FRESH": {
+        "bin": "bin/SABY_ZUP3CORP_FRESH.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.fresh.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001030,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3CORP",
+        "temp": "temp"
+    },
+    "ZUP3CORP_FRESH_test": {
+        "bin": "bin/SABY_ZUP3CORP_FRESH_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.fresh.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001030,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3CORP",
+        "temp": "temp"
+    },
+	
+	
+    "ZUP3PROF_3001019": {
+        "bin": "bin/SABY_ZUP3PROF_3001019.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001019.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3PROF",
+        "temp": "temp"
+    },
+    "ZUP3PROF_3001019_test": {
+        "bin": "bin/SABY_ZUP3PROF_3001019_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001019.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3PROF",
+        "temp": "temp"
+    },
+    "ZUP3PROF_3001023": {
+        "bin": "bin/SABY_ZUP3PROF_3001023.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001023.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001023,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3PROF",
+        "temp": "temp"
+    },
+    "ZUP3PROF_3001023_test": {
+        "bin": "bin/SABY_ZUP3PROF_3001023_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001023.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001023,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3PROF",
+        "temp": "temp"
+    },
+    "ZUP3PROF_3001027": {
+        "bin": "bin/SABY_ZUP3PROF_3001027.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001027.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001027,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3PROF",
+        "temp": "temp"
+    },
+    "ZUP3PROF_3001027_test": {
+        "bin": "bin/SABY_ZUP3PROF_3001027_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001027.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001027,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3PROF",
+        "temp": "temp"
+    },
+    "ZUP3PROF_3001028": {
+        "bin": "bin/SABY_ZUP3PROF_3001028.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001028.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001028,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3PROF",
+        "temp": "temp"
+    },
+    "ZUP3PROF_3001028_test": {
+        "bin": "bin/SABY_ZUP3PROF_3001028_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001028.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001028,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3PROF",
+        "temp": "temp"
+    },
+    "ZUP3PROF_3001030": {
+        "bin": "bin/SABY_ZUP3PROF_3001030.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001030.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001030,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80324"
+        },
+        "src": "src/ЗУП3PROF",
+        "temp": "temp"
+    },
+    "ZUP3PROF_3001030_test": {
+        "bin": "bin/SABY_ZUP3PROF_3001030_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001030.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001030,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80324"
+        },
+        "src": "src/ЗУП3PROF",
+        "temp": "temp"
+    },
+    "ZUP3PROF_FRESH": {
+        "bin": "bin/SABY_ZUP3PROF_FRESH.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.fresh.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001030,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3PROF",
+        "temp": "temp"
+    },
+    "ZUP3PROF_FRESH_test": {
+        "bin": "bin/SABY_ZUP3PROF_FRESH_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.fresh.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001030,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3PROF",
+        "temp": "temp"
+    },
+	
+	
+    "ZUP3ZKGU3CORP_3001019": {
+        "bin": "bin/SABY_ZUP3ZKGU3CORP_3001019.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001019.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3ЗКГУ3CORP",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3CORP_3001019_test": {
+        "bin": "bin/SABY_ZUP3ZKGU3CORP_3001019_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001019.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3ЗКГУ3CORP",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3CORP_3001023": {
+        "bin": "bin/SABY_ZUP3ZKGU3CORP_3001023.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001023.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001023,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3ЗКГУ3CORP",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3CORP_3001023_test": {
+        "bin": "bin/SABY_ZUP3ZKGU3CORP_3001023_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001023.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001023,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3ЗКГУ3CORP",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3CORP_3001027": {
+        "bin": "bin/SABY_ZUP3ZKGU3CORP_3001027.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001027.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001027,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3ЗКГУ3CORP",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3CORP_3001027_test": {
+        "bin": "bin/SABY_ZUP3ZKGU3CORP_3001027_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001027.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001027,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3ЗКГУ3CORP",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3CORP_3001028": {
+        "bin": "bin/SABY_ZUP3ZKGU3CORP_3001028.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001028.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001028,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3ЗКГУ3CORP",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3CORP_3001028_test": {
+        "bin": "bin/SABY_ZUP3ZKGU3CORP_3001028_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001028.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001028,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3ЗКГУ3CORP",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3CORP_3001030": {
+        "bin": "bin/SABY_ZUP3ZKGU3CORP_3001030.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001030.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001030,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80324"
+        },
+        "src": "src/ЗУП3ЗКГУ3CORP",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3CORP_3001030_test": {
+        "bin": "bin/SABY_ZUP3ZKGU3CORP_3001030_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001030.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001030,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80324"
+        },
+        "src": "src/ЗУП3ЗКГУ3CORP",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3CORP_fresh": {
+        "bin": "bin/SABY_ZUP3ZKGU3CORP_fresh.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.fresh.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001030,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3ЗКГУ3CORP",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3CORP_fresh_test": {
+        "bin": "bin/SABY_ZUP3ZKGU3CORP_fresh_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.fresh.corp.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001030,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3ЗКГУ3CORP",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3PROF_3001019": {
+        "bin": "bin/SABY_ZUP3ZKGU3PROF_3001019.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001019.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3ЗКГУ3PROF",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3PROF_3001019_test": {
+        "bin": "bin/SABY_ZUP3ZKGU3PROF_3001019_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001019.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3ЗКГУ3PROF",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3PROF_3001023": {
+        "bin": "bin/SABY_ZUP3ZKGU3PROF_3001023.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001023.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001023,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3ЗКГУ3PROF",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3PROF_3001023_test": {
+        "bin": "bin/SABY_ZUP3ZKGU3PROF_3001023_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001023.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001023,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3ЗКГУ3PROF",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3PROF_3001027": {
+        "bin": "bin/SABY_ZUP3ZKGU3PROF_3001027.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001027.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001027,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3ЗКГУ3PROF",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3PROF_3001027_test": {
+        "bin": "bin/SABY_ZUP3ZKGU3PROF_3001027_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001027.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001027,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80316"
+        },
+        "src": "src/ЗУП3ЗКГУ3PROF",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3PROF_3001028": {
+        "bin": "bin/SABY_ZUP3ZKGU3PROF_3001028.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001028.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001028,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3ЗКГУ3PROF",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3PROF_3001028_test": {
+        "bin": "bin/SABY_ZUP3ZKGU3PROF_3001028_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001028.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001028,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3ЗКГУ3PROF",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3PROF_3001030": {
+        "bin": "bin/SABY_ZUP3ZKGU3PROF_3001030.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.3001030.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001030,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80324"
+        },
+        "src": "src/ЗУП3ЗКГУ3PROF",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3PROF_3001030_test": {
+        "bin": "bin/SABY_ZUP3ZKGU3PROF_3001030_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.3001030.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001030,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80324"
+        },
+        "src": "src/ЗУП3ЗКГУ3PROF",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3PROF_fresh": {
+        "bin": "bin/SABY_ZUP3ZKGU3PROF_fresh.cfe",
+        "disable": false,
+        "index": "cmd/ЗУП3/index.fresh.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001028,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3ЗКГУ3PROF",
+        "temp": "temp"
+    },
+    "ZUP3ZKGU3PROF_fresh_test": {
+        "bin": "bin/SABY_ZUP3ZKGU3PROF_fresh_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУП3/index.fresh.json",
+        "options": {
+            "auto_include": true,
+            "descent": 3001028,
+            "gui": null,
+            "prefix": "Saby_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУП3ЗКГУ3PROF",
+        "temp": "temp"
+    },
+	
+	
+    "ZUPK3PROF_3001021": {
+        "bin": "bin/SETTY_ZUPK3PROF_3001021.cfe",
+        "disable": false,
+        "index": "cmd/ЗУПК3/index.3001021.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Setty_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУПК3PROF",
+        "temp": "temp"
+    },
+    "ZUPK3PROF_3001021_test": {
+        "bin": "bin/SETTY_ZUPK3PROF_3001021_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУПК3/index.3001021.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Setty_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУПК3PROF",
+        "temp": "temp"
+    },
+    "ZUPK3PROF_FRESH": {
+        "bin": "bin/SETTY_ZUPK3PROF_FRESH.cfe",
+        "disable": false,
+        "index": "cmd/ЗУПК3/index.3001021.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Setty_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУПК3PROF",
+        "temp": "temp"
+    },
+    "ZUPK3PROF_FRESH_test": {
+        "bin": "bin/SETTY_ZUPK3PROF_FRESH_test.cfe",
+        "disable": true,
+        "index": "cmd/ЗУПК3/index.3001021.json",
+        "options": {
+            "auto_include": true,
+            "descent": 0,
+            "gui": null,
+            "prefix": "Setty_",
+            "product": "KEDO",
+            "version": "80321"
+        },
+        "src": "src/ЗУПК3PROF",
+        "temp": "temp"
+    }
+}
