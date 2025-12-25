@@ -1,0 +1,10 @@
+{
+  "index.json": [
+	"cmd\\КА25\\united.index.base.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.picture.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.shared.json",
+	"kedo\\cmd\\index.common.json",
+	"kedo\\cmd\\КА25\\united.index.json"
+  ]
+}
