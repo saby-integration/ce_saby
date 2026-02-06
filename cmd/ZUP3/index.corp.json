@@ -1,0 +1,20 @@
+{
+  "index.json": [
+	"cmd\\ZUP3\\index.base.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.picture.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.shared.json",
+	"kedo\\cmd\\ZUP3\\index.json",
+	"kedo\\cmd\\index.common.json"
+  ],
+  "DataProcessor": {
+    "СписокСотрудников": {
+        "*": "kedo\\base\\ФормаСпискаСотрудников",
+        "Form": {
+			"ФормаСпискаСотрудников": {
+				"*": "kedo\\base\\Form\\ФормаСпискаСотрудников"
+			}
+        }
+    }
+  }
+}
