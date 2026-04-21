@@ -1,0 +1,66 @@
+{
+  "Области include": {
+    "core_base_ОсобенностиПлатформы_МодульФормы": "core_base_ОсобенностиПлатформы_МодульФормыУФ",
+    "core_base_ОсобенностиПлатформы_РаботаСоСтроками": "core_base_ОсобенностиПлатформы_РаботаСоСтрокамиУФ",
+    "core_base_ОсобенностиПлатформы_МодульОбъекта": "core_base_ОсобенностиПлатформы_МодульОбъектаУФ",
+	"core_base_ОсобенностиПлатформы_РаботаСЭлементамиФормы": "core_base_ОсобенностиПлатформы_РаботаСЭлементамиУФ",
+	"core_base_АвтоматическиеОперации_МодульОбработки": "core_base_АвтоматическиеОперации_МодульОбработки",
+	"core_base_АвтоматическиеОперации_ВызовФорм": "core_base_АвтоматическиеОперации_ВызовФорм_Расширение",
+	"core_base_АвтоматическиеОперации_РегламентнаяОперация": "core_base_АвтоматическиеОперации_РегламентнаяОперацияУФ",
+	"core_base_Транспорт_МодульФормы": "core_base_Транспорт_МодульФормы",
+	"core_base_Транспорт_SabyHttpsClient_МодульОбъекта": "core_base_Транспорт_SabyHttpsClient_МодульОбъекта",
+  "etrn_src_vo3_Module": "base_empty",
+     "IntegrationBlockly_base_Blocks_C1CalculateNoSafeMode": "IntegrationBlockly_base_Blocks_C1CalculateNoSafeModeFresh",
+	"IntegrationBlockly_base_Blocks_C1Execute2NoSafeMode": "IntegrationBlockly_base_Blocks_C1Execute2NoSafeModeFresh",
+    "IntegrationBlockly_base_Blocks_C1Execute3CalcNoSafeMode": "IntegrationBlockly_base_Blocks_C1Execute3CalcNoSafeModeFresh"
+ 
+  },
+  "ConfigurationExtension.json": "src\\ZUP3\\ConfigurationExtension.json",
+  "ConfigurationExtension.app.bsl": "src\\ConfigurationExtension.app.bsl",
+  "Catalog": {
+    "СостоянияОбъектов": {
+      "*": "core\\base\\СтатусыSABY\\СостоянияОбъектов",
+      "Catalog.mgr.bsl": "core\\base\\СтатусыSABY\\СостоянияОбъектов\\Catalog.mgr.bsl"
+    }
+  },
+  "ExchangePlan": {
+    "МиграцияПриложений": {
+      "*": "src\\ZUP3\\ExchangePlan\\МиграцияПриложений"
+    }
+  },
+  "CommonModule": {
+    "Core": {
+      "*": "core\\base\\БазовыеКомпоненты\\Модули\\Core"
+    },
+    "ДополнительныеОтчетыИОбработки": {
+      "*": "base\\CommonModule\\ДополнительныеОтчетыИОбработки"
+    },
+	"ПодпискиНаСобытия": {
+      "*": "base\\CommonModule\\ПодпискиНаСобытия"
+    }
+  },
+  "InformationRegister": {
+  },
+  "Role": {
+	"ОсновнаяРоль":{
+		"*":	"src\\ZUP3\\Role\\ОсновнаяРоль"
+	},
+	"БазовыеПраваБИД":{
+		"*":	"src\\ZUP3\\Role\\БазовыеПраваБИД"
+	},
+	"ПолныеПрава":{
+		"*":	"src\\ZUP3\\Role\\ПолныеПрава"
+	}
+  },
+  "Subsystem": {
+     "SABY": {
+		"*":	"src\\ZUP3\\Subsystem\\SABY"
+    }
+  },
+  "Language": {
+	"Русский": {
+		"*":	"src\\ZUP3\\Language\\Русский"
+	}
+  },  
+  "version.bin": "version.bin"
+}

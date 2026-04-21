@@ -1,0 +1,68 @@
+{
+  "Области include": {
+     "core_base_ОсобенностиПлатформы_МодульФормы": "core_base_ОсобенностиПлатформы_МодульФормыУФ",
+    "core_base_ОсобенностиПлатформы_РаботаСоСтроками": "core_base_ОсобенностиПлатформы_РаботаСоСтрокамиУФ",
+    "core_base_ОсобенностиПлатформы_МодульОбъекта": "core_base_ОсобенностиПлатформы_МодульОбъектаУФ",
+	"core_base_ОсобенностиПлатформы_РаботаСЭлементамиФормы": "core_base_ОсобенностиПлатформы_РаботаСЭлементамиУФ",
+    "base_src_ПроверкаДоступа_ПолучитьРолиДляДоступа": "base_БУХ3_ПроверкаДоступа_ПолучитьРолиДляДоступа",
+    "core_base_АвтоматическиеОперации_МодульОбработки": "core_base_АвтоматическиеОперации_МодульОбработки",
+	"core_base_АвтоматическиеОперации_ВызовФорм": "core_base_АвтоматическиеОперации_ВызовФорм_Расширение",
+	"core_base_АвтоматическиеОперации_РегламентнаяОперация": "core_base_АвтоматическиеОперации_РегламентнаяОперацияУФ",
+	"core_base_Транспорт_МодульФормы": "core_base_Транспорт_МодульФормы",
+	"core_base_Транспорт_SabyHttpsClient_МодульОбъекта": "core_base_Транспорт_SabyHttpsClient_МодульОбъекта",
+	"kedo_base_Form_ДокументыКЭДО_СписокПриАктивизацииСтроки": "kedo_base_Form_ДокументыКЭДО_СписокПриАктивизацииСтрокиБУХ3",
+	"etrn_src_vo3_Module": "base_empty",
+	"core_base_ВстраиваниеВФормы_ИмяПоляСтыковки": "core_base_ВстраиваниеВФормы_ИмяПоляСтыковкиБУХ3",
+	"IntegrationBlockly_base_Blocks_C1CalculateNoSafeMode": "IntegrationBlockly_base_Blocks_C1CalculateNoSafeModeFresh",
+	    "IntegrationBlockly_base_Blocks_C1Execute2NoSafeMode": "IntegrationBlockly_base_Blocks_C1Execute2NoSafeModeFresh",
+        "IntegrationBlockly_base_Blocks_C1Execute3CalcNoSafeMode": "IntegrationBlockly_base_Blocks_C1Execute3CalcNoSafeModeFresh"  
+  },
+  "ConfigurationExtension.json": "src\\BUH3\\ConfigurationExtension.json",
+  "ConfigurationExtension.app.bsl": "src\\ConfigurationExtension.app.bsl",
+  "Catalog": {
+    "СостоянияОбъектов": {
+      "*": "core\\base\\СтатусыSABY\\СостоянияОбъектов",
+      "Catalog.mgr.bsl": "core\\base\\СтатусыSABY\\СостоянияОбъектов\\Catalog.mgr.bsl"
+    }
+  },
+  "ExchangePlan": {
+    "МиграцияПриложений": {
+      "*": "src\\BUH3\\ExchangePlan\\МиграцияПриложений"
+    }
+  },
+  "CommonModule": {
+    "Core": {
+      "*": "core\\base\\БазовыеКомпоненты\\Модули\\Core"
+    },
+    "ДополнительныеОтчетыИОбработки": {
+      "*": "base\\CommonModule\\ДополнительныеОтчетыИОбработки"
+    },
+	"ПодпискиНаСобытия": {
+      "*": "base\\CommonModule\\ПодпискиНаСобытия"
+    }
+  },
+  "InformationRegister": {
+  },
+  "Role": {
+	"ОсновнаяРоль":{
+		"*":	"src\\BUH3\\Role\\ОсновнаяРоль"
+	},
+	"БазовыеПраваБП":{
+		"*":	"src\\BUH3\\Role\\БазовыеПраваБП"
+	},
+	"ПолныеПрава":{
+		"*":	"src\\BUH3\\Role\\ПолныеПрава"
+	}
+  },
+  "Subsystem": {
+     "SABY": {
+      "*": "src\\BUH3\\Subsystem\\SABY"
+    }
+  },
+  "Language": {
+	"Русский": {
+		"*":	"src\\BUH3\\Language\\Русский"
+	}
+  },  
+  "version.bin": "version.bin"
+}
