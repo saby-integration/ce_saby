@@ -1,0 +1,9 @@
+
+#Область includr_core_base_Helpers_ПрефиксПродукта
+#КонецОбласти
+
+#Область include_base_CommonModule_ДополнительныеОтчетыИОбработки_CommonModule
+#КонецОбласти
+
+#Область include_base_CommonModule_ИменаМодулейСервер
+#КонецОбласти
