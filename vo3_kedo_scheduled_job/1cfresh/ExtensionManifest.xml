@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Info xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ExtensionManifest xmlns="http://www.1c.ru/1cFresh/ApplicationExtensions/Manifest/1.0.0.2">
+		<Name>SABY_ФЗ</Name>
+		<ObjectName>SABY_ФЗ</ObjectName>
+		<Version>3.0.0.3</Version>
+		<Category>AdditionalProcessor</Category>
+		<Description>SABY_ФЗ</Description>
+		<Assignment xsi:type="ExtensionSubsystemsAssignment">
+			<Objects>
+				<ObjectName xsi:type="xs:string">Подсистема.Администрирование</ObjectName>
+				<Representation>Администрирование</Representation>
+				<Enabled>true</Enabled>
+				<ObjectType>SubSystem</ObjectType>
+			</Objects>
+			<Objects>
+				<ObjectName xsi:type="xs:string">Подсистема.Администрирование</ObjectName> 
+				<Representation>НСИ и администрирование</Representation> 
+				<Enabled>true</Enabled> 
+				<ObjectType>SubSystem</ObjectType> 
+			</Objects>			
+		</Assignment>
+		<Commands>
+			<Id>Загрузка ЭТрН из СБИС</Id>
+			<Representation>Загрузка ЭТрН из СБИС</Representation>
+			<StartupType>ServerCall</StartupType>
+			<ShowNotification>true</ShowNotification>
+			<Modifier xsi:type="xs:string"/>
+		</Commands>
+		<Commands>
+			<Id>Выгрузка ЭТрН в СБИС</Id>
+			<Representation>Выгрузка ЭТрН в СБИС</Representation>
+			<StartupType>ServerCall</StartupType>
+			<ShowNotification>true</ShowNotification>
+			<Modifier xsi:type="xs:string"/>
+		</Commands>
+		<Commands>
+			<Id>Обновление статусов</Id>
+			<Representation>Обновление статусов</Representation>
+			<StartupType>ServerCall</StartupType>
+			<ShowNotification>true</ShowNotification>
+			<Modifier xsi:type="xs:string"/>
+		</Commands>
+		<FileName>vo3_kedo_scheduled_job.epf</FileName>
+		<UseReportVariantsStorage>false</UseReportVariantsStorage>
+	</ExtensionManifest>
+</Info>
