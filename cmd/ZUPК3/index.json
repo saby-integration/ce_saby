@@ -1,0 +1,11 @@
+{
+  "index.json": [
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.picture.json",
+	"core\\base\\БазовыеКомпоненты\\DataProcessor\\index.shared.json",
+	"kedo\\cmd\\index.common.json",
+	"cmd\\ZUPК3\\index.base.json",
+	"kedo\\cmd\\ZUPК3\\index.json",
+	"kedo\\cmd\\index.common_Казахстан.json"
+  ]
+}
